@@ -3,9 +3,12 @@ import localFont from "next/font/local";
 import "@/styles/globals.css";
 import { ThemeProvider } from "@/providers/theme-provider"
 import { ModeToggle } from "@/components/theme-toogle";
-import { CircleHelp } from "lucide-react";
+import { Calendar, CircleHelp } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
+import { DatePickerDemo } from "@/components/date-picker";
+import Header from "@/components/header";
+import Footer from "@/components/footer";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -15,31 +18,16 @@ export const metadata: Metadata = {
 
 export default function AppLayout({ children }: { children: React.ReactNode }) {
   return (
-    <div className="flex flex-col h-full bg-background text-foreground">
-{/*       <header className="">
-        add calendar
-      </header> */}
+    <div className="flex flex-col h-full">
+      <Header/>
 
-      <main className="flex flex-1 flex-col">
-        <p className="text-4xl mt-8">
-          Aujourd'hui, célébrons
-        </p>
-        <div className="flex flex-1 items-center justify-center px-8">
+      <main className="grow">
+        <div className="flex items-center justify-center px-8">
           {children}
         </div>
       </main>
 
-      <footer className="py-4 px-8">
-        <div className="flex gap-2 justify-end">
-          <ModeToggle />
-          <Link href="/about">
-            <Button variant="outline" size="icon">
-              <CircleHelp />
-              <span className="sr-only">Help</span>
-            </Button>
-          </Link>
-        </div>
-      </footer>
+      <Footer/>
     </div>
   )
 }
