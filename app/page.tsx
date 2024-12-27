@@ -10,5 +10,5 @@ export default function Home() {
     <TodayCelebrationLayout>
       <CelebrationCard />
     </TodayCelebrationLayout>
-  );
+  )
 }
