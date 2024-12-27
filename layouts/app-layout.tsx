@@ -9,6 +9,7 @@ import Link from "next/link";
 import { DatePickerDemo } from "@/components/date-picker";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import {ConfigDropdown} from "@/components/config-dropdown";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -20,14 +21,13 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
   return (
     <div className="flex flex-col h-full">
       <Header/>
-
       <main className="grow">
-        <div className="flex items-center justify-center px-8">
-          {children}
-        </div>
+        {children}
       </main>
-
-      <Footer/>
+      {/* <Footer/> */}
+      <div className="sticky bottom-0 right-0 z-100 bg-transparent m-4 p-4">
+        <ConfigDropdown/>
+      </div>
     </div>
   )
 }

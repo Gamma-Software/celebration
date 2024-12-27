@@ -14,7 +14,7 @@ export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
-    <header className="shadow-sm">
+    <header className="shadow-sm sticky top-0 z-50 bg-background h-[84px]">
       <nav aria-label="Global" className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-0">
         <div className="flex lg:flex-1 items-center gap-2">
           <span className="sr-only">Célébrations calendaires</span>

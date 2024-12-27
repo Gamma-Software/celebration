@@ -1,8 +1,10 @@
+import { Button } from "@/components/ui/button";
+
 export default function Celebration() {
   return (
-    <div className="">
+    <div className="bg-transparent">
       <div className="mx-auto max-w-7xl py-24 sm:px-6 sm:py-32 lg:px-8">
-        <div className="relative isolate overflow-hidden bg-gray-900 px-6 pt-16 shadow-2xl sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-24 lg:pt-0">
+        <div className="relative isolate overflow-hidden bg-transparent border-t-2 px-6 pt-16 shadow-2xl sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-24 lg:pt-0">
           <svg
             viewBox="0 0 1024 1024"
             aria-hidden="true"
@@ -17,19 +19,14 @@ export default function Celebration() {
             </defs>
           </svg>
           <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto lg:py-32 lg:text-left">
-            <h1 className="absolute text-xl font-bold text-white sm:text-xl top-5 left-5">
-              16 November 2025
-            </h1>
-            <h2 className="mt-4 text-3xl font-semibold tracking-tight text-balance text-white sm:text-4xl">
-              Journée internationale de la tolérance
+            <h2 className="text-3xl font-semibold tracking-tight text-balance  sm:text-4xl">
+              Fête de Guy Fawkes
             </h2>
-            <p className="mt-6 text-lg/8 text-pretty text-gray-300">
-              Journée dédiée à la promotion de la tolérance et du respect entre les cultures.
+            <p className="mt-6 text-lg/8 text-pretty">
+              Célébration britannique marquée par des feux d'artifice et des feux de joie, commémorant l'échec de la conspiration des poudres en 1605.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
-              <a href="#" className="text-sm/6 font-semibold text-white">
-                En savoir plus <span aria-hidden="true">→</span>
-              </a>
+              <Button variant="outline" className="text-sm/6 font-semibold">En savoir plus <span aria-hidden="true">→</span></Button>
             </div>
           </div>
           <div className="relative mt-16 h-80 lg:mt-8">
