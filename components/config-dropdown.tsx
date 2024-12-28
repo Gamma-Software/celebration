@@ -36,12 +36,6 @@ export function ConfigDropdown() {
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="w-56">
-        <DropdownMenuGroup>
-          <DropdownMenuItem>
-            <BookOpen />
-            <span>En savoir plus</span>
-          </DropdownMenuItem>
-        </DropdownMenuGroup>
         <DropdownMenuLabel>Configuration</DropdownMenuLabel>
         <DropdownMenuSub>
             <DropdownMenuSubTrigger>
@@ -79,7 +73,7 @@ export function ConfigDropdown() {
             </DropdownMenuPortal>
           </DropdownMenuSub>
         <DropdownMenuSeparator />
-        <DropdownMenuLabel>Autres</DropdownMenuLabel>
+        <DropdownMenuLabel>Autre</DropdownMenuLabel>
         <DropdownMenuGroup>
           <DropdownMenuItem>
             <MessageSquare />

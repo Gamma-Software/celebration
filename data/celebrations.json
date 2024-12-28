@@ -1,0 +1,2201 @@
+{
+  "0101": {
+    "date": "1er janvier",
+    "name": "Jour de l'An",
+    "description": "Célébration mondiale marquant le début de la nouvelle année selon le calendrier grégorien.",
+    "origin": "Célébration mondiale"
+  },
+  "0102": {
+    "date": "2 janvier",
+    "name": "Berchtoldstag",
+    "description": "Fête célébrée en Suisse",
+    "origin": "notamment dans le canton de Zurich"
+  },
+  "0103": {
+    "date": "3 janvier",
+    "name": "Fête de Sainte Geneviève",
+    "description": "Commémoration de Sainte Geneviève",
+    "origin": "patronne de Paris."
+  },
+  "0104": {
+    "date": "4 janvier",
+    "name": "Journée mondiale du braille",
+    "description": "Journée internationale célébrant l'importance du braille pour les personnes aveugles et malvoyantes.",
+    "origin": "Initiative mondiale"
+  },
+  "0105": {
+    "date": "5 janvier",
+    "name": "Nuit des Rois",
+    "description": "Veille de l'Épiphanie",
+    "origin": "célébrée dans certaines cultures avec des festivités et des pièces de théâtre."
+  },
+  "0106": {
+    "date": "6 janvier",
+    "name": "Épiphanie",
+    "description": "Fête chrétienne célébrant la visite des Rois mages à l'Enfant Jésus.",
+    "origin": "Christianisme (Catholicisme et Orthodoxie)"
+  },
+  "0107": {
+    "date": "7 janvier",
+    "name": "Noël orthodoxe",
+    "description": "Célébration de la naissance de Jésus-Christ selon le calendrier julien",
+    "origin": "principalement dans les Églises orthodoxes."
+  },
+  "0108": {
+    "date": "8 janvier",
+    "name": "Fête de la République (Bosnie-Herzégovine)",
+    "description": "Commémoration de la déclaration de la République en 1992.",
+    "origin": "Histoire de la Bosnie-Herzégovine"
+  },
+  "0109": {
+    "date": "9 janvier",
+    "name": "Journée des Martyrs (Panama)",
+    "description": "Jour honorant les Panaméens morts lors des émeutes de 1964 pour la souveraineté du canal de Panama.",
+    "origin": "Panama"
+  },
+  "0110": {
+    "date": "10 janvier",
+    "name": "Sebastian's Day",
+    "description": "Fête traditionnelle aux Açores",
+    "origin": "au Portugal"
+  },
+  "0111": {
+    "date": "11 janvier",
+    "name": "Journée internationale du merci",
+    "description": "Journée dédiée à l'expression de la gratitude et de la reconnaissance.",
+    "origin": "Initiative mondiale"
+  },
+  "0112": {
+    "date": "12 janvier",
+    "name": "Zanzibar Revolution Day",
+    "description": "Jour férié en Tanzanie commémorant la révolution de 1964 à Zanzibar.",
+    "origin": "Histoire de la Tanzanie"
+  },
+  "0113": {
+    "date": "13 janvier",
+    "name": "Lohri",
+    "description": "Festival populaire en Inde",
+    "origin": "particulièrement au Pendjab"
+  },
+  "0114": {
+    "date": "14 janvier",
+    "name": "Makar Sankranti",
+    "description": "Fête hindoue marquant le passage du soleil dans le signe du Capricorne",
+    "origin": "célébrée avec des vols de cerfs-volants et des festins."
+  },
+  "0115": {
+    "date": "15 janvier",
+    "name": "Journée de Martin Luther King Jr.",
+    "description": "Jour férié aux États-Unis honorant la vie et l'héritage du leader des droits civiques Martin Luther King Jr.",
+    "origin": "États-Unis"
+  },
+  "0116": {
+    "date": "16 janvier",
+    "name": "Teachers' Day (Thaïlande)",
+    "description": "Journée dédiée à l'appréciation et au respect des enseignants en Thaïlande.",
+    "origin": "Thaïlande"
+  },
+  "0117": {
+    "date": "17 janvier",
+    "name": "Fête de Saint Antoine le Grand",
+    "description": "Célébration chrétienne en l'honneur de Saint Antoine",
+    "origin": "père du monachisme chrétien."
+  },
+  "0118": {
+    "date": "18 janvier",
+    "name": "Semaine de prière pour l'unité des chrétiens",
+    "description": "Période de prière annuelle de huit jours pour l'unité des chrétiens du 18 au 25 janvier.",
+    "origin": "Christianisme"
+  },
+  "0119": {
+    "date": "19 janvier",
+    "name": "Épiphanie orthodoxe",
+    "description": "Fête chrétienne orthodoxe commémorant le baptême de Jésus dans le Jourdain.",
+    "origin": "Christianisme (Orthodoxie)"
+  },
+  "0120": {
+    "date": "20 janvier",
+    "name": "Fête de la Saint Sébastien",
+    "description": "Célébration en l'honneur de Saint Sébastien",
+    "origin": "martyr chrétien et saint patron de nombreuses villes."
+  },
+  "0121": {
+    "date": "21 janvier",
+    "name": "Journée internationale des câlins",
+    "description": "Journée promouvant l'acte de donner des câlins pour répandre la chaleur humaine et l'affection.",
+    "origin": "Initiative mondiale"
+  },
+  "0122": {
+    "date": "22 janvier",
+    "name": "Journée de l'unité ukrainienne",
+    "description": "Jour célébrant l'unification de l'Ukraine orientale et occidentale en 1919.",
+    "origin": "Ukraine"
+  },
+  "0123": {
+    "date": "23 janvier",
+    "name": "Fête de la Saint Ildefonse",
+    "description": "Célébration en l'honneur de Saint Ildefonse",
+    "origin": "archevêque de Tolède au VIIe siècle."
+  },
+  "0124": {
+    "date": "24 janvier",
+    "name": "Journée internationale de l'éducation",
+    "description": "Journée proclamée par l'ONU pour célébrer le rôle de l'éducation pour la paix et le développement.",
+    "origin": "Organisation des Nations Unies (ONU)"
+  },
+  "0125": {
+    "date": "25 janvier",
+    "name": "Burns Night",
+    "description": "Célébration écossaise en l'honneur du poète Robert Burns",
+    "origin": "avec des repas traditionnels et des lectures de ses œuvres."
+  },
+  "0126": {
+    "date": "26 janvier",
+    "name": "Journée de la République (Inde)",
+    "description": "Fête nationale célébrant l'entrée en vigueur de la Constitution indienne en 1950.",
+    "origin": "Inde"
+  },
+  "0127": {
+    "date": "27 janvier",
+    "name": "Journée internationale dédiée à la mémoire des victimes de l'Holocauste",
+    "description": "Journée commémorant les victimes de l'Holocauste pendant la Seconde Guerre mondiale.",
+    "origin": "Initiative mondiale"
+  },
+  "0128": {
+    "date": "28 janvier",
+    "name": "Fête de Saint Thomas d'Aquin",
+    "description": "Célébration catholique en l'honneur de Saint Thomas d'Aquin",
+    "origin": "philosophe et théologien."
+  },
+  "0129": {
+    "date": "29 janvier",
+    "name": "Fête de Saint Sulpice",
+    "description": "Célébration en l'honneur de Saint Sulpice le Pieux",
+    "origin": "évêque de Bourges au VIIe siècle."
+  },
+  "0130": {
+    "date": "30 janvier",
+    "name": "Journée scolaire de la non-violence et de la paix",
+    "description": "Journée éducative promouvant la non-violence et la paix dans les écoles.",
+    "origin": "Initiative mondiale"
+  },
+  "0131": {
+    "date": "31 janvier",
+    "name": "Fête nationale de Nauru",
+    "description": "Jour célébrant l'indépendance de Nauru obtenue en 1968.",
+    "origin": "Nauru"
+  },
+  "0201": {
+    "date": "1er février",
+    "name": "Imbolc",
+    "description": "Fête celtique marquant le début du printemps, célébrée par les adeptes du néo-paganisme.",
+    "origin": "Culture celtique/néo-paganisme"
+  },
+  "0202": {
+    "date": "2 février",
+    "name": "Chandeleur",
+    "description": "Fête chrétienne commémorant la Présentation de Jésus au Temple, également associée à la tradition des crêpes.",
+    "origin": "Christianisme"
+  },
+  "0203": {
+    "date": "3 février",
+    "name": "Setsubun",
+    "description": "Festival japonais marquant la fin de l'hiver et le début du printemps, avec des rituels pour chasser les mauvais esprits.",
+    "origin": "Culture japonaise"
+  },
+  "0204": {
+    "date": "4 février",
+    "name": "Journée mondiale contre le cancer",
+    "description": "Journée internationale dédiée à la sensibilisation et à la prévention du cancer.",
+    "origin": "Société civile"
+  },
+  "0205": {
+    "date": "5 février",
+    "name": "Fête de Sainte Agathe",
+    "description": "Célébration chrétienne en l'honneur de Sainte Agathe, martyre sicilienne du IIIe siècle.",
+    "origin": "Christianisme"
+  },
+  "0206": {
+    "date": "6 février",
+    "name": "Waitangi Day",
+    "description": "Fête nationale en Nouvelle-Zélande commémorant la signature du traité de Waitangi en 1840.",
+    "origin": "Culture néo-zélandaise"
+  },
+  "0207": {
+    "date": "7 février",
+    "name": "Indépendance de Grenade",
+    "description": "Jour férié célébrant l'indépendance de Grenade obtenue en 1974.",
+    "origin": "Culture grenadienne"
+  },
+  "0208": {
+    "date": "8 février",
+    "name": "Parinirvana (Nirvana Day)",
+    "description": "Fête bouddhiste commémorant le décès et l'entrée dans le Nirvana du Bouddha.",
+    "origin": "Bouddhisme"
+  },
+  "0209": {
+    "date": "9 février",
+    "name": "Fête de Saint Maron",
+    "description": "Célébration en l'honneur de Saint Maron, fondateur de l'Église maronite.",
+    "origin": "Christianisme maronite"
+  },
+  "0210": {
+    "date": "10 février",
+    "name": "Fête de Sainte Scholastique",
+    "description": "Célébration chrétienne en l'honneur de Sainte Scholastique, sœur de Saint Benoît.",
+    "origin": "Christianisme"
+  },
+  "0211": {
+    "date": "11 février",
+    "name": "Journée internationale des femmes et des filles de science",
+    "description": "Journée promouvant la participation des femmes et des filles dans les domaines scientifiques.",
+    "origin": "ONU/Société civile"
+  },
+  "0212": {
+    "date": "12 février",
+    "name": "Lincoln's Birthday",
+    "description": "Jour honorant la naissance d'Abraham Lincoln, 16e président des États-Unis.",
+    "origin": "Culture américaine"
+  },
+  "0213": {
+    "date": "13 février",
+    "name": "Maha Shivaratri",
+    "description": "Fête hindoue dédiée au dieu Shiva, marquée par des veillées et des prières nocturnes.",
+    "origin": "Hindouisme"
+  },
+  "0214": {
+    "date": "14 février",
+    "name": "Saint-Valentin",
+    "description": "Fête célébrant l'amour et l'affection entre partenaires intimes.",
+    "origin": "Culture occidentale"
+  },
+  "0215": {
+    "date": "15 février",
+    "name": "Parinirvana (Nirvana Day)",
+    "description": "Fête bouddhiste commémorant le décès et l'entrée dans le Nirvana du Bouddha.",
+    "origin": "Bouddhisme"
+  },
+  "0216": {
+    "date": "16 février",
+    "name": "Vasant Panchami",
+    "description": "Fête hindoue célébrant Saraswati, déesse de la connaissance et des arts.",
+    "origin": "Hindouisme"
+  },
+  "0217": {
+    "date": "17 février",
+    "name": "Random Acts of Kindness Day",
+    "description": "Journée encourageant les actes de gentillesse spontanés.",
+    "origin": "Société civile"
+  },
+  "0218": {
+    "date": "18 février",
+    "name": "Fête nationale de la Gambie",
+    "description": "Jour célébrant l'indépendance de la Gambie obtenue en 1965.",
+    "origin": "Culture gambienne"
+  },
+  "0219": {
+    "date": "19 février",
+    "name": "Armée du Salut - Fondation",
+    "description": "Anniversaire de la fondation de l'Armée du Salut, organisation chrétienne caritative.",
+    "origin": "Christianisme/Société civile"
+  },
+  "0220": {
+    "date": "20 février",
+    "name": "Journée mondiale de la justice sociale",
+    "description": "Journée promouvant la justice sociale, incluant la lutte contre la pauvreté et les inégalités.",
+    "origin": "ONU/Société civile"
+  },
+  "0221": {
+    "date": "21 février",
+    "name": "Journée internationale de la langue maternelle",
+    "description": "Journée célébrant la diversité linguistique et culturelle à travers le monde.",
+    "origin": "ONU/Société civile"
+  },
+  "0222": {
+    "date": "22 février",
+    "name": "Thinking Day",
+    "description": "Journée mondiale de réflexion pour les scouts et guides, commémorant la naissance de Lord Baden-Powell.",
+    "origin": "Mouvement scout"
+  },
+  "0223": {
+    "date": "23 février",
+    "name": "Journée du Défenseur de la Patrie",
+    "description": "Fête en Russie honorant les forces armées et les anciens combattants.",
+    "origin": "Culture russe"
+  },
+  "0224": {
+    "date": "24 février",
+    "name": "Dragobete",
+    "description": "Fête traditionnelle roumaine célébrant l'amour et le début du printemps.",
+    "origin": "Culture roumaine"
+  },
+  "0225": {
+    "date": "25 février",
+    "name": "Kuwait National Day",
+    "description": "Jour férié célébrant l'indépendance du Koweït obtenue en 1961.",
+    "origin": "Culture koweïtienne"
+  },
+  "0226": {
+    "date": "26 février",
+    "name": "Levi Strauss Day",
+    "description": "Jour honorant Levi Strauss, inventeur du jean en denim.",
+    "origin": "Culture américaine"
+  },
+  "0227": {
+    "date": "27 février",
+    "name": "Journée mondiale des ONG",
+    "description": "Journée reconnaissant le rôle des organisations non gouvernementales dans la société.",
+    "origin": "Société civile"
+  },
+  "0228": {
+    "date": "28 février",
+    "name": "Dia de Andalucía",
+    "description": "Fête régionale en Andalousie, Espagne, célébrant l'autonomie de la région.",
+    "origin": "Culture andalouse"
+  },
+  "0229": {
+    "date": "29 février",
+    "name": "Leap Day",
+    "description": "Jour supplémentaire ajouté au calendrier grégorien tous les quatre ans.",
+    "origin": "Culture mondiale"
+  },
+  "0301": {
+    "date": "1er mars",
+    "name": "Fête de la Saint David",
+    "description": "Célébration en l'honneur de Saint David, saint patron du Pays de Galles.",
+    "origin": "Christianisme/Culture galloise"
+  },
+  "0302": {
+    "date": "2 mars",
+    "name": "Peasants' Day (Myanmar)",
+    "description": "Jour honorant les contributions des agriculteurs à l'économie du Myanmar.",
+    "origin": "Culture birmane"
+  },
+  "0303": {
+    "date": "3 mars",
+    "name": "Hinamatsuri",
+    "description": "Fête japonaise des filles, célébrant leur croissance et leur bonheur.",
+    "origin": "Culture japonaise"
+  },
+  "0304": {
+    "date": "4 mars",
+    "name": "Journée mondiale de la vie sauvage",
+    "description": "Journée sensibilisant à la protection de la faune et de la flore sauvages.",
+    "origin": "ONU/Société civile"
+  },
+  "0305": {
+    "date": "5 mars",
+    "name": "Custom Chief's Day (Vanuatu)",
+    "description": "Jour honorant les chefs traditionnels et la culture autochtone au Vanuatu.",
+    "origin": "Culture vanuataise"
+  },
+  "0306": {
+    "date": "6 mars",
+    "name": "Indépendance du Ghana",
+    "description": "Jour célébrant l'indépendance du Ghana obtenue en 1957.",
+    "origin": "Culture ghanéenne"
+  },
+  "0307": {
+    "date": "7 mars",
+    "name": "Nyepi",
+    "description": "Nouvel an balinais célébré par une journée de silence, de jeûne et de méditation.",
+    "origin": "Hindouisme balinais"
+  },
+  "0308": {
+    "date": "8 mars",
+    "name": "Journée internationale des femmes",
+    "description": "Journée célébrant les réalisations des femmes et promouvant l'égalité des sexes.",
+    "origin": "ONU/Société civile"
+  },
+  "0309": {
+    "date": "9 mars",
+    "name": "Baron Bliss Day",
+    "description": "Jour au Belize honorant le philanthrope Baron Bliss.",
+    "origin": "Culture bélizienne"
+  },
+  "0310": {
+    "date": "10 mars",
+    "name": "Holi",
+    "description": "Festival hindou des couleurs célébrant le triomphe du bien sur le mal et l'arrivée du printemps.",
+    "origin": "Hindouisme"
+  },
+  "0311": {
+    "date": "11 mars",
+    "name": "Fête de la Saint Rosine",
+    "description": "Célébration chrétienne en l'honneur de Sainte Rosine.",
+    "origin": "Christianisme"
+  },
+  "0312": {
+    "date": "12 mars",
+    "name": "Fête nationale de Maurice",
+    "description": "Jour célébrant l'indépendance de Maurice obtenue en 1968.",
+    "origin": "Culture mauricienne"
+  },
+  "0313": {
+    "date": "13 mars",
+    "name": "Journée de l'éléphant en Thaïlande",
+    "description": "Jour honorant l'importance culturelle et historique des éléphants en Thaïlande.",
+    "origin": "Culture thaïlandaise"
+  },
+  "0314": {
+    "date": "14 mars",
+    "name": "Pi Day",
+    "description": "Journée célébrant la constante mathématique π (pi).",
+    "origin": "Culture scientifique"
+  },
+  "0315": {
+    "date": "15 mars",
+    "name": "Ides de Mars",
+    "description": "Date du calendrier romain rendue célèbre par l'assassinat de Jules César en 44 av. J.-C.",
+    "origin": "Histoire romaine"
+  },
+  "0316": {
+    "date": "16 mars",
+    "name": "Fête de Saint Urho",
+    "description": "Fête humoristique célébrée par les Finlandais-Américains honorant Saint Urho, un personnage légendaire supposé avoir chassé les criquets des vignobles.",
+    "origin": "Culture finno-américaine"
+  },
+  "0317": {
+    "date": "17 mars",
+    "name": "Saint-Patrick",
+    "description": "Fête en l'honneur de Saint Patrick, saint patron de l'Irlande, célébrée dans le monde entier.",
+    "origin": "Christianisme/Culture irlandaise"
+  },
+  "0318": {
+    "date": "18 mars",
+    "name": "Fête de la Réunion (Madagascar)",
+    "description": "Jour commémorant le retour de la région de Diego-Suarez sous contrôle malgache.",
+    "origin": "Culture malgache"
+  },
+  "0319": {
+    "date": "19 mars",
+    "name": "Fête de la Saint Joseph",
+    "description": "Célébration chrétienne en l'honneur de Saint Joseph, époux de la Vierge Marie.",
+    "origin": "Christianisme"
+  },
+  "0320": {
+    "date": "20 mars",
+    "name": "Journée internationale du bonheur",
+    "description": "Journée promouvant l'importance du bonheur comme objectif universel.",
+    "origin": "ONU/Société civile"
+  },
+  "0321": {
+    "date": "21 mars",
+    "name": "Nowruz",
+    "description": "Nouvel an persan célébrant l'équinoxe de printemps, marquant le début de l'année dans le calendrier zoroastrien.",
+    "origin": "Zoroastrisme/Culture perse"
+  },
+  "0322": {
+    "date": "22 mars",
+    "name": "Fête de l'indépendance de l'Arabie saoudite",
+    "description": "Jour commémorant l'unification du Royaume d'Arabie saoudite.",
+    "origin": "Culture saoudienne"
+  },
+  "0323": {
+    "date": "23 mars",
+    "name": "Pâques orthodoxes (variable)",
+    "description": "Fête célébrant la résurrection de Jésus-Christ selon le calendrier julien.",
+    "origin": "Christianisme orthodoxe"
+  },
+  "0324": {
+    "date": "24 mars",
+    "name": "Journée mondiale de la lutte contre la tuberculose",
+    "description": "Journée sensibilisant au combat contre la tuberculose.",
+    "origin": "ONU/Société civile"
+  },
+  "0325": {
+    "date": "25 mars",
+    "name": "Fête de l'Annonciation",
+    "description": "Célébration chrétienne de l'annonce de la naissance de Jésus par l'ange Gabriel à la Vierge Marie.",
+    "origin": "Christianisme"
+  },
+  "0326": {
+    "date": "26 mars",
+    "name": "Indépendance du Bangladesh",
+    "description": "Jour célébrant l'indépendance du Bangladesh obtenue en 1971.",
+    "origin": "Culture bangladaise"
+  },
+  "0327": {
+    "date": "27 mars",
+    "name": "Journée mondiale du théâtre",
+    "description": "Journée internationale promouvant les arts dramatiques et le théâtre.",
+    "origin": "Société civile"
+  },
+  "0328": {
+    "date": "28 mars",
+    "name": "Holi (variable)",
+    "description": "Festival hindou des couleurs célébrant le triomphe du bien sur le mal et l'arrivée du printemps.",
+    "origin": "Hindouisme"
+  },
+  "0329": {
+    "date": "29 mars",
+    "name": "Fête des jeunes (Taïwan)",
+    "description": "Jour honorant les contributions des jeunes à la société à Taïwan.",
+    "origin": "Culture taïwanaise"
+  },
+  "0330": {
+    "date": "30 mars",
+    "name": "Journée de la Terre palestinienne",
+    "description": "Jour de commémoration des événements de 1976 concernant la confiscation de terres palestiniennes.",
+    "origin": "Culture palestinienne"
+  },
+  "0331": {
+    "date": "31 mars",
+    "name": "César Chávez Day",
+    "description": "Jour honorant César Chávez, militant pour les droits des travailleurs agricoles aux États-Unis.",
+    "origin": "Culture américaine"
+  },
+  "0401": {
+    "date": "1er avril",
+    "name": "Poisson d'avril",
+    "description": "Journée dédiée aux blagues et canulars dans de nombreuses cultures.",
+    "origin": "Culture mondiale"
+  },
+  "0402": {
+    "date": "2 avril",
+    "name": "Journée mondiale de la sensibilisation à l'autisme",
+    "description": "Journée promouvant la sensibilisation et l'acceptation de l'autisme.",
+    "origin": "ONU/Société civile"
+  },
+  "0403": {
+    "date": "3 avril",
+    "name": "Fête de Qingming",
+    "description": "Fête traditionnelle chinoise dédiée au nettoyage des tombes et à l'hommage aux ancêtres.",
+    "origin": "Culture chinoise"
+  },
+  "0404": {
+    "date": "4 avril",
+    "name": "Journée internationale de sensibilisation aux mines",
+    "description": "Journée soulignant les efforts mondiaux pour éliminer les mines antipersonnel.",
+    "origin": "ONU/Société civile"
+  },
+  "0405": {
+    "date": "5 avril",
+    "name": "Fête de Saint Vincent Ferrier",
+    "description": "Célébration chrétienne en l'honneur de Saint Vincent Ferrier, prédicateur dominicain.",
+    "origin": "Christianisme"
+  },
+  "0406": {
+    "date": "6 avril",
+    "name": "Journée de l'indépendance (Togo)",
+    "description": "Jour célébrant l'indépendance du Togo obtenue en 1960.",
+    "origin": "Culture togolaise"
+  },
+  "0407": {
+    "date": "7 avril",
+    "name": "Journée mondiale de la santé",
+    "description": "Journée promouvant la santé mondiale et la sensibilisation aux problématiques sanitaires.",
+    "origin": "ONU/Société civile"
+  },
+  "0408": {
+    "date": "8 avril",
+    "name": "Fête des Fleurs (Chorokba)",
+    "description": "Festival traditionnel au Bhoutan célébrant le début du printemps.",
+    "origin": "Culture bhoutanaise"
+  },
+  "0409": {
+    "date": "9 avril",
+    "name": "Fête des Martyrs (Tunisie)",
+    "description": "Jour honorant les Tunisiens morts pour l'indépendance.",
+    "origin": "Culture tunisienne"
+  },
+  "0410": {
+    "date": "10 avril",
+    "name": "Pâques (variable)",
+    "description": "Fête chrétienne célébrant la résurrection de Jésus-Christ.",
+    "origin": "Christianisme"
+  },
+  "0411": {
+    "date": "11 avril",
+    "name": "Journée mondiale de la maladie de Parkinson",
+    "description": "Journée consacrée à la sensibilisation et au soutien des personnes atteintes de Parkinson.",
+    "origin": "Société civile"
+  },
+  "0412": {
+    "date": "12 avril",
+    "name": "Youri's Night",
+    "description": "Journée internationale célébrant les exploits de Youri Gagarine, premier homme dans l'espace.",
+    "origin": "Culture scientifique"
+  },
+  "0413": {
+    "date": "13 avril",
+    "name": "Songkran",
+    "description": "Nouvel an thaïlandais marqué par des fêtes d'eau et des cérémonies traditionnelles.",
+    "origin": "Culture thaïlandaise/bouddhisme"
+  },
+  "0414": {
+    "date": "14 avril",
+    "name": "Puthandu",
+    "description": "Nouvel an tamoul célébré par des repas spéciaux et des rituels religieux.",
+    "origin": "Culture tamoule"
+  },
+  "0415": {
+    "date": "15 avril",
+    "name": "Journée mondiale de l'art",
+    "description": "Journée promouvant la créativité artistique et l'importance des arts pour la société.",
+    "origin": "ONU/Société civile"
+  },
+  "0416": {
+    "date": "16 avril",
+    "name": "Hanami",
+    "description": "Fête japonaise célébrant la contemplation des cerisiers en fleurs.",
+    "origin": "Culture japonaise"
+  },
+  "0417": {
+    "date": "17 avril",
+    "name": "Journée de la Constitution (Syrie)",
+    "description": "Jour marquant l'adoption de la Constitution syrienne en 1973.",
+    "origin": "Culture syrienne"
+  },
+  "0418": {
+    "date": "18 avril",
+    "name": "Journée internationale des monuments et des sites",
+    "description": "Journée sensibilisant à la préservation du patrimoine culturel mondial.",
+    "origin": "UNESCO"
+  },
+  "0419": {
+    "date": "19 avril",
+    "name": "Fête de l'Indépendance (Venezuela)",
+    "description": "Jour célébrant la déclaration d'indépendance du Venezuela en 1810.",
+    "origin": "Culture vénézuélienne"
+  },
+  "0420": {
+    "date": "20 avril",
+    "name": "Fête des Volcans",
+    "description": "Célébration dans certaines régions du monde en l'honneur des volcans et de leur puissance naturelle.",
+    "origin": "Culture environnementale"
+  },
+  "0421": {
+    "date": "21 avril",
+    "name": "Tiradentes Day (Brésil)",
+    "description": "Jour honorant Tiradentes, héros de l'indépendance brésilienne.",
+    "origin": "Culture brésilienne"
+  },
+  "0422": {
+    "date": "22 avril",
+    "name": "Journée de la Terre",
+    "description": "Journée mondiale promouvant la protection de l'environnement.",
+    "origin": "ONU/Société civile"
+  },
+  "0423": {
+    "date": "23 avril",
+    "name": "Journée mondiale du livre et du droit d'auteur",
+    "description": "Journée célébrant la lecture, les auteurs et l'accès au savoir.",
+    "origin": "UNESCO"
+  },
+  "0424": {
+    "date": "24 avril",
+    "name": "Fête de la Sainte Fidèle",
+    "description": "Célébration chrétienne en l'honneur de Saint Fidèle, martyr du XVIIe siècle.",
+    "origin": "Christianisme"
+  },
+  "0425": {
+    "date": "25 avril",
+    "name": "ANZAC Day",
+    "description": "Jour honorant les soldats australiens et néo-zélandais morts pendant la Première Guerre mondiale.",
+    "origin": "Culture australienne et néo-zélandaise"
+  },
+  "0426": {
+    "date": "26 avril",
+    "name": "Journée mondiale de la propriété intellectuelle",
+    "description": "Journée mettant en lumière l'importance de la créativité et des droits de propriété intellectuelle.",
+    "origin": "ONU/Société civile"
+  },
+  "0427": {
+    "date": "27 avril",
+    "name": "Fête de la liberté (Afrique du Sud)",
+    "description": "Jour marquant les premières élections démocratiques post-apartheid en 1994.",
+    "origin": "Culture sud-africaine"
+  },
+  "0428": {
+    "date": "28 avril",
+    "name": "Journée mondiale de la sécurité et de la santé au travail",
+    "description": "Journée promouvant des environnements de travail sûrs et sains.",
+    "origin": "ONU/Société civile"
+  },
+  "0429": {
+    "date": "29 avril",
+    "name": "Journée internationale de la danse",
+    "description": "Journée célébrant la danse et son impact culturel et artistique.",
+    "origin": "UNESCO"
+  },
+  "0430": {
+    "date": "30 avril",
+    "name": "Walpurgisnacht",
+    "description": "Fête traditionnelle européenne marquant le début de l'été avec des feux et des danses.",
+    "origin": "Culture européenne"
+  },
+  "0501": {
+    "date": "1er mai",
+    "name": "Fête du Travail",
+    "description": "Journée célébrant les travailleurs et leurs droits dans de nombreux pays.",
+    "origin": "Société civile"
+  },
+  "0502": {
+    "date": "2 mai",
+    "name": "Fête nationale de la jeunesse (Chine)",
+    "description": "Jour honorant les contributions des jeunes en Chine.",
+    "origin": "Culture chinoise"
+  },
+  "0503": {
+    "date": "3 mai",
+    "name": "Journée mondiale de la liberté de la presse",
+    "description": "Journée promouvant la liberté de la presse et la protection des journalistes.",
+    "origin": "ONU/Société civile"
+  },
+  "0504": {
+    "date": "4 mai",
+    "name": "Star Wars Day",
+    "description": "Journée célébrant la franchise Star Wars avec le slogan 'May the Fourth be with you'.",
+    "origin": "Culture populaire"
+  },
+  "0505": {
+    "date": "5 mai",
+    "name": "Cinco de Mayo",
+    "description": "Fête célébrant la victoire mexicaine contre les Français lors de la bataille de Puebla.",
+    "origin": "Culture mexicaine"
+  },
+  "0506": {
+    "date": "6 mai",
+    "name": "Chakri Day (Thaïlande)",
+    "description": "Jour honorant la dynastie Chakri régnante en Thaïlande.",
+    "origin": "Culture thaïlandaise"
+  },
+  "0507": {
+    "date": "7 mai",
+    "name": "Journée de la Radio et de la Télévision (Russie)",
+    "description": "Jour honorant les travailleurs des médias en Russie.",
+    "origin": "Culture russe"
+  },
+  "0508": {
+    "date": "8 mai",
+    "name": "Fête de la Victoire",
+    "description": "Célébration marquant la fin de la Seconde Guerre mondiale en Europe.",
+    "origin": "Culture européenne"
+  },
+  "0509": {
+    "date": "9 mai",
+    "name": "Journée de l'Europe",
+    "description": "Journée célébrant la paix et l'unité en Europe, marquant la déclaration Schuman.",
+    "origin": "Culture européenne"
+  },
+  "0510": {
+    "date": "10 mai",
+    "name": "Fête des Mères (Mexique)",
+    "description": "Jour honorant les mères, célébré de manière particulière au Mexique.",
+    "origin": "Culture mexicaine"
+  },
+  "0511": {
+    "date": "11 mai",
+    "name": "Journée de la couronne (Pays-Bas)",
+    "description": "Jour marquant la fondation de la dynastie royale néerlandaise.",
+    "origin": "Culture néerlandaise"
+  },
+  "0512": {
+    "date": "12 mai",
+    "name": "Fête de Saint Pancrace",
+    "description": "Célébration chrétienne en l'honneur de Saint Pancrace, martyr du IVe siècle.",
+    "origin": "Christianisme"
+  },
+  "0513": {
+    "date": "13 mai",
+    "name": "Rotuma Day",
+    "description": "Jour célébrant la culture et l'indépendance relative de Rotuma, une île des Fidji.",
+    "origin": "Culture rotumane"
+  },
+  "0514": {
+    "date": "14 mai",
+    "name": "Journée de l'indépendance d'Israël (variable)",
+    "description": "Jour célébrant la déclaration d'indépendance d'Israël en 1948.",
+    "origin": "Culture israélienne"
+  },
+  "0515": {
+    "date": "15 mai",
+    "name": "Journée internationale des familles",
+    "description": "Journée promouvant l'importance des familles dans la société.",
+    "origin": "ONU/Société civile"
+  },
+  "0516": {
+    "date": "16 mai",
+    "name": "Vesak (variable)",
+    "description": "Fête bouddhiste commémorant la naissance, l'illumination et la mort de Bouddha.",
+    "origin": "Bouddhisme"
+  },
+  "0517": {
+    "date": "17 mai",
+    "name": "Journée mondiale des télécommunications",
+    "description": "Journée soulignant l'importance des télécommunications et de l'internet.",
+    "origin": "ONU/Société civile"
+  },
+  "0518": {
+    "date": "18 mai",
+    "name": "Journée internationale des musées",
+    "description": "Journée promouvant la richesse culturelle et éducative des musées.",
+    "origin": "UNESCO"
+  },
+  "0519": {
+    "date": "19 mai",
+    "name": "Commemoration of Atatürk",
+    "description": "Youth and Sports Day (Turquie)",
+    "origin": "Jour honorant Mustafa Kemal Atatürk et la jeunesse turque."
+  },
+  "0520": {
+    "date": "20 mai",
+    "name": "Indépendance du Cameroun",
+    "description": "Jour marquant l'indépendance du Cameroun en 1972.",
+    "origin": "Culture camerounaise"
+  },
+  "0521": {
+    "date": "21 mai",
+    "name": "Fête de l'Union nationale (Madagascar)",
+    "description": "Jour célébrant l'unité nationale à Madagascar.",
+    "origin": "Culture malgache"
+  },
+  "0522": {
+    "date": "22 mai",
+    "name": "Journée internationale de la biodiversité",
+    "description": "Journée promouvant la préservation de la diversité biologique.",
+    "origin": "ONU/Société civile"
+  },
+  "0523": {
+    "date": "23 mai",
+    "name": "Labour Day (Jamaïque)",
+    "description": "Jour célébrant les contributions des travailleurs jamaïcains.",
+    "origin": "Culture jamaïcaine"
+  },
+  "0524": {
+    "date": "24 mai",
+    "name": "Journée de la Fraternité (Bolivie)",
+    "description": "Jour célébrant l'amitié et la solidarité entre les nations sud-américaines.",
+    "origin": "Culture bolivienne"
+  },
+  "0525": {
+    "date": "25 mai",
+    "name": "Journée de l'Afrique",
+    "description": "Journée marquant la fondation de l'Organisation de l'unité africaine en 1963.",
+    "origin": "Union africaine"
+  },
+  "0526": {
+    "date": "26 mai",
+    "name": "Fête nationale de la Géorgie",
+    "description": "Jour célébrant l'indépendance de la Géorgie en 1918.",
+    "origin": "Culture géorgienne"
+  },
+  "0527": {
+    "date": "27 mai",
+    "name": "Fête des Mères (France",
+    "description": "variable)",
+    "origin": "Jour honorant les mères en France et dans plusieurs autres pays."
+  },
+  "0528": {
+    "date": "28 mai",
+    "name": "Fête de la République d'Azerbaïdjan",
+    "description": "Jour marquant la fondation de la République démocratique d'Azerbaïdjan en 1918.",
+    "origin": "Culture azerbaïdjanaise"
+  },
+  "0529": {
+    "date": "29 mai",
+    "name": "Journée internationale des Casques bleus",
+    "description": "Journée honorant les forces de maintien de la paix de l'ONU.",
+    "origin": "ONU"
+  },
+  "0530": {
+    "date": "30 mai",
+    "name": "Fête de Jeanne d'Arc",
+    "description": "Célébration en l'honneur de Sainte Jeanne d'Arc, héroïne française.",
+    "origin": "Christianisme/Culture française"
+  },
+  "0531": {
+    "date": "31 mai",
+    "name": "Journée mondiale sans tabac",
+    "description": "Journée sensibilisant aux dangers du tabac et promouvant un mode de vie sain.",
+    "origin": "ONU/Société civile"
+  },
+  "0601": {
+    "date": "1er juin",
+    "name": "Journée internationale de l'enfance",
+    "description": "Journée célébrant et défendant les droits des enfants à travers le monde.",
+    "origin": "ONU/Société civile"
+  },
+  "0602": {
+    "date": "2 juin",
+    "name": "Fête de la République (Italie)",
+    "description": "Jour marquant la fondation de la République italienne en 1946.",
+    "origin": "Culture italienne"
+  },
+  "0603": {
+    "date": "3 juin",
+    "name": "Fête de l'Immaculée Conception (Colombie)",
+    "description": "Célébration chrétienne honorant la Vierge Marie en Colombie.",
+    "origin": "Christianisme"
+  },
+  "0604": {
+    "date": "4 juin",
+    "name": "Journée internationale des enfants victimes innocentes d'agression",
+    "description": "Journée sensibilisant aux violences faites aux enfants dans les conflits.",
+    "origin": "ONU/Société civile"
+  },
+  "0605": {
+    "date": "5 juin",
+    "name": "Journée mondiale de l'environnement",
+    "description": "Journée promouvant la protection de l'environnement et la durabilité.",
+    "origin": "ONU/Société civile"
+  },
+  "0606": {
+    "date": "6 juin",
+    "name": "Fête nationale de la Suède",
+    "description": "Jour marquant l'indépendance suédoise et l'élection de Gustav Vasa comme roi en 1523.",
+    "origin": "Culture suédoise"
+  },
+  "0607": {
+    "date": "7 juin",
+    "name": "Journée mondiale de la sécurité alimentaire",
+    "description": "Journée sensibilisant à l'importance d'une alimentation sûre pour tous.",
+    "origin": "ONU/Société civile"
+  },
+  "0608": {
+    "date": "8 juin",
+    "name": "Journée mondiale des océans",
+    "description": "Journée promouvant la protection et la préservation des océans.",
+    "origin": "ONU/Société civile"
+  },
+  "0609": {
+    "date": "9 juin",
+    "name": "Fête de l'Ascension (variable)",
+    "description": "Célébration chrétienne marquant l'ascension de Jésus au ciel.",
+    "origin": "Christianisme"
+  },
+  "0610": {
+    "date": "10 juin",
+    "name": "Journée du Portugal",
+    "description": "Jour célébrant la culture portugaise et l'anniversaire du poète national Luís de Camões.",
+    "origin": "Culture portugaise"
+  },
+  "0611": {
+    "date": "11 juin",
+    "name": "Kamehameha Day",
+    "description": "Jour honorant le roi Kamehameha I, fondateur du royaume d'Hawaï.",
+    "origin": "Culture hawaïenne"
+  },
+  "0612": {
+    "date": "12 juin",
+    "name": "Journée mondiale contre le travail des enfants",
+    "description": "Journée sensibilisant à l'élimination du travail des enfants.",
+    "origin": "ONU/Société civile"
+  },
+  "0613": {
+    "date": "13 juin",
+    "name": "Fête de Saint Antoine",
+    "description": "Célébration chrétienne en l'honneur de Saint Antoine de Padoue.",
+    "origin": "Christianisme"
+  },
+  "0614": {
+    "date": "14 juin",
+    "name": "Journée mondiale du don de sang",
+    "description": "Journée promouvant le don de sang pour sauver des vies.",
+    "origin": "ONU/Société civile"
+  },
+  "0615": {
+    "date": "15 juin",
+    "name": "Fête des Moissons (variable)",
+    "description": "Célébration traditionnelle des premières récoltes dans diverses cultures.",
+    "origin": "Cultures agricoles"
+  },
+  "0616": {
+    "date": "16 juin",
+    "name": "Journée de l'Enfant africain",
+    "description": "Journée sensibilisant aux droits et défis des enfants en Afrique.",
+    "origin": "Union africaine"
+  },
+  "0617": {
+    "date": "17 juin",
+    "name": "Journée mondiale de la lutte contre la désertification",
+    "description": "Journée promouvant la gestion durable des terres pour lutter contre la désertification.",
+    "origin": "ONU/Société civile"
+  },
+  "0618": {
+    "date": "18 juin",
+    "name": "Waterloo Day",
+    "description": "Jour commémorant la bataille de Waterloo en 1815.",
+    "origin": "Histoire européenne"
+  },
+  "0619": {
+    "date": "19 juin",
+    "name": "Journée de l'émancipation (Juneteenth)",
+    "description": "Jour célébrant la fin de l'esclavage aux États-Unis.",
+    "origin": "Culture américaine"
+  },
+  "0620": {
+    "date": "20 juin",
+    "name": "Journée mondiale des réfugiés",
+    "description": "Journée honorant la force et le courage des réfugiés.",
+    "origin": "ONU/Société civile"
+  },
+  "0621": {
+    "date": "21 juin",
+    "name": "Journée internationale du yoga",
+    "description": "Journée promouvant la pratique du yoga pour le bien-être.",
+    "origin": "Culture indienne"
+  },
+  "0622": {
+    "date": "22 juin",
+    "name": "Journée nationale de la mémoire (Croatie)",
+    "description": "Jour honorant les victimes de la guerre d'indépendance croate.",
+    "origin": "Culture croate"
+  },
+  "0623": {
+    "date": "23 juin",
+    "name": "Fête nationale du Luxembourg",
+    "description": "Jour célébrant l'anniversaire officiel du Grand-Duc.",
+    "origin": "Culture luxembourgeoise"
+  },
+  "0624": {
+    "date": "24 juin",
+    "name": "Fête de la Saint-Jean",
+    "description": "Célébration chrétienne marquant la naissance de Saint Jean-Baptiste.",
+    "origin": "Christianisme"
+  },
+  "0625": {
+    "date": "25 juin",
+    "name": "Indépendance de la Slovénie et de la Croatie",
+    "description": "Jour marquant l'indépendance de ces deux pays en 1991.",
+    "origin": "Culture slovène et croate"
+  },
+  "0626": {
+    "date": "26 juin",
+    "name": "Journée internationale contre la drogue",
+    "description": "Journée sensibilisant aux problèmes liés à l'usage de drogues.",
+    "origin": "ONU/Société civile"
+  },
+  "0627": {
+    "date": "27 juin",
+    "name": "Journée nationale des vétérans de guerre (Canada)",
+    "description": "Jour honorant les vétérans canadiens de toutes les guerres.",
+    "origin": "Culture canadienne"
+  },
+  "0628": {
+    "date": "28 juin",
+    "name": "Journée mondiale des arbres",
+    "description": "Journée promouvant la plantation et la préservation des arbres.",
+    "origin": "Société civile"
+  },
+  "0629": {
+    "date": "29 juin",
+    "name": "Fête des Saints Pierre et Paul",
+    "description": "Célébration chrétienne honorant les apôtres Pierre et Paul.",
+    "origin": "Christianisme"
+  },
+  "0630": {
+    "date": "30 juin",
+    "name": "Journée de l'indépendance de la RDC",
+    "description": "Jour célébrant l'indépendance de la République démocratique du Congo en 1960.",
+    "origin": "Culture congolaise"
+  },
+  "0701": {
+    "date": "1er juillet",
+    "name": "Fête du Canada",
+    "description": "Jour célébrant la Confédération canadienne de 1867.",
+    "origin": "Culture canadienne"
+  },
+  "0702": {
+    "date": "2 juillet",
+    "name": "Journée mondiale des OVNIs",
+    "description": "Journée sensibilisant au phénomène des objets volants non identifiés.",
+    "origin": "Culture populaire"
+  },
+  "0703": {
+    "date": "3 juillet",
+    "name": "Fête de l'indépendance du Bélarus",
+    "description": "Jour célébrant l'indépendance du Bélarus en 1944.",
+    "origin": "Culture biélorusse"
+  },
+  "0704": {
+    "date": "4 juillet",
+    "name": "Independence Day (États-Unis)",
+    "description": "Jour célébrant l'indépendance des États-Unis obtenue en 1776.",
+    "origin": "Culture américaine"
+  },
+  "0705": {
+    "date": "5 juillet",
+    "name": "Fête de l'indépendance du Venezuela",
+    "description": "Jour célébrant l'indépendance du Venezuela en 1811.",
+    "origin": "Culture vénézuélienne"
+  },
+  "0706": {
+    "date": "6 juillet",
+    "name": "Journée internationale du baiser",
+    "description": "Journée célébrant l'importance des baisers dans les relations humaines.",
+    "origin": "Société civile"
+  },
+  "0707": {
+    "date": "7 juillet",
+    "name": "Tanabata",
+    "description": "Fête japonaise célébrant la rencontre des étoiles Orihime et Hikoboshi.",
+    "origin": "Culture japonaise"
+  },
+  "0708": {
+    "date": "8 juillet",
+    "name": "Journée mondiale de l'allergie",
+    "description": "Journée sensibilisant aux problèmes liés aux allergies.",
+    "origin": "Société civile"
+  },
+  "0709": {
+    "date": "9 juillet",
+    "name": "Fête nationale de l'Argentine",
+    "description": "Jour célébrant l'indépendance de l'Argentine obtenue en 1816.",
+    "origin": "Culture argentine"
+  },
+  "0710": {
+    "date": "10 juillet",
+    "name": "Fête de Nikola Tesla",
+    "description": "Jour honorant Nikola Tesla, inventeur et ingénieur serbe-américain.",
+    "origin": "Culture scientifique"
+  },
+  "0711": {
+    "date": "11 juillet",
+    "name": "Journée mondiale de la population",
+    "description": "Journée sensibilisant à l'importance des problématiques liées à la population mondiale.",
+    "origin": "ONU/Société civile"
+  },
+  "0712": {
+    "date": "12 juillet",
+    "name": "Malala Day",
+    "description": "Jour honorant Malala Yousafzai et sa lutte pour l'éducation des filles.",
+    "origin": "ONU/Société civile"
+  },
+  "0713": {
+    "date": "13 juillet",
+    "name": "Fête de la République du Monténégro",
+    "description": "Jour marquant la reconnaissance internationale du Monténégro en 1878.",
+    "origin": "Culture monténégrine"
+  },
+  "0714": {
+    "date": "14 juillet",
+    "name": "Fête nationale française",
+    "description": "Jour marquant la prise de la Bastille et la Révolution française.",
+    "origin": "Culture française"
+  },
+  "0715": {
+    "date": "15 juillet",
+    "name": "Saint Vladimir",
+    "description": "Célébration chrétienne en l'honneur de Saint Vladimir de Kiev.",
+    "origin": "Christianisme"
+  },
+  "0716": {
+    "date": "16 juillet",
+    "name": "Journée nationale de la Vierge du Carmen",
+    "description": "Jour honorant la Vierge Marie, patronne des marins.",
+    "origin": "Christianisme/Culture espagnole et latino-américaine"
+  },
+  "0717": {
+    "date": "17 juillet",
+    "name": "Journée mondiale de la justice internationale",
+    "description": "Journée promouvant le droit et la justice au niveau mondial.",
+    "origin": "ONU/Société civile"
+  },
+  "0718": {
+    "date": "18 juillet",
+    "name": "Journée internationale Nelson Mandela",
+    "description": "Journée honorant l'héritage de Nelson Mandela pour la paix et la liberté.",
+    "origin": "ONU"
+  },
+  "0719": {
+    "date": "19 juillet",
+    "name": "Anniversaire de la Révolution sandiniste (Nicaragua)",
+    "description": "Jour marquant la victoire du Front sandiniste en 1979.",
+    "origin": "Culture nicaraguayenne"
+  },
+  "0720": {
+    "date": "20 juillet",
+    "name": "Journée de l'Amitié (Colombie)",
+    "description": "Jour célébrant l'importance des relations amicales.",
+    "origin": "Culture colombienne"
+  },
+  "0721": {
+    "date": "21 juillet",
+    "name": "Fête nationale de la Belgique",
+    "description": "Jour marquant la prestation de serment du premier roi des Belges en 1831.",
+    "origin": "Culture belge"
+  },
+  "0722": {
+    "date": "22 juillet",
+    "name": "Saint Marie-Madeleine",
+    "description": "Célébration chrétienne honorant Marie-Madeleine, disciple de Jésus.",
+    "origin": "Christianisme"
+  },
+  "0723": {
+    "date": "23 juillet",
+    "name": "Renaissance Day (Égypte)",
+    "description": "Jour marquant le début de la révolution égyptienne de 1952.",
+    "origin": "Culture égyptienne"
+  },
+  "0724": {
+    "date": "24 juillet",
+    "name": "Fête de Simon Bolivar",
+    "description": "Jour honorant Simon Bolivar, héros de l'indépendance sud-américaine.",
+    "origin": "Culture sud-américaine"
+  },
+  "0725": {
+    "date": "25 juillet",
+    "name": "Saint Jacques le Majeur",
+    "description": "Célébration chrétienne honorant Saint Jacques, apôtre et patron de l'Espagne.",
+    "origin": "Christianisme"
+  },
+  "0726": {
+    "date": "26 juillet",
+    "name": "Fête de la Rébellion nationale (Cuba)",
+    "description": "Jour marquant l'attaque de la caserne Moncada en 1953, début de la révolution cubaine.",
+    "origin": "Culture cubaine"
+  },
+  "0727": {
+    "date": "27 juillet",
+    "name": "Journée mondiale de la prévention des hépatites",
+    "description": "Journée sensibilisant aux hépatites et à leur prévention.",
+    "origin": "ONU/Société civile"
+  },
+  "0728": {
+    "date": "28 juillet",
+    "name": "Fête nationale du Pérou",
+    "description": "Jour célébrant l'indépendance du Pérou en 1821.",
+    "origin": "Culture péruvienne"
+  },
+  "0729": {
+    "date": "29 juillet",
+    "name": "Saint Olaf",
+    "description": "Célébration chrétienne honorant Saint Olaf, roi et martyr de Norvège.",
+    "origin": "Christianisme/Culture norvégienne"
+  },
+  "0730": {
+    "date": "30 juillet",
+    "name": "Journée internationale de l'amitié",
+    "description": "Journée promouvant l'amitié entre les peuples, les pays et les cultures.",
+    "origin": "ONU/Société civile"
+  },
+  "0731": {
+    "date": "31 juillet",
+    "name": "Hari Raya Haji (variable)",
+    "description": "Fête musulmane marquant la fin du Hajj, le pèlerinage à La Mecque.",
+    "origin": "Islam"
+  },
+  "0801": {
+    "date": "1er août",
+    "name": "Fête nationale suisse",
+    "description": "Jour célébrant la fondation de la Confédération suisse en 1291.",
+    "origin": "Culture suisse"
+  },
+  "0802": {
+    "date": "2 août",
+    "name": "Journée internationale du souvenir de la traite négrière et de son abolition",
+    "description": "Journée honorant la mémoire des victimes de l'esclavage.",
+    "origin": "ONU/Société civile"
+  },
+  "0803": {
+    "date": "3 août",
+    "name": "Fête de l'indépendance du Niger",
+    "description": "Jour marquant l'indépendance du Niger en 1960.",
+    "origin": "Culture nigérienne"
+  },
+  "0804": {
+    "date": "4 août",
+    "name": "Fête nationale du Burkina Faso",
+    "description": "Jour célébrant l'indépendance du Burkina Faso en 1960.",
+    "origin": "Culture burkinabè"
+  },
+  "0805": {
+    "date": "5 août",
+    "name": "Journée mondiale de la bière",
+    "description": "Journée célébrant la bière et ses traditions à travers le monde.",
+    "origin": "Culture mondiale"
+  },
+  "0806": {
+    "date": "6 août",
+    "name": "Fête de l'indépendance de la Bolivie",
+    "description": "Jour célébrant l'indépendance de la Bolivie en 1825.",
+    "origin": "Culture bolivienne"
+  },
+  "0807": {
+    "date": "7 août",
+    "name": "Fête de la bataille de Boyacá (Colombie)",
+    "description": "Jour célébrant une bataille clé de l'indépendance colombienne.",
+    "origin": "Culture colombienne"
+  },
+  "0808": {
+    "date": "8 août",
+    "name": "Journée internationale du chat",
+    "description": "Journée dédiée aux chats pour sensibiliser à leur bien-être.",
+    "origin": "Société civile"
+  },
+  "0809": {
+    "date": "9 août",
+    "name": "Journée internationale des peuples autochtones",
+    "description": "Journée honorant les droits et cultures des peuples autochtones.",
+    "origin": "ONU/Société civile"
+  },
+  "0810": {
+    "date": "10 août",
+    "name": "Fête nationale de l'Équateur",
+    "description": "Jour célébrant la déclaration d'indépendance de l'Équateur en 1809.",
+    "origin": "Culture équatorienne"
+  },
+  "0811": {
+    "date": "11 août",
+    "name": "Raksha Bandhan",
+    "description": "Fête hindoue célébrant les liens entre frères et sœurs.",
+    "origin": "Hindouisme"
+  },
+  "0812": {
+    "date": "12 août",
+    "name": "Journée internationale de la jeunesse",
+    "description": "Journée promouvant les droits et les aspirations des jeunes.",
+    "origin": "ONU/Société civile"
+  },
+  "0813": {
+    "date": "13 août",
+    "name": "Fête de la révolution cubaine",
+    "description": "Jour marquant l'anniversaire de Fidel Castro et les débuts de la révolution cubaine.",
+    "origin": "Culture cubaine"
+  },
+  "0814": {
+    "date": "14 août",
+    "name": "Indépendance du Pakistan",
+    "description": "Jour marquant l'indépendance du Pakistan en 1947.",
+    "origin": "Culture pakistanaise"
+  },
+  "0815": {
+    "date": "15 août",
+    "name": "Assomption",
+    "description": "Célébration chrétienne marquant la montée de la Vierge Marie au ciel.",
+    "origin": "Christianisme"
+  },
+  "0816": {
+    "date": "16 août",
+    "name": "Fête de Saint Roch",
+    "description": "Fête chrétienne honorant Saint Roch, protecteur contre les épidémies.",
+    "origin": "Christianisme"
+  },
+  "0817": {
+    "date": "17 août",
+    "name": "Fête de l'indépendance de l'Indonésie",
+    "description": "Jour célébrant l'indépendance de l'Indonésie en 1945.",
+    "origin": "Culture indonésienne"
+  },
+  "0818": {
+    "date": "18 août",
+    "name": "Journée des anciens combattants (Australie)",
+    "description": "Jour honorant les vétérans australiens.",
+    "origin": "Culture australienne"
+  },
+  "0819": {
+    "date": "19 août",
+    "name": "Journée mondiale de la photographie",
+    "description": "Journée célébrant l'art et l'histoire de la photographie.",
+    "origin": "Société civile"
+  },
+  "0820": {
+    "date": "20 août",
+    "name": "Saint Étienne de Hongrie",
+    "description": "Célébration chrétienne honorant Saint Étienne, premier roi de Hongrie.",
+    "origin": "Christianisme"
+  },
+  "0821": {
+    "date": "21 août",
+    "name": "Ninoy Aquino Day (Philippines)",
+    "description": "Jour honorant Ninoy Aquino, héros de la démocratie philippine.",
+    "origin": "Culture philippine"
+  },
+  "0822": {
+    "date": "22 août",
+    "name": "Qixi Festival",
+    "description": "Fête chinoise célébrant l'amour entre deux étoiles, Niu Lang et Zhi Nu.",
+    "origin": "Culture chinoise"
+  },
+  "0823": {
+    "date": "23 août",
+    "name": "Journée européenne du souvenir des victimes du stalinisme et du nazisme",
+    "description": "Journée honorant les victimes des régimes totalitaires en Europe.",
+    "origin": "Union européenne"
+  },
+  "0824": {
+    "date": "24 août",
+    "name": "Fête de l'indépendance de l'Ukraine",
+    "description": "Jour marquant l'indépendance de l'Ukraine en 1991.",
+    "origin": "Culture ukrainienne"
+  },
+  "0825": {
+    "date": "25 août",
+    "name": "Fête nationale de l'Uruguay",
+    "description": "Jour célébrant la déclaration d'indépendance de l'Uruguay en 1825.",
+    "origin": "Culture uruguayenne"
+  },
+  "0826": {
+    "date": "26 août",
+    "name": "Journée mondiale du chien",
+    "description": "Journée dédiée aux chiens pour sensibiliser à leur bien-être.",
+    "origin": "Société civile"
+  },
+  "0827": {
+    "date": "27 août",
+    "name": "Festival de la couronne de fleurs (Lettonie)",
+    "description": "Fête célébrant les traditions folkloriques et culturelles lettonnes.",
+    "origin": "Culture lettone"
+  },
+  "0828": {
+    "date": "28 août",
+    "name": "Fête de l'Assomption orthodoxe (variable)",
+    "description": "Célébration de la montée de la Vierge Marie dans les Églises orthodoxes.",
+    "origin": "Christianisme orthodoxe"
+  },
+  "0829": {
+    "date": "29 août",
+    "name": "Journée internationale contre les essais nucléaires",
+    "description": "Journée promouvant la fin des essais nucléaires.",
+    "origin": "ONU/Société civile"
+  },
+  "0830": {
+    "date": "30 août",
+    "name": "Journée internationale des personnes disparues",
+    "description": "Journée sensibilisant aux disparitions forcées et à leurs victimes.",
+    "origin": "ONU/Société civile"
+  },
+  "0831": {
+    "date": "31 août",
+    "name": "Fête nationale de la Malaisie",
+    "description": "Jour marquant l'indépendance de la Malaisie en 1957.",
+    "origin": "Culture malaisienne"
+  },
+  "0901": {
+    "date": "1er septembre",
+    "name": "Journée internationale de la paix",
+    "description": "Journée consacrée à la promotion de la paix dans le monde.",
+    "origin": "ONU/Société civile"
+  },
+  "0902": {
+    "date": "2 septembre",
+    "name": "Journée internationale de l'aide humanitaire",
+    "description": "Journée honorant les travailleurs humanitaires et leur rôle vital dans les crises.",
+    "origin": "ONU/Société civile"
+  },
+  "0903": {
+    "date": "3 septembre",
+    "name": "Fête du Travail (Espagne et d'autres pays)",
+    "description": "Jour célébrant les travailleurs et leurs droits.",
+    "origin": "Culture espagnole"
+  },
+  "0904": {
+    "date": "4 septembre",
+    "name": "Fête nationale de la Slovénie",
+    "description": "Jour célébrant l'indépendance de la Slovénie en 1991.",
+    "origin": "Culture slovène"
+  },
+  "0905": {
+    "date": "5 septembre",
+    "name": "Journée internationale de la charité",
+    "description": "Journée sensibilisant aux œuvres de charité et à l'aide humanitaire.",
+    "origin": "ONU/Société civile"
+  },
+  "0906": {
+    "date": "6 septembre",
+    "name": "Journée internationale de la solidarité humaine",
+    "description": "Journée promouvant la solidarité et le soutien mutuel à travers le monde.",
+    "origin": "ONU/Société civile"
+  },
+  "0907": {
+    "date": "7 septembre",
+    "name": "Fête de l'indépendance du Brésil",
+    "description": "Jour célébrant l'indépendance du Brésil vis-à-vis du Portugal en 1822.",
+    "origin": "Culture brésilienne"
+  },
+  "0908": {
+    "date": "8 septembre",
+    "name": "Journée internationale de l'alphabétisation",
+    "description": "Journée mettant l'accent sur l'importance de l'éducation et de l'alphabétisation.",
+    "origin": "ONU/Société civile"
+  },
+  "0909": {
+    "date": "9 septembre",
+    "name": "Journée de l'Antiquité",
+    "description": "Journée célébrant les découvertes archéologiques et le patrimoine de l'Antiquité.",
+    "origin": "Société civile"
+  },
+  "0910": {
+    "date": "10 septembre",
+    "name": "Journée mondiale de la prévention du suicide",
+    "description": "Journée sensibilisant à la prévention du suicide et au bien-être mental.",
+    "origin": "OMS/Société civile"
+  },
+  "0911": {
+    "date": "11 septembre",
+    "name": "Patriot Day (États-Unis)",
+    "description": "Jour commémorant les victimes des attaques terroristes du 11 septembre 2001.",
+    "origin": "Culture américaine"
+  },
+  "0912": {
+    "date": "12 septembre",
+    "name": "Journée internationale de la démocratie",
+    "description": "Journée favorisant la promotion de la démocratie et des droits de l'homme.",
+    "origin": "ONU/Société civile"
+  },
+  "0913": {
+    "date": "13 septembre",
+    "name": "Fête de Saint Jean Chrysostome",
+    "description": "Célébration chrétienne honorant Saint Jean Chrysostome, théologien et évêque.",
+    "origin": "Christianisme"
+  },
+  "0914": {
+    "date": "14 septembre",
+    "name": "Journée mondiale du soin palliatif",
+    "description": "Journée de sensibilisation aux soins palliatifs et à la dignité des patients en fin de vie.",
+    "origin": "OMS/Société civile"
+  },
+  "0915": {
+    "date": "15 septembre",
+    "name": "Fête nationale du Costa Rica",
+    "description": "Jour célébrant l'indépendance du Costa Rica en 1821.",
+    "origin": "Culture costaricaine"
+  },
+  "0916": {
+    "date": "16 septembre",
+    "name": "Journée mondiale de la protection de la couche d'ozone",
+    "description": "Journée sensibilisant à la préservation de la couche d'ozone et à la lutte contre la pollution.",
+    "origin": "ONU/Société civile"
+  },
+  "0917": {
+    "date": "17 septembre",
+    "name": "Fête de l'indépendance de la Chine (Taiwan)",
+    "description": "Jour célébrant la fondation de la République de Chine à Taiwan en 1911.",
+    "origin": "Culture taïwanaise"
+  },
+  "0918": {
+    "date": "18 septembre",
+    "name": "Fête nationale du Chili",
+    "description": "Jour célébrant l'indépendance du Chili en 1810.",
+    "origin": "Culture chilienne"
+  },
+  "0919": {
+    "date": "19 septembre",
+    "name": "Journée internationale de la paix des femmes",
+    "description": "Journée mettant en lumière les contributions des femmes à la paix et à la sécurité.",
+    "origin": "ONU/Société civile"
+  },
+  "0920": {
+    "date": "20 septembre",
+    "name": "Journée mondiale des réfugiés",
+    "description": "Journée honorant les réfugiés et leurs luttes pour la survie et la dignité.",
+    "origin": "ONU/Société civile"
+  },
+  "0921": {
+    "date": "21 septembre",
+    "name": "Journée internationale de la paix",
+    "description": "Journée mondiale dédiée à la paix et à la résolution des conflits.",
+    "origin": "ONU/Société civile"
+  },
+  "0922": {
+    "date": "22 septembre",
+    "name": "Fête de l'indépendance de la Bulgarie",
+    "description": "Jour célébrant l'indépendance de la Bulgarie en 1908.",
+    "origin": "Culture bulgare"
+  },
+  "0923": {
+    "date": "23 septembre",
+    "name": "Journée mondiale des lèvres",
+    "description": "Journée promouvant les soins et la protection des lèvres.",
+    "origin": "Société civile"
+  },
+  "0924": {
+    "date": "24 septembre",
+    "name": "Fête de l'indépendance de la Guinée",
+    "description": "Jour célébrant l'indépendance de la Guinée en 1958.",
+    "origin": "Culture guinéenne"
+  },
+  "0925": {
+    "date": "25 septembre",
+    "name": "Journée mondiale du pharmacien",
+    "description": "Journée honorant le rôle des pharmaciens dans la santé publique.",
+    "origin": "OMS/Société civile"
+  },
+  "0926": {
+    "date": "26 septembre",
+    "name": "Journée européenne des langues",
+    "description": "Journée promouvant la diversité linguistique et l'apprentissage des langues en Europe.",
+    "origin": "Union européenne"
+  },
+  "0927": {
+    "date": "27 septembre",
+    "name": "Journée mondiale du tourisme",
+    "description": "Journée sensibilisant à l'importance du tourisme et de son impact sur les sociétés.",
+    "origin": "ONU/Société civile"
+  },
+  "0928": {
+    "date": "28 septembre",
+    "name": "Journée mondiale de la recherche sur les maladies rares",
+    "description": "Journée promouvant la recherche et la prise en charge des maladies rares.",
+    "origin": "Société civile"
+  },
+  "0929": {
+    "date": "29 septembre",
+    "name": "Journée mondiale du cœur",
+    "description": "Journée de sensibilisation à la santé cardiaque et à la prévention des maladies cardiaques.",
+    "origin": "OMS/Société civile"
+  },
+  "0930": {
+    "date": "30 septembre",
+    "name": "Journée internationale de la traduction",
+    "description": "Journée honorant les traducteurs et leur rôle dans la communication interculturelle.",
+    "origin": "ONU/Société civile"
+  },
+  "1001": {
+    "date": "1er octobre",
+    "name": "Journée internationale des personnes âgées",
+    "description": "Journée sensibilisant aux droits et à la dignité des personnes âgées.",
+    "origin": "ONU/Société civile"
+  },
+  "1002": {
+    "date": "2 octobre",
+    "name": "Journée internationale de la non-violence",
+    "description": "Journée dédiée à la promotion de la non-violence et à la résolution pacifique des conflits.",
+    "origin": "ONU/Société civile"
+  },
+  "1003": {
+    "date": "3 octobre",
+    "name": "Fête de l'Unité allemande",
+    "description": "Jour célébrant la réunification de l'Allemagne en 1990.",
+    "origin": "Culture allemande"
+  },
+  "1004": {
+    "date": "4 octobre",
+    "name": "Journée mondiale des animaux",
+    "description": "Journée visant à sensibiliser à la protection des animaux et à leur bien-être.",
+    "origin": "ONU/Société civile"
+  },
+  "1005": {
+    "date": "5 octobre",
+    "name": "Journée mondiale des enseignants",
+    "description": "Journée honorant le travail des enseignants et leur rôle dans la société.",
+    "origin": "UNESCO/Société civile"
+  },
+  "1006": {
+    "date": "6 octobre",
+    "name": "Fête de Saint Bruno",
+    "description": "Célébration chrétienne honorant Saint Bruno, fondateur de l'ordre des Chartreux.",
+    "origin": "Christianisme"
+  },
+  "1007": {
+    "date": "7 octobre",
+    "name": "Journée mondiale du tourisme",
+    "description": "Journée célébrant le tourisme et l'importance des échanges interculturels.",
+    "origin": "ONU/Société civile"
+  },
+  "1008": {
+    "date": "8 octobre",
+    "name": "Fête de la Déesse Durga",
+    "description": "Fête hindoue honorant la déesse Durga, symbole de la victoire du bien sur le mal.",
+    "origin": "Hindouisme"
+  },
+  "1009": {
+    "date": "9 octobre",
+    "name": "Journée mondiale du courrier",
+    "description": "Journée consacrée à l'importance des services postaux et à leur rôle dans la communication.",
+    "origin": "Société civile"
+  },
+  "1010": {
+    "date": "10 octobre",
+    "name": "Journée mondiale de la santé mentale",
+    "description": "Journée de sensibilisation aux troubles mentaux et à leur prise en charge.",
+    "origin": "OMS/Société civile"
+  },
+  "1011": {
+    "date": "11 octobre",
+    "name": "Journée internationale de la fille",
+    "description": "Journée visant à promouvoir les droits et l'égalité des filles à travers le monde.",
+    "origin": "ONU/Société civile"
+  },
+  "1012": {
+    "date": "12 octobre",
+    "name": "Journée mondiale des vagues",
+    "description": "Journée célébrant l'océan et la préservation des environnements marins.",
+    "origin": "Société civile"
+  },
+  "1013": {
+    "date": "13 octobre",
+    "name": "Journée internationale de la réduction des risques de catastrophes",
+    "description": "Journée sensibilisant aux stratégies de prévention des catastrophes naturelles.",
+    "origin": "ONU/Société civile"
+  },
+  "1014": {
+    "date": "14 octobre",
+    "name": "Fête de Saint Callixte",
+    "description": "Célébration chrétienne en l'honneur de Saint Callixte Ier, pape et martyr.",
+    "origin": "Christianisme"
+  },
+  "1015": {
+    "date": "15 octobre",
+    "name": "Journée internationale des femmes rurales",
+    "description": "Journée célébrant les femmes rurales et leur contribution à l'agriculture et au développement.",
+    "origin": "ONU/Société civile"
+  },
+  "1016": {
+    "date": "16 octobre",
+    "name": "Journée mondiale de l'alimentation",
+    "description": "Journée sensibilisant à la faim dans le monde et à la sécurité alimentaire.",
+    "origin": "FAO/Société civile"
+  },
+  "1017": {
+    "date": "17 octobre",
+    "name": "Journée internationale pour l'élimination de la pauvreté",
+    "description": "Journée dédiée à la lutte contre la pauvreté dans le monde.",
+    "origin": "ONU/Société civile"
+  },
+  "1018": {
+    "date": "18 octobre",
+    "name": "Fête de la Saint-Luc",
+    "description": "Célébration chrétienne honorant Saint Luc, l'évangéliste et patron des médecins.",
+    "origin": "Christianisme"
+  },
+  "1019": {
+    "date": "19 octobre",
+    "name": "Journée mondiale du pain",
+    "description": "Journée célébrant l'importance du pain et de l'alimentation dans les cultures du monde.",
+    "origin": "Société civile"
+  },
+  "1020": {
+    "date": "20 octobre",
+    "name": "Fête des Morts (Mexique)",
+    "description": "Jour marquant les premières célébrations de la fête des morts, honorant les défunts.",
+    "origin": "Culture mexicaine"
+  },
+  "1021": {
+    "date": "21 octobre",
+    "name": "Journée mondiale de l'optimisme",
+    "description": "Journée visant à promouvoir une attitude positive et optimiste face aux défis de la vie.",
+    "origin": "Société civile"
+  },
+  "1022": {
+    "date": "22 octobre",
+    "name": "Fête de Saint Jean-Paul II",
+    "description": "Célébration chrétienne en l'honneur de Saint Jean-Paul II, pape de 1978 à 2005.",
+    "origin": "Christianisme"
+  },
+  "1023": {
+    "date": "23 octobre",
+    "name": "Fête nationale de la Hongrie",
+    "description": "Jour célébrant la révolution hongroise de 1956 et l'indépendance du pays.",
+    "origin": "Culture hongroise"
+  },
+  "1024": {
+    "date": "24 octobre",
+    "name": "Journée des Nations Unies",
+    "description": "Journée célébrant la création de l'ONU et ses efforts pour la paix et les droits humains.",
+    "origin": "ONU"
+  },
+  "1025": {
+    "date": "25 octobre",
+    "name": "Journée mondiale de la pâleontologie",
+    "description": "Journée dédiée à l'étude des fossiles et de l'évolution des espèces.",
+    "origin": "Société civile"
+  },
+  "1026": {
+    "date": "26 octobre",
+    "name": "Fête de la République de Chine (Taiwan)",
+    "description": "Jour marquant la fondation de la République de Chine en 1911.",
+    "origin": "Culture taïwanaise"
+  },
+  "1027": {
+    "date": "27 octobre",
+    "name": "Fête de Saint Frédéric",
+    "description": "Célébration chrétienne honorant Saint Frédéric, ermite et missionnaire.",
+    "origin": "Christianisme"
+  },
+  "1028": {
+    "date": "28 octobre",
+    "name": "Fête de l'indépendance de la Tchécoslovaquie",
+    "description": "Jour célébrant l'indépendance de la Tchécoslovaquie en 1918.",
+    "origin": "Culture tchécoslovaque"
+  },
+  "1029": {
+    "date": "29 octobre",
+    "name": "Journée mondiale de la biélorussie",
+    "description": "Journée honorant la culture et l'histoire de la Biélorussie.",
+    "origin": "Culture biélorusse"
+  },
+  "1030": {
+    "date": "30 octobre",
+    "name": "Journée mondiale des personnes handicapées",
+    "description": "Journée sensibilisant aux droits des personnes en situation de handicap.",
+    "origin": "ONU/Société civile"
+  },
+  "1031": {
+    "date": "31 octobre",
+    "name": "Halloween",
+    "description": "Fête traditionnelle célébrée dans de nombreux pays, marquée par des costumes, des bonbons et des décorations effrayantes.",
+    "origin": "Culture occidentale"
+  },
+  "1101": {
+    "date": "1er novembre",
+    "name": "Toussaint",
+    "description": "Fête chrétienne honorant tous les saints et martyrs.",
+    "origin": "Christianisme"
+  },
+  "1102": {
+    "date": "2 novembre",
+    "name": "Journée des morts (Mexique)",
+    "description": "Célébration mexicaine honorant les défunts avec des offrandes et des festivités.",
+    "origin": "Culture mexicaine"
+  },
+  "1103": {
+    "date": "3 novembre",
+    "name": "Journée internationale de la gentillesse",
+    "description": "Journée visant à promouvoir les actes de gentillesse dans le monde.",
+    "origin": "Société civile"
+  },
+  "1104": {
+    "date": "4 novembre",
+    "name": "Fête de l'indépendance du Ghana",
+    "description": "Jour célébrant l'indépendance du Ghana vis-à-vis du Royaume-Uni en 1957.",
+    "origin": "Culture ghanéenne"
+  },
+  "1105": {
+    "date": "5 novembre",
+    "name": "Fête de Guy Fawkes",
+    "description": "Célébration britannique marquée par des feux d'artifice et des feux de joie, commémorant l'échec de la conspiration des poudres en 1605.",
+    "origin": "Culture britannique"
+  },
+  "1106": {
+    "date": "6 novembre",
+    "name": "Journée internationale de la radiologie",
+    "description": "Journée dédiée à la reconnaissance de l'importance de la radiologie dans les soins de santé.",
+    "origin": "Société civile"
+  },
+  "1107": {
+    "date": "7 novembre",
+    "name": "Journée mondiale de la science au service de la paix et du développement",
+    "description": "Journée célébrant le rôle de la science dans la résolution des problèmes mondiaux.",
+    "origin": "ONU/Société civile"
+  },
+  "1108": {
+    "date": "8 novembre",
+    "name": "Journée mondiale du radiologue",
+    "description": "Journée consacrée à la reconnaissance des radiologues et à leur rôle dans le domaine médical.",
+    "origin": "Société civile"
+  },
+  "1109": {
+    "date": "9 novembre",
+    "name": "Fête de la chute du mur de Berlin",
+    "description": "Jour commémorant la chute du mur de Berlin en 1989, symbole de la fin de la guerre froide.",
+    "origin": "Culture allemande"
+  },
+  "1110": {
+    "date": "10 novembre",
+    "name": "Journée des vétérans (États-Unis)",
+    "description": "Jour honorant les anciens combattants des forces armées des États-Unis.",
+    "origin": "Culture américaine"
+  },
+  "1111": {
+    "date": "11 novembre",
+    "name": "Armistice (France et d'autres pays)",
+    "description": "Jour marquant la fin de la Première Guerre mondiale en 1918, célébré dans plusieurs pays.",
+    "origin": "Culture européenne"
+  },
+  "1112": {
+    "date": "12 novembre",
+    "name": "Journée mondiale des pneumonies",
+    "description": "Journée sensibilisant à la prévention des pneumonies et aux efforts de santé publique.",
+    "origin": "OMS/Société civile"
+  },
+  "1113": {
+    "date": "13 novembre",
+    "name": "Journée mondiale de la gentillesse",
+    "description": "Journée dédiée à la promotion de la gentillesse dans le monde entier.",
+    "origin": "Société civile"
+  },
+  "1114": {
+    "date": "14 novembre",
+    "name": "Journée mondiale du diabète",
+    "description": "Journée visant à sensibiliser à la prévention du diabète et à son traitement.",
+    "origin": "OMS/Société civile"
+  },
+  "1115": {
+    "date": "15 novembre",
+    "name": "Journée mondiale de la philosophie",
+    "description": "Journée célébrant la réflexion philosophique et son rôle dans la société.",
+    "origin": "UNESCO/Société civile"
+  },
+  "1116": {
+    "date": "16 novembre",
+    "name": "Journée internationale de la tolérance",
+    "description": "Journée dédiée à la promotion de la tolérance et du respect entre les cultures.",
+    "origin": "ONU/Société civile"
+  },
+  "1117": {
+    "date": "17 novembre",
+    "name": "Journée internationale du student",
+    "description": "Journée célébrant les étudiants du monde entier et leur contribution à la société.",
+    "origin": "Société civile"
+  },
+  "1118": {
+    "date": "18 novembre",
+    "name": "Fête de Saint Albert le Grand",
+    "description": "Célébration chrétienne honorant Saint Albert, théologien et philosophe médiéval.",
+    "full_description": "La Fête de Saint Albert le Grand est une célébration chrétienne qui a lieu chaque année pour honorer la mémoire de Saint Albert, un théologien et philosophe médiéval d'une grande importance. Né vers 1206 en Allemagne, Albert le Grand, également connu sous le nom d'Albertus Magnus, a été un intellectuel prolifique qui a joué un rôle clé dans la synthèse de la pensée aristotélicienne avec la doctrine chrétienne.",
+    "origin": "Christianisme",
+    "good_to_know": "Des activités communautaires, des conférences et des discussions sur ses œuvres peuvent également avoir lieu, permettant aux participants de mieux comprendre son impact sur la pensée chrétienne et la culture occidentale. La Fête de Saint Albert le Grand est ainsi une occasion de célébrer non seulement un saint, mais aussi l'esprit de curiosité intellectuelle et de dévotion qui l'animait.",
+    "action": "Les fidèles sont encouragés à méditer sur l'importance de la foi et de la raison, deux éléments que Saint Albert a toujours cherché à harmoniser. En outre, cette journée est l'occasion de promouvoir l'éducation et la recherche, en s'inspirant de l'exemple de Saint Albert, qui a toujours valorisé la quête de la vérité et la compréhension du monde à travers la science et la philosophie."
+  },
+  "1119": {
+    "date": "19 novembre",
+    "name": "Journée mondiale de la toilette",
+    "description": "Journée sensibilisant à l'importance de l'hygiène et de l'accès aux toilettes dans le monde.",
+    "origin": "ONU/Société civile"
+  },
+  "1120": {
+    "date": "20 novembre",
+    "name": "Journée mondiale de l'enfance",
+    "description": "Journée célébrant les droits des enfants et leur bien-être.",
+    "origin": "ONU/Société civile"
+  },
+  "1121": {
+    "date": "21 novembre",
+    "name": "Journée mondiale de la télévision",
+    "description": "Journée célébrant l'impact de la télévision sur la société et la culture.",
+    "origin": "ONU/Société civile"
+  },
+  "1122": {
+    "date": "22 novembre",
+    "name": "Fête de Sainte Cécile",
+    "description": "Célébration chrétienne honorant Sainte Cécile, patronne des musiciens.",
+    "origin": "Christianisme"
+  },
+  "1123": {
+    "date": "23 novembre",
+    "name": "Journée internationale de la défense des droits des enfants",
+    "description": "Journée promouvant les droits et la protection des enfants dans le monde.",
+    "origin": "ONU/Société civile"
+  },
+  "1124": {
+    "date": "24 novembre",
+    "name": "Journée mondiale du génie génétique",
+    "description": "Journée dédiée à la science du génie génétique et à ses applications dans la médecine.",
+    "origin": "Société civile"
+  },
+  "1125": {
+    "date": "25 novembre",
+    "name": "Journée internationale pour l'élimination de la violence à l'égard des femmes",
+    "description": "Journée sensibilisant à la lutte contre la violence basée sur le genre.",
+    "origin": "ONU/Société civile"
+  },
+  "1126": {
+    "date": "26 novembre",
+    "name": "Journée du merci",
+    "description": "Journée dédiée à l'expression de gratitude envers les autres.",
+    "origin": "Société civile"
+  },
+  "1127": {
+    "date": "27 novembre",
+    "name": "Journée mondiale de la consommation responsable",
+    "description": "Journée promouvant des habitudes de consommation respectueuses de l'environnement.",
+    "origin": "Société civile"
+  },
+  "1128": {
+    "date": "28 novembre",
+    "name": "Journée des travailleurs sociaux",
+    "description": "Journée honorant le rôle des travailleurs sociaux dans la société.",
+    "origin": "Société civile"
+  },
+  "1129": {
+    "date": "29 novembre",
+    "name": "Journée internationale de solidarité avec le peuple palestinien",
+    "description": "Journée pour soutenir le peuple palestinien et promouvoir la paix au Moyen-Orient.",
+    "origin": "ONU/Société civile"
+  },
+  "1130": {
+    "date": "30 novembre",
+    "name": "Fête de Saint André",
+    "description": "Célébration chrétienne honorant Saint André, l'un des apôtres de Jésus.",
+    "origin": "Christianisme"
+  },
+  "1201": {
+    "date": "1er décembre",
+    "name": "Journée mondiale de lutte contre le sida",
+    "description": "Journée visant à sensibiliser à la lutte contre le VIH/sida et à réduire la stigmatisation.",
+    "origin": "OMS/Société civile"
+  },
+  "1202": {
+    "date": "2 décembre",
+    "name": "Journée internationale pour l'abolition de l'esclavage",
+    "description": "Journée dédiée à la lutte contre l'esclavage moderne et à la protection des droits humains.",
+    "origin": "ONU/Société civile"
+  },
+  "1203": {
+    "date": "3 décembre",
+    "name": "Journée internationale des personnes handicapées",
+    "description": "Journée promouvant les droits et l'intégration des personnes handicapées dans la société.",
+    "origin": "ONU/Société civile"
+  },
+  "1204": {
+    "date": "4 décembre",
+    "name": "Fête de Saint François Xavier",
+    "description": "Célébration chrétienne honorant Saint François Xavier, missionnaire jésuite.",
+    "origin": "Christianisme"
+  },
+  "1205": {
+    "date": "5 décembre",
+    "name": "Journée internationale des bénévoles",
+    "description": "Journée honorant l'engagement des bénévoles dans le monde entier.",
+    "origin": "ONU/Société civile"
+  },
+  "1206": {
+    "date": "6 décembre",
+    "name": "Fête de Saint Nicolas",
+    "description": "Célébration chrétienne honorant Saint Nicolas, protecteur des enfants et des marins.",
+    "origin": "Christianisme"
+  },
+  "1207": {
+    "date": "7 décembre",
+    "name": "Journée internationale de la sécurité civile",
+    "description": "Journée sensibilisant à la sécurité civile et aux efforts de protection des populations.",
+    "origin": "ONU/Société civile"
+  },
+  "1208": {
+    "date": "8 décembre",
+    "name": "Fête de l'Immaculée Conception",
+    "description": "Célébration chrétienne marquant la conception sans péché de la Vierge Marie.",
+    "origin": "Christianisme"
+  },
+  "1209": {
+    "date": "9 décembre",
+    "name": "Journée internationale de lutte contre la corruption",
+    "description": "Journée sensibilisant à la lutte contre la corruption et ses effets dévastateurs sur la société.",
+    "origin": "ONU/Société civile"
+  },
+  "1210": {
+    "date": "10 décembre",
+    "name": "Journée des droits de l'homme",
+    "description": "Journée célébrant l'adoption de la Déclaration universelle des droits de l'homme en 1948.",
+    "origin": "ONU/Société civile"
+  },
+  "1211": {
+    "date": "11 décembre",
+    "name": "Journée internationale de la montagne",
+    "description": "Journée dédiée à la conservation des montagnes et à la promotion du développement durable.",
+    "origin": "ONU/Société civile"
+  },
+  "1212": {
+    "date": "12 décembre",
+    "name": "Journée internationale de la neutralité",
+    "description": "Journée visant à promouvoir la neutralité dans les conflits internationaux.",
+    "origin": "ONU/Société civile"
+  },
+  "1213": {
+    "date": "13 décembre",
+    "name": "Journée internationale des tétraplégiques",
+    "description": "Journée consacrée à la sensibilisation et au soutien des personnes vivant avec une tétraplégie.",
+    "origin": "Société civile"
+  },
+  "1214": {
+    "date": "14 décembre",
+    "name": "Fête de Sainte-Lucie (suédoise)",
+    "description": "Célébration scandinave marquant la fête de Sainte-Lucie, symbole de lumière dans l'obscurité de l'hiver.",
+    "origin": "Culture scandinave"
+  },
+  "1215": {
+    "date": "15 décembre",
+    "name": "Journée mondiale du migrant",
+    "description": "Journée dédiée aux droits des migrants et à la reconnaissance de leurs contributions à la société.",
+    "origin": "ONU/Société civile"
+  },
+  "1216": {
+    "date": "16 décembre",
+    "name": "Journée de la réconciliation en Afrique du Sud",
+    "description": "Jour de commémoration de l'abolition de l'apartheid et des efforts de réconciliation nationale.",
+    "origin": "Culture sud-africaine"
+  },
+  "1217": {
+    "date": "17 décembre",
+    "name": "Journée internationale du pull de Noël",
+    "description": "Journée consacrée à la célébration du pull de Noël, souvent porté lors de fêtes et événements.",
+    "origin": "Société civile"
+  },
+  "1218": {
+    "date": "18 décembre",
+    "name": "Journée internationale des migrants",
+    "description": "Journée célébrant les contributions des migrants et leur rôle dans le développement des sociétés.",
+    "origin": "ONU/Société civile"
+  },
+  "1219": {
+    "date": "19 décembre",
+    "name": "Fête de Saint Urbain",
+    "description": "Célébration chrétienne honorant Saint Urbain, pape et martyr.",
+    "origin": "Christianisme"
+  },
+  "1220": {
+    "date": "20 décembre",
+    "name": "Journée mondiale de la solidarité humaine",
+    "description": "Journée dédiée à la solidarité humaine et à la promotion de la coopération entre les nations.",
+    "origin": "ONU/Société civile"
+  },
+  "1221": {
+    "date": "21 décembre",
+    "name": "Fête du solstice d'hiver",
+    "description": "Célébration marquant le début de l'hiver et le solstice d'hiver dans l'hémisphère nord.",
+    "origin": "Culture païenne"
+  },
+  "1222": {
+    "date": "22 décembre",
+    "name": "Journée internationale du théâtre",
+    "description": "Journée dédiée à la célébration de l'art théâtral et de son rôle dans la culture.",
+    "origin": "Société civile"
+  },
+  "1223": {
+    "date": "23 décembre",
+    "name": "Fête de Hanoucca (selon le calendrier juif)",
+    "description": "Fête juive célébrant la dédicace du Temple à Jérusalem et le miracle de l'huile.",
+    "origin": "Judaïsme"
+  },
+  "1224": {
+    "date": "24 décembre",
+    "name": "Veillée de Noël",
+    "description": "Célébration chrétienne anticipant la naissance de Jésus-Christ, marquée par une messe de minuit et des festins.",
+    "origin": "Christianisme"
+  },
+  "1225": {
+    "date": "25 décembre",
+    "name": "Noël",
+    "description": "Fête chrétienne célébrant la naissance de Jésus-Christ, avec des traditions de cadeaux et repas festifs.",
+    "origin": "Christianisme"
+  },
+  "1226": {
+    "date": "26 décembre",
+    "name": "Fête de la Saint-Étienne",
+    "description": "Célébration chrétienne honorant Saint Étienne, le premier martyr chrétien.",
+    "origin": "Christianisme"
+  },
+  "1227": {
+    "date": "27 décembre",
+    "name": "Journée mondiale du yoga",
+    "description": "Journée consacrée à la pratique et à la promotion du yoga comme moyen de bien-être physique et mental.",
+    "origin": "Société civile"
+  },
+  "1228": {
+    "date": "28 décembre",
+    "name": "Fête des Innocents",
+    "description": "Fête chrétienne commémorant le massacre des innocents par le roi Hérode, selon l'Évangile.",
+    "origin": "Christianisme"
+  },
+  "1229": {
+    "date": "29 décembre",
+    "name": "Journée mondiale de la biodiversité",
+    "description": "Journée sensibilisant à la préservation de la biodiversité et à la protection des écosystèmes.",
+    "origin": "ONU/Société civile"
+  },
+  "1230": {
+    "date": "30 décembre",
+    "name": "Journée des anciens combattants",
+    "description": "Jour honorant les anciens combattants et leur sacrifice pour leur pays.",
+    "origin": "Culture civile"
+  },
+  "1231": {
+    "date": "31 décembre",
+    "name": "Veillée du Nouvel An",
+    "description": "Célébration de la fin de l'année et des traditions du passage à la nouvelle année, souvent avec des feux d'artifice.",
+    "origin": "Société civile"
+  }
+}
