@@ -331,176 +331,292 @@
   "0201": {
     "date": "1er février",
     "name": "Imbolc",
-    "description": "Fête celtique marquant le début du printemps, célébrée par les adeptes du néo-paganisme.",
-    "origin": "Culture celtique/néo-paganisme"
+    "description": "Fête celtique marquant le début du printemps, célébrée par les adeptes du néo-paganisme",
+    "origin": "Culture celtique/néo-paganisme",
+    "image": "https://images.unsplash.com/photo-1551582045-6ec9c11d8697",
+    "full_description": "Imbolc est l'une des quatre principales fêtes celtiques, marquant le point médian entre le solstice d'hiver et l'équinoxe de printemps. Traditionnellement associée à la déesse Brigid, elle célèbre les premiers signes du printemps et le retour de la lumière. Cette fête est particulièrement liée à la purification, au renouveau et à la créativité.",
+    "good_to_know": "Imbolc est souvent célébrée avec des rituels impliquant des bougies pour symboliser le retour de la lumière. La tradition veut qu'on nettoie et purifie sa maison à cette période. Les premiers perce-neige sont considérés comme des messagers d'Imbolc. Cette fête a influencé la Chandeleur chrétienne.",
+    "action": "- Allumer des bougies blanches pour la purification\n- Faire un grand nettoyage de printemps\n- Planter des graines précoces\n- Créer une croix de Brigid traditionnelle\n- Méditer sur ses projets pour l'année à venir"
   },
   "0202": {
     "date": "2 février",
     "name": "Chandeleur",
-    "description": "Fête chrétienne commémorant la Présentation de Jésus au Temple, également associée à la tradition des crêpes.",
-    "origin": "Christianisme"
+    "description": "Fête chrétienne commémorant la Présentation de Jésus au Temple, également associée à la tradition des crêpes",
+    "origin": "Christianisme",
+    "image": "https://images.unsplash.com/photo-1519676867240-f03562e64548",
+    "full_description": "La Chandeleur, ou fête de la Présentation de Jésus au Temple, commémore la présentation de l'enfant Jésus au Temple de Jérusalem et la purification de la Vierge Marie. Cette fête chrétienne, qui tire son nom de 'chandelle', est caractérisée par la bénédiction des cierges et, en France, par la tradition populaire de faire des crêpes.",
+    "good_to_know": "La tradition de faire des crêpes viendrait de la forme ronde et dorée rappelant le soleil, symbolisant le retour de la lumière après l'hiver. Une coutume veut qu'on fasse sauter la crêpe de la main droite en tenant une pièce d'or dans la main gauche pour s'assurer prospérité toute l'année. Les cierges bénis ce jour-là sont conservés pour protéger le foyer.",
+    "action": "- Préparer et partager des crêpes en famille\n- Participer à la bénédiction des cierges\n- Apprendre l'histoire de la Présentation au Temple\n- Organiser une fête des lumières\n- Découvrir les traditions de la Chandeleur dans différents pays"
   },
   "0203": {
     "date": "3 février",
     "name": "Setsubun",
-    "description": "Festival japonais marquant la fin de l'hiver et le début du printemps, avec des rituels pour chasser les mauvais esprits.",
-    "origin": "Culture japonaise"
+    "description": "Festival japonais marquant la fin de l'hiver et le début du printemps, avec des rituels pour chasser les mauvais esprits",
+    "origin": "Culture japonaise",
+    "image": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d",
+    "full_description": "Setsubun (節分) signifie littéralement 'séparation des saisons'. Ce festival traditionnel japonais marque la veille du premier jour du printemps selon l'ancien calendrier lunaire. Le rituel le plus connu est le Mamemaki, qui consiste à jeter des haricots de soja en criant 'Oni wa soto, fuku wa uchi' (Les démons dehors, le bonheur dedans) pour chasser les mauvais esprits.",
+    "good_to_know": "Dans les temples et les maisons, on lance des haricots grillés vers une personne portant un masque d'oni (démon). Une autre tradition consiste à manger un long sushi roll (ehōmaki) en silence, face à la direction porte-bonheur de l'année. Le nombre de haricots qu'on mange traditionnellement correspond à son âge plus un.",
+    "action": "- Participer à un rituel de Mamemaki\n- Préparer et manger un ehōmaki\n- Décorer sa maison avec des branches de houx et des têtes de sardine\n- Apprendre sur la mythologie japonaise\n- Visiter un temple japonais local"
   },
   "0204": {
     "date": "4 février",
     "name": "Journée mondiale contre le cancer",
-    "description": "Journée internationale dédiée à la sensibilisation et à la prévention du cancer.",
-    "origin": "Société civile"
+    "description": "Journée internationale dédiée à la sensibilisation et à la prévention du cancer",
+    "origin": "Société civile",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef",
+    "full_description": "Lancée par l'Union Internationale Contre le Cancer (UICC), cette journée vise à sensibiliser le public au cancer, sa prévention, sa détection et son traitement. Elle rassemble la communauté mondiale dans la lutte contre cette maladie qui touche des millions de personnes. Chaque année, un thème spécifique est choisi pour orienter les actions et les campagnes de sensibilisation.",
+    "good_to_know": "Le cancer est la deuxième cause de décès dans le monde, mais environ 40% des cancers peuvent être prévenus par un mode de vie sain. Le ruban de différentes couleurs est utilisé comme symbole pour différents types de cancers. Cette journée met l'accent sur l'importance du dépistage précoce et des examens réguliers.",
+    "action": "- Faire un don à la recherche contre le cancer\n- Participer à une marche de sensibilisation\n- Se renseigner sur les facteurs de risque\n- Programmer un check-up médical\n- Soutenir une association d'aide aux malades"
   },
   "0205": {
     "date": "5 février",
     "name": "Fête de Sainte Agathe",
-    "description": "Célébration chrétienne en l'honneur de Sainte Agathe, martyre sicilienne du IIIe siècle.",
-    "origin": "Christianisme"
+    "description": "Célébration chrétienne en l'honneur de Sainte Agathe, martyre sicilienne du IIIe siècle",
+    "origin": "Christianisme",
+    "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1709246934090-ZFPKU2XSD6JQDTPWT3A5/Sans+titre+7.png",
+    "full_description": "Sainte Agathe de Catane, vierge et martyre du IIIe siècle, est l'une des saintes les plus vénérées de la chrétienté. Selon la tradition, elle refusa les avances du gouverneur romain Quintianus et subit d'atroces tortures, dont l'amputation des seins. Elle est devenue la patronne des nourrices, des fondeurs de cloches et est invoquée contre les maladies du sein et les incendies.",
+    "good_to_know": "En Sicile, particulièrement à Catane, sa fête donne lieu à l'une des plus grandes processions religieuses au monde. Une tradition particulière consiste à bénir des petits pains en forme de seins, appelés 'minne di Sant'Agata'. Elle est souvent représentée portant ses seins sur un plateau.",
+    "action": "- Visiter une église dédiée à Sainte Agathe\n- Découvrir les traditions siciliennes\n- Participer à une procession si possible\n- Préparer des pains traditionnels\n- En apprendre plus sur l'histoire des martyrs chrétiens"
   },
   "0206": {
     "date": "6 février",
     "name": "Waitangi Day",
-    "description": "Fête nationale en Nouvelle-Zélande commémorant la signature du traité de Waitangi en 1840.",
-    "origin": "Culture néo-zélandaise"
+    "description": "Fête nationale en Nouvelle-Zélande commémorant la signature du traité de Waitangi en 1840",
+    "origin": "Culture néo-zélandaise",
+    "image": "https://images.unsplash.com/photo-1589802829985-817e51171b92",
+    "full_description": "Le Waitangi Day commémore la signature du Traité de Waitangi en 1840, document fondateur de la Nouvelle-Zélande moderne, établissant une relation entre la Couronne britannique et les Maoris. Cette journée est l'occasion de réfléchir sur l'histoire du pays, ses défis et ses succès en tant que nation biculturelle, et de célébrer la diversité culturelle.",
+    "good_to_know": "Les célébrations principales ont lieu à Waitangi, lieu historique de la signature du traité. La journée commence traditionnellement par une cérémonie de lever du drapeau et des discours officiels. Des festivals culturels, des concerts et des cérémonies traditionnelles maories (powhiri) sont organisés dans tout le pays.",
+    "action": "- Apprendre quelques mots en langue maorie\n- Découvrir l'histoire du Traité de Waitangi\n- Participer à des célébrations culturelles\n- Cuisiner des plats traditionnels néo-zélandais\n- Explorer la culture maorie"
   },
   "0207": {
     "date": "7 février",
     "name": "Indépendance de Grenade",
-    "description": "Jour férié célébrant l'indépendance de Grenade obtenue en 1974.",
-    "origin": "Culture grenadienne"
+    "description": "Jour férié célébrant l'indépendance de Grenade obtenue en 1974",
+    "origin": "Culture grenadienne",
+    "image": "https://images.unsplash.com/photo-1584551882400-a54c5c0c9648",
+    "full_description": "Le 7 février 1974, Grenade obtient son indépendance du Royaume-Uni, devenant une nation souveraine. Cette petite île des Caraïbes, surnommée 'l'île aux épices' pour sa production de muscade et autres épices, célèbre cette journée avec fierté. L'indépendance marque la fin de plus de 200 ans de domination coloniale britannique.",
+    "good_to_know": "Les célébrations incluent des parades militaires, des festivals culturels et des événements sportifs. Le drapeau national de Grenade, avec ses sept étoiles d'or représentant les sept districts administratifs, est particulièrement mis à l'honneur. La muscade, principale exportation du pays, est représentée sur le drapeau national.",
+    "action": "- Découvrir la cuisine créole grenadienne\n- Apprendre l'histoire de Grenade\n- Cuisiner avec des épices de Grenade\n- Écouter de la musique calypso\n- Explorer la culture caribéenne"
   },
   "0208": {
     "date": "8 février",
     "name": "Parinirvana (Nirvana Day)",
-    "description": "Fête bouddhiste commémorant le décès et l'entrée dans le Nirvana du Bouddha.",
-    "origin": "Bouddhisme"
+    "description": "Fête bouddhiste commémorant le décès et l'entrée dans le Nirvana du Bouddha",
+    "origin": "Bouddhisme",
+    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2",
+    "full_description": "Le Parinirvana, ou Jour du Nirvana, commémore le moment où le Bouddha Shakyamuni a atteint le Nirvana final (parinirvana) à sa mort physique. Cette journée est l'occasion de réfléchir sur l'impermanence de la vie et les enseignements du Bouddha sur la libération de la souffrance. Dans la tradition Mahayana, c'est l'une des fêtes les plus importantes.",
+    "good_to_know": "Dans les temples, on récite des sutras et on fait des offrandes. Certains pratiquants jeûnent ou méditent plus longuement ce jour-là. La statue du Bouddha allongé, représentant son parinirvana, est particulièrement vénérée. C'est aussi l'occasion de rendre visite aux malades et aux mourants.",
+    "action": "- Méditer sur l'impermanence\n- Visiter un temple bouddhiste\n- Étudier les enseignements du Bouddha\n- Pratiquer la compassion active\n- Faire des offrandes au temple"
   },
   "0209": {
     "date": "9 février",
     "name": "Fête de Saint Maron",
-    "description": "Célébration en l'honneur de Saint Maron, fondateur de l'Église maronite.",
-    "origin": "Christianisme maronite"
+    "description": "Célébration en l'honneur de Saint Maron, fondateur de l'Église maronite",
+    "origin": "Christianisme maronite",
+    "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1709246934090-ZFPKU2XSD6JQDTPWT3A5/Sans+titre+7.png",
+    "full_description": "Saint Maron était un prêtre et ermite syrien du IVe siècle qui a fondé la communauté chrétienne qui deviendra l'Église maronite. Vivant une vie d'ascétisme sur une montagne, il attirait de nombreux disciples par sa sainteté et ses miracles. Son héritage spirituel est particulièrement important au Liban, où l'Église maronite reste une institution majeure.",
+    "good_to_know": "L'Église maronite est la seule Église orientale entièrement unie avec Rome tout en conservant son propre rite. Cette fête est un jour férié au Liban. Les célébrations incluent des liturgies spéciales, des processions et des festivités communautaires. La spiritualité maronite met l'accent sur la vie monastique et contemplative.",
+    "action": "- Assister à une liturgie maronite\n- Découvrir la culture libanaise\n- Étudier l'histoire de l'Église maronite\n- Préparer des plats libanais traditionnels\n- Explorer la spiritualité orientale"
   },
   "0210": {
     "date": "10 février",
     "name": "Fête de Sainte Scholastique",
-    "description": "Célébration chrétienne en l'honneur de Sainte Scholastique, sœur de Saint Benoît.",
-    "origin": "Christianisme"
+    "description": "Célébration chrétienne en l'honneur de Sainte Scholastique, sœur de Saint Benoît",
+    "origin": "Christianisme",
+    "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1709246934090-ZFPKU2XSD6JQDTPWT3A5/Sans+titre+7.png",
+    "full_description": "Sainte Scholastique (480-543), sœur jumelle de Saint Benoît de Nursie, est la fondatrice de la branche féminine de l'ordre bénédictin. La tradition raconte qu'elle rencontrait son frère une fois par an pour des discussions spirituelles. Lors de leur dernière rencontre, elle pria pour que la pluie empêche son frère de partir, obtenant ainsi plus de temps pour leurs échanges spirituels.",
+    "good_to_know": "Elle est la patronne des religieuses bénédictines et est souvent invoquée contre les orages et la pluie. Dans l'art, elle est représentée en habit monastique noir, parfois avec une colombe (symbole de son âme montant au ciel à sa mort). Les monastères bénédictins célèbrent particulièrement sa fête.",
+    "action": "- Visiter un monastère bénédictin\n- Étudier la Règle de Saint Benoît\n- Pratiquer le silence et la contemplation\n- Découvrir l'histoire du monachisme féminin\n- Participer à une retraite spirituelle"
   },
   "0211": {
     "date": "11 février",
     "name": "Journée internationale des femmes et des filles de science",
-    "description": "Journée promouvant la participation des femmes et des filles dans les domaines scientifiques.",
-    "origin": "ONU/Société civile"
+    "description": "Journée promouvant la participation des femmes et des filles dans les domaines scientifiques",
+    "origin": "ONU/Société civile",
+    "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69",
+    "full_description": "Établie par l'ONU en 2015, cette journée vise à promouvoir l'accès et la participation pleine et égale des femmes et des filles aux sciences. Elle met en lumière les contributions des femmes scientifiques tout en luttant contre les préjugés et les stéréotypes qui peuvent décourager les filles de poursuivre des carrières scientifiques.",
+    "good_to_know": "Malgré les progrès, les femmes restent sous-représentées dans de nombreux domaines scientifiques. Cette journée est l'occasion de mettre en avant des modèles féminins en sciences et de sensibiliser aux obstacles persistants. De nombreuses institutions organisent des portes ouvertes et des ateliers spéciaux.",
+    "action": "- Organiser des ateliers scientifiques pour les filles\n- Découvrir l'histoire des femmes scientifiques\n- Soutenir des programmes STEM pour les filles\n- Partager des histoires de femmes scientifiques inspirantes\n- Encourager les vocations scientifiques féminines"
   },
   "0212": {
     "date": "12 février",
     "name": "Lincoln's Birthday",
-    "description": "Jour honorant la naissance d'Abraham Lincoln, 16e président des États-Unis.",
-    "origin": "Culture américaine"
+    "description": "Jour honorant la naissance d'Abraham Lincoln, 16e président des États-Unis",
+    "origin": "Culture américaine",
+    "image": "https://images.unsplash.com/photo-1535534707159-3c5eca9e191a",
+    "full_description": "Abraham Lincoln (1809-1865), 16e président des États-Unis, est célébré pour avoir dirigé le pays pendant la Guerre de Sécession et pour avoir aboli l'esclavage. Né dans une cabane en rondins dans le Kentucky, son parcours exemplaire d'autodidacte devenu président symbolise le rêve américain. Son leadership pendant la guerre civile et son assassinat en ont fait une figure quasi mythique de l'histoire américaine.",
+    "good_to_know": "Bien que le Presidents' Day soit maintenant la célébration officielle, certains États continuent de commémorer spécifiquement l'anniversaire de Lincoln. Son portrait orne le billet de 5 dollars et le penny américain. Le Lincoln Memorial à Washington D.C. est l'un des monuments les plus visités du pays.",
+    "action": "- Visiter un site historique lié à Lincoln\n- Lire le discours de Gettysburg\n- Étudier l'histoire de la Guerre de Sécession\n- Regarder un documentaire sur Lincoln\n- Participer à des événements commémoratifs"
   },
   "0213": {
     "date": "13 février",
     "name": "Maha Shivaratri",
-    "description": "Fête hindoue dédiée au dieu Shiva, marquée par des veillées et des prières nocturnes.",
-    "origin": "Hindouisme"
+    "description": "Fête hindoue dédiée au dieu Shiva, marquée par des veillées et des prières nocturnes",
+    "origin": "Hindouisme",
+    "image": "https://images.unsplash.com/photo-1567593810070-7a3d471af022",
+    "full_description": "Maha Shivaratri ('La Grande Nuit de Shiva') est l'une des plus importantes fêtes hindoues, célébrant le dieu Shiva. Selon la tradition, c'est durant cette nuit que Shiva a exécuté la danse cosmique de la création, la Tandava. Les fidèles observent un jeûne strict et restent éveillés toute la nuit, pratiquant la méditation et la prière.",
+    "good_to_know": "La célébration implique quatre veilles nocturnes, chacune avec des rituels spécifiques. Les temples de Shiva sont décorés et illuminés, et le lingam (symbole de Shiva) est baigné de lait, de miel et d'eau. Les dévots chantent 'Om Namah Shivaya' et pratiquent le yoga. Cette nuit est considérée comme particulièrement propice à l'éveil spirituel.",
+    "action": "- Participer à une veillée dans un temple\n- Pratiquer la méditation\n- Étudier la symbolique de Shiva\n- Découvrir les chants dévotionnels\n- Explorer les traditions du yoga"
   },
   "0214": {
     "date": "14 février",
     "name": "Saint-Valentin",
-    "description": "Fête célébrant l'amour et l'affection entre partenaires intimes.",
-    "origin": "Culture occidentale"
+    "description": "Fête célébrant l'amour et l'affection entre partenaires intimes",
+    "origin": "Culture occidentale",
+    "image": "https://images.unsplash.com/photo-1518199266791-5375a83190b7",
+    "full_description": "La Saint-Valentin, initialement une fête chrétienne honorant Saint Valentin, est devenue une célébration mondiale de l'amour romantique. Son origine remonte au Moyen Âge, où la tradition des messages d'amour et des poèmes commence à se développer. Aujourd'hui, c'est l'occasion pour les couples d'exprimer leur amour à travers des cadeaux, des cartes et des moments partagés.",
+    "good_to_know": "Les symboles traditionnels incluent les cœurs, les roses rouges, et Cupidon. En France, la ville de Saint-Valentin dans l'Indre organise un festival spécial. Au Japon, ce sont traditionnellement les femmes qui offrent du chocolat aux hommes. Certains pays ont développé des traditions alternatives comme le 'Singles Day' en Chine.",
+    "action": "- Écrire une lettre d'amour personnalisée\n- Préparer un dîner romantique\n- Offrir des fleurs ou du chocolat\n- Organiser une sortie spéciale\n- Créer un cadeau fait main"
   },
   "0215": {
     "date": "15 février",
     "name": "Parinirvana (Nirvana Day)",
-    "description": "Fête bouddhiste commémorant le décès et l'entrée dans le Nirvana du Bouddha.",
-    "origin": "Bouddhisme"
+    "description": "Fête bouddhiste commémorant le décès et l'entrée dans le Nirvana du Bouddha",
+    "origin": "Bouddhisme",
+    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2",
+    "full_description": "Cette seconde célébration du Parinirvana (certaines traditions la célébrant à cette date plutôt qu'au 8 février) commémore le moment où le Bouddha a atteint le Nirvana final. C'est un moment de réflexion profonde sur l'impermanence et les enseignements du Bouddha sur la libération de la souffrance.",
+    "good_to_know": "Dans certains pays bouddhistes, cette journée est marquée par des visites aux temples, des offrandes de nourriture aux moines, et la lecture de textes sacrés. Les pratiquants méditent sur la nature de l'existence et de la mort. C'est aussi l'occasion de pratiquer la générosité et la compassion envers tous les êtres.",
+    "action": "- Pratiquer la méditation sur l'impermanence\n- Faire des offrandes au temple\n- Étudier les enseignements du Bouddha\n- Participer à une cérémonie bouddhiste\n- Réfléchir sur le sens de la vie"
   },
   "0216": {
     "date": "16 février",
     "name": "Vasant Panchami",
-    "description": "Fête hindoue célébrant Saraswati, déesse de la connaissance et des arts.",
-    "origin": "Hindouisme"
+    "description": "Fête hindoue célébrant Saraswati, déesse de la connaissance et des arts",
+    "origin": "Hindouisme",
+    "image": "https://images.unsplash.com/photo-1604605801370-3396f9bd9ba0",
+    "full_description": "Vasant Panchami marque le début du printemps dans la tradition hindoue et honore Saraswati, déesse de la connaissance, de la musique, de l'art et de l'apprentissage. Cette fête est particulièrement importante dans le monde éducatif indien. C'est traditionnellement le jour où les enfants commencent leur éducation formelle, une cérémonie appelée 'Vidyarambham'.",
+    "good_to_know": "La couleur jaune est dominante pendant cette fête, symbolisant la floraison de la moutarde, typique de la saison. Les gens portent des vêtements jaunes et préparent des plats spéciaux. Les étudiants placent leurs livres et instruments de musique devant l'image de Saraswati pour recevoir sa bénédiction.",
+    "action": "- Porter du jaune en l'honneur de la fête\n- Commencer l'apprentissage de quelque chose de nouveau\n- Pratiquer un art ou un instrument de musique\n- Participer à une puja de Saraswati\n- Organiser une célébration culturelle"
   },
   "0217": {
     "date": "17 février",
     "name": "Random Acts of Kindness Day",
-    "description": "Journée encourageant les actes de gentillesse spontanés.",
-    "origin": "Société civile"
+    "description": "Journée encourageant les actes de gentillesse spontanés",
+    "origin": "Société civile",
+    "image": "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b",
+    "full_description": "Cette journée, créée pour promouvoir la bonté dans le monde, encourage chacun à accomplir des actes de gentillesse inattendus envers les autres. L'idée est que de petits gestes de bonté peuvent créer un effet d'entraînement positif dans la société. Cette célébration rappelle que la gentillesse peut transformer des vies et créer des connexions significatives entre les personnes.",
+    "good_to_know": "Les études montrent que la pratique d'actes de gentillesse améliore non seulement le bien-être des destinataires mais aussi celui des personnes qui les accomplissent. La gentillesse est contagieuse : les personnes qui sont témoins d'actes de bonté sont plus susceptibles d'en faire autant.",
+    "action": "- Payer le café de la personne suivante dans la file\n- Laisser un mot gentil à un inconnu\n- Aider quelqu'un à porter ses courses\n- Complimenter sincèrement cinq personnes\n- Faire du bénévolat dans sa communauté"
   },
   "0218": {
     "date": "18 février",
     "name": "Fête nationale de la Gambie",
-    "description": "Jour célébrant l'indépendance de la Gambie obtenue en 1965.",
-    "origin": "Culture gambienne"
+    "description": "Jour célébrant l'indépendance de la Gambie obtenue en 1965",
+    "origin": "Culture gambienne",
+    "image": "https://images.unsplash.com/photo-1528277342758-f1d7613953a2",
+    "full_description": "La Gambie célèbre son indépendance du Royaume-Uni, obtenue le 18 février 1965. Plus petit pays continental d'Afrique, la Gambie est connue pour son riche patrimoine culturel et sa diversité ethnique. Cette journée commémore la lutte pour l'indépendance et célèbre l'identité nationale gambienne.",
+    "good_to_know": "Les célébrations incluent des défilés militaires, des spectacles culturels et des festivals de musique. La Gambie est traversée par le fleuve Gambie, qui joue un rôle central dans la vie du pays. Les cérémonies officielles se déroulent à Banjul, la capitale, avec des performances de danse et de musique traditionnelles.",
+    "action": "- Découvrir la musique traditionnelle gambienne\n- Apprendre sur l'histoire de la Gambie\n- Cuisiner un plat gambien traditionnel\n- Explorer la culture ouest-africaine\n- Participer à des célébrations culturelles"
   },
   "0219": {
     "date": "19 février",
     "name": "Armée du Salut - Fondation",
-    "description": "Anniversaire de la fondation de l'Armée du Salut, organisation chrétienne caritative.",
-    "origin": "Christianisme/Société civile"
+    "description": "Anniversaire de la fondation de l'Armée du Salut, organisation chrétienne caritative",
+    "origin": "Christianisme/Société civile",
+    "image": "https://images.unsplash.com/photo-1544027993-37dbfe43562a",
+    "full_description": "L'Armée du Salut a été fondée en 1865 par William et Catherine Booth à Londres. À l'origine appelée 'Mission chrétienne de l'Est de Londres', elle est devenue l'Armée du Salut en 1878, adoptant une structure militaire et des uniformes. L'organisation combine l'évangélisation avec une action sociale auprès des plus démunis.",
+    "good_to_know": "L'Armée du Salut est présente dans plus de 130 pays. Reconnaissable à ses uniformes et sa musique de rue, elle est connue pour ses soupes populaires, ses foyers d'hébergement et ses collectes de dons. Son slogan 'Soupe, Savon, Salut' résume sa mission d'aide matérielle et spirituelle.",
+    "action": "- Faire un don à l'Armée du Salut\n- Participer à une action caritative\n- Découvrir l'histoire des Booth\n- S'engager dans le bénévolat social\n- Soutenir les initiatives locales d'aide aux démunis"
   },
   "0220": {
     "date": "20 février",
     "name": "Journée mondiale de la justice sociale",
-    "description": "Journée promouvant la justice sociale, incluant la lutte contre la pauvreté et les inégalités.",
-    "origin": "ONU/Société civile"
+    "description": "Journée promouvant la justice sociale, incluant la lutte contre la pauvreté et les inégalités",
+    "origin": "ONU/Société civile",
+    "image": "https://images.unsplash.com/photo-1460518451285-97b6aa326961",
+    "full_description": "Établie par l'ONU en 2007, cette journée met en lumière les enjeux de justice sociale : pauvreté, exclusion, chômage, inégalités de genre et accès aux services sociaux. Elle encourage la réflexion sur les moyens de construire des sociétés plus équitables et rappelle que le développement social et la justice sont indispensables à la paix.",
+    "good_to_know": "La justice sociale repose sur les principes d'égalité des droits, d'équité des chances et de solidarité. Cette journée est l'occasion de débats et conférences sur des thèmes comme le travail décent, l'égalité des genres, les droits des migrants et la protection sociale. De nombreuses organisations lancent des initiatives et campagnes ce jour-là.",
+    "action": "- S'informer sur les enjeux de justice sociale\n- Soutenir une cause sociale\n- Participer à un débat ou une conférence\n- S'engager dans une association\n- Sensibiliser son entourage aux inégalités"
   },
   "0221": {
     "date": "21 février",
     "name": "Journée internationale de la langue maternelle",
-    "description": "Journée célébrant la diversité linguistique et culturelle à travers le monde.",
-    "origin": "ONU/Société civile"
+    "description": "Journée célébrant la diversité linguistique et culturelle à travers le monde",
+    "origin": "ONU/Société civile",
+    "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8",
+    "full_description": "Proclamée par l'UNESCO en 1999, cette journée commémore les étudiants bangladais tués en 1952 en défendant leur droit d'utiliser leur langue maternelle. Elle promeut la diversité linguistique et le multilinguisme, soulignant l'importance de préserver les langues menacées et le droit de chacun à s'exprimer dans sa langue maternelle.",
+    "good_to_know": "Plus de 40% des 6000 langues parlées dans le monde sont menacées de disparition. Chaque deux semaines, une langue disparaît, emportant avec elle tout un patrimoine culturel. Cette journée encourage les initiatives de préservation des langues minoritaires et la création de contenus multilingues.",
+    "action": "- Apprendre quelques mots dans une nouvelle langue\n- Partager des expressions de sa langue maternelle\n- Participer à un événement culturel multilingue\n- Soutenir la préservation des langues menacées\n- Découvrir la diversité linguistique locale"
   },
   "0222": {
     "date": "22 février",
     "name": "Thinking Day",
-    "description": "Journée mondiale de réflexion pour les scouts et guides, commémorant la naissance de Lord Baden-Powell.",
-    "origin": "Mouvement scout"
+    "description": "Journée mondiale de réflexion pour les scouts et guides, commémorant la naissance de Lord Baden-Powell",
+    "origin": "Mouvement scout",
+    "image": "https://images.unsplash.com/photo-1551972873-b7e8754e8e26",
+    "full_description": "Le Thinking Day, célébré à la date d'anniversaire commune de Lord Baden-Powell (fondateur du scoutisme) et de son épouse Olave, est une journée où les scouts et guides du monde entier réfléchissent au sens du scoutisme et à leur engagement. Cette journée met l'accent sur l'amitié internationale et la solidarité au sein du mouvement scout mondial.",
+    "good_to_know": "Chaque année, un thème différent est choisi pour orienter les réflexions et activités. Les scouts et guides portent souvent leur uniforme ce jour-là et collectent des fonds pour soutenir le scoutisme dans les pays en développement. La tradition veut qu'on donne une pièce symbolique, représentant un 'penny' pour chaque année depuis sa naissance.",
+    "action": "- Participer à une activité scoute\n- Réfléchir sur les valeurs du scoutisme\n- Faire une bonne action\n- Soutenir un projet scout international\n- Apprendre l'histoire du scoutisme"
   },
   "0223": {
     "date": "23 février",
     "name": "Journée du Défenseur de la Patrie",
-    "description": "Fête en Russie honorant les forces armées et les anciens combattants.",
-    "origin": "Culture russe"
+    "description": "Fête en Russie honorant les forces armées et les anciens combattants",
+    "origin": "Culture russe",
+    "image": "https://images.unsplash.com/photo-1485848395967-65dff62dc35b",
+    "full_description": "Initialement appelée 'Jour de l'Armée rouge', cette fête célèbre les forces armées russes et honore tous ceux qui servent ou ont servi leur pays. Bien qu'historiquement liée à l'armée, elle est devenue une célébration plus large de tous les hommes, considérés comme des défenseurs potentiels de la patrie.",
+    "good_to_know": "Cette journée est un jour férié en Russie et dans plusieurs pays de l'ex-URSS. Traditionnellement, les femmes offrent des cadeaux aux hommes de leur entourage. Des parades militaires et des cérémonies commémoratives sont organisées. C'est l'équivalent masculin de la Journée internationale des femmes (8 mars) dans la culture russe.",
+    "action": "- Découvrir l'histoire militaire russe\n- Participer aux cérémonies commémoratives\n- Honorer les vétérans\n- Explorer la culture russe\n- Organiser une célébration traditionnelle"
   },
   "0224": {
     "date": "24 février",
     "name": "Dragobete",
-    "description": "Fête traditionnelle roumaine célébrant l'amour et le début du printemps.",
-    "origin": "Culture roumaine"
+    "description": "Fête traditionnelle roumaine célébrant l'amour et le début du printemps",
+    "origin": "Culture roumaine",
+    "image": "https://images.unsplash.com/photo-1582473380604-e0151d1c6f8a",
+    "full_description": "Dragobete est une fête traditionnelle roumaine célébrant l'amour et l'arrivée du printemps. Selon la mythologie locale, Dragobete est le fils de Baba Dochia et représente l'esprit du printemps. Cette journée est considérée comme l'équivalent roumain de la Saint-Valentin, mais avec des racines plus anciennes et des traditions spécifiques.",
+    "good_to_know": "Traditionnellement, les jeunes se réunissent en habits de fête et cueillent les premières fleurs du printemps. Les filles conservent ces fleurs sous leur oreiller pour trouver l'amour. On dit que les oiseaux s'apparient ce jour-là. C'est aussi une occasion de chanter et danser en plein air.",
+    "action": "- Participer aux célébrations traditionnelles\n- Cueillir les premières fleurs du printemps\n- Apprendre des chants folkloriques roumains\n- Découvrir la mythologie roumaine\n- Préparer des plats traditionnels roumains"
   },
   "0225": {
     "date": "25 février",
     "name": "Kuwait National Day",
-    "description": "Jour férié célébrant l'indépendance du Koweït obtenue en 1961.",
-    "origin": "Culture koweïtienne"
+    "description": "Jour férié célébrant l'indépendance du Koweït obtenue en 1961",
+    "origin": "Culture koweïtienne",
+    "image": "https://images.unsplash.com/photo-1578895101408-1a36b834405b",
+    "full_description": "La Fête nationale du Koweït commémore l'indépendance du pays obtenue en 1961, marquant la fin du protectorat britannique. Cette journée est célébrée avec le Jour de la Libération (26 février), créant une période de festivités de deux jours. Les célébrations mettent en valeur la culture koweïtienne et l'unité nationale.",
+    "good_to_know": "Les festivités incluent des défilés aériens spectaculaires, des feux d'artifice et des illuminations des principaux monuments. Les Koweïtiens décorent leurs maisons, voitures et rues aux couleurs nationales (vert, blanc, rouge et noir). Les Kuwait Towers, symbole du pays, sont particulièrement mises en valeur pendant les célébrations.",
+    "action": "- Découvrir l'histoire du Koweït\n- Préparer des plats traditionnels koweïtiens\n- Participer aux célébrations culturelles\n- Explorer l'architecture moderne du Koweït\n- Apprendre sur la culture du Golfe"
   },
   "0226": {
     "date": "26 février",
     "name": "Levi Strauss Day",
-    "description": "Jour honorant Levi Strauss, inventeur du jean en denim.",
-    "origin": "Culture américaine"
+    "description": "Jour honorant Levi Strauss, inventeur du jean en denim",
+    "origin": "Culture américaine",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d",
+    "full_description": "Cette journée célèbre l'héritage de Levi Strauss (1829-1902), immigrant allemand qui révolutionna la mode en créant le blue jean en 1873. En collaboration avec Jacob Davis, il breveta le procédé de rivets en cuivre pour renforcer les points de tension des pantalons de travail, créant ainsi un vêtement qui deviendrait un symbole culturel mondial.",
+    "good_to_know": "Le premier jean Levi's (501) était destiné aux mineurs de la ruée vers l'or en Californie. Le terme 'denim' vient de 'de Nîmes', la ville française où le tissu était originellement fabriqué. La couleur indigo était choisie pour sa résistance et sa capacité à masquer la saleté.",
+    "action": "- Découvrir l'histoire du jean\n- Visiter un musée de la mode\n- Apprendre les techniques de customisation du denim\n- Explorer l'impact du jean sur la culture populaire\n- Soutenir la mode durable"
   },
   "0227": {
     "date": "27 février",
     "name": "Journée mondiale des ONG",
-    "description": "Journée reconnaissant le rôle des organisations non gouvernementales dans la société.",
-    "origin": "Société civile"
+    "description": "Journée reconnaissant le rôle des organisations non gouvernementales dans la société",
+    "origin": "Société civile",
+    "image": "https://images.unsplash.com/photo-1559027615-cd4628902d4a",
+    "full_description": "Créée en 2014, la Journée mondiale des ONG reconnaît le travail essentiel des organisations non gouvernementales dans l'amélioration de la société. Elle met en lumière leur contribution dans des domaines comme l'aide humanitaire, les droits humains, l'environnement, l'éducation et le développement durable.",
+    "good_to_know": "Les ONG emploient environ 54 millions de personnes dans le monde et mobilisent des millions de bénévoles. Cette journée est l'occasion de sensibiliser le public à leur travail, de recruter des bénévoles et de créer des partenariats. De nombreuses ONG organisent des portes ouvertes et des événements de sensibilisation.",
+    "action": "- S'engager comme bénévole dans une ONG\n- Faire un don à une cause importante\n- Participer à un événement caritatif\n- S'informer sur le travail des ONG locales\n- Partager des histoires d'impact positif"
   },
   "0228": {
     "date": "28 février",
     "name": "Dia de Andalucía",
-    "description": "Fête régionale en Andalousie, Espagne, célébrant l'autonomie de la région.",
-    "origin": "Culture andalouse"
+    "description": "Fête régionale en Andalousie, Espagne, célébrant l'autonomie de la région",
+    "origin": "Culture andalouse",
+    "image": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b",
+    "full_description": "Le Jour de l'Andalousie commémore le référendum de 1980 qui accorda l'autonomie à cette région d'Espagne. Cette journée célèbre l'identité, la culture et les traditions andalouses. L'Andalousie, berceau du flamenco et des corridas, est connue pour son riche patrimoine culturel mêlant influences chrétiennes, musulmanes et juives.",
+    "good_to_know": "Les célébrations incluent des concerts de flamenco, des festivals gastronomiques et des cérémonies officielles où l'hymne andalou est joué. Les écoles organisent des activités spéciales pour enseigner l'histoire et la culture régionales. Le drapeau vert et blanc de l'Andalousie est particulièrement mis à l'honneur.",
+    "action": "- Découvrir la musique flamenco\n- Déguster la cuisine andalouse\n- Apprendre l'histoire de l'Andalousie\n- Explorer l'architecture mauresque\n- Participer aux festivités culturelles"
   },
   "0229": {
     "date": "29 février",
     "name": "Leap Day",
-    "description": "Jour supplémentaire ajouté au calendrier grégorien tous les quatre ans.",
-    "origin": "Culture mondiale"
+    "description": "Jour supplémentaire ajouté au calendrier grégorien tous les quatre ans",
+    "origin": "Culture mondiale",
+    "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f",
+    "full_description": "Le jour bissextile est ajouté tous les quatre ans pour synchroniser le calendrier avec l'année solaire. Cette correction, introduite par Jules César et affinée dans le calendrier grégorien, compense le fait que l'année solaire dure environ 365,242 jours. Historiquement, ce jour était considéré comme 'hors du temps' et associé à diverses traditions et superstitions.",
+    "good_to_know": "Selon une tradition irlandaise, le 29 février était le jour où les femmes pouvaient demander les hommes en mariage. Les personnes nées un 29 février, appelées 'leaplings', ne célèbrent officiellement leur anniversaire que tous les quatre ans. Statistiquement, la probabilité de naître un 29 février est d'environ 1 sur 1461.",
+    "action": "- Apprendre l'histoire du calendrier\n- Célébrer ce jour unique\n- Planifier un projet quadriennal\n- Réfléchir sur la mesure du temps\n- Créer des traditions spéciales pour ce jour"
   },
   "0301": {
     "date": "1er mars",
