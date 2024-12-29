@@ -1,4 +1,4 @@
-    import { Celebration } from "@/components/celebration-section";
+import { Celebration } from "@/components/celebration-section";
 
 import CelebrationSection from "@/components/celebration-section";
 import TodayCelebrationLayout from "@/layouts/today-celebration-layout";
@@ -25,7 +25,8 @@ export default async function Page(props: { params: { date: string } }) {
     'november': '11',
     'december': '12'
   };
-  const new_id = (monthMap[month] || '') + (day?.padStart(2, '0') || '');
+  const monthStr = month?.toLowerCase() || '';
+  const new_id = (monthMap[monthStr] || '') + (day?.padStart(2, '0') || '');
 
   const celebrations = require("@/data/celebrations.json");
   const celebration = celebrations[new_id];
