@@ -12,9 +12,12 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover"
+import { useRouter } from "next/navigation";
+import { fromDateToUrlDate } from "@/lib/utils";
 
 export function DatePickerDemo() {
   const [date, setDate] = React.useState<Date>(new Date())
+  const router = useRouter();
 
   return (
     <Popover>
@@ -27,6 +30,7 @@ export function DatePickerDemo() {
               const newDate = new Date(date);
               newDate.setDate(date.getDate() - 1);
               setDate(newDate);
+              router.push(`/${fromDateToUrlDate(newDate)}`)
             }}
           >
             <ChevronLeft className="h-4 w-4" />
@@ -50,6 +54,7 @@ export function DatePickerDemo() {
               const newDate = new Date(date);
               newDate.setDate(date.getDate() + 1);
               setDate(newDate);
+              router.push(`/${fromDateToUrlDate(newDate)}`);
             }}
           >
             <ChevronRight className="h-4 w-4" />

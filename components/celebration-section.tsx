@@ -5,6 +5,7 @@ import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { ChevronDown } from "lucide-react";
 import LinkPreview from "./link-preview";
+import { formatDate } from "@/lib/utils";
 
 function Background() {
     return (
@@ -42,17 +43,15 @@ export type Celebration = {
   name: string;
   description: string;
   origin: string;
-  full_description: string;
-  good_to_know: string;
-  action: string;
+  full_description?: string;
+  good_to_know?: string;
+  action?: string;
+  image?: string;
+  more?: string;
 }
 
 export default function CelebrationSection({data}: {data: Celebration}) {
-  const date = new Date();
-  const month = data.date.slice(0, 2);
-  const day = data.date.slice(2, 4);
-  const year = date.getFullYear();
-  const dateString = new Date(`${year}-${month}-${day}`).toLocaleDateString('fr-FR', { day: '2-digit', month: 'long', year: 'numeric' });
+  const dateString = data.date;
   const [isOpen, setIsOpen] = useState(false);
 
   return (
@@ -83,44 +82,62 @@ export default function CelebrationSection({data}: {data: Celebration}) {
           </div>
         </div>
         <div className="-mt-12 -ml-12 p-12 lg:sticky lg:top-16 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
-          <img
-            alt=""
-            src="/albert.jpg"
-            className="w-[48rem] max-w-none rounded-xl bg-gray-900 ring-1 shadow-xl ring-gray-400/10 sm:w-[57rem]"
-          />
+          {data.image ? (
+            <img
+              alt={data.name}
+              src={data.image}
+              className="w-[48rem] max-w-none rounded-xl bg-gray-900 ring-1 shadow-xl ring-gray-400/10 sm:w-[57rem]"
+            />
+          ) : (
+            <img
+              alt={data.name}
+              src='/default-image.jpg'
+              className="w-[48rem] max-w-none max-h-[calc(60vh)] rounded-xl bg-gray-900 ring-1 shadow-xl ring-gray-400/10 sm:w-[57rem]"
+            />
+          )}
         </div>
         <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
           <div className="lg:pr-4">
             <div className={`max-w-xl text-base/7 lg:max-w-lg ${isOpen ? 'block' : 'hidden'}`}>
-              <p>
-                {data.full_description}
-              </p>
+              {data.full_description && (
+                <p>
+                  {data.full_description}
+                </p>
+              )}
               <ul role="list" className="mt-8 space-y-8">
-                <li className="flex gap-x-3">
-                  <Sprout aria-hidden="true" className="mt-1 size-5 flex-none text-primary" />
-                  <span>
+                {data.origin && (
+                  <li className="flex gap-x-3">
+                    <Sprout aria-hidden="true" className="mt-1 size-5 flex-none text-primary" />
+                    <span>
                     <strong className="font-semibold text-primary">Origine</strong> {data.origin}
                   </span>
                 </li>
+                )}
+                {data.good_to_know && (
                 <li className="flex gap-x-3">
                   <ThumbsUp aria-hidden="true" className="mt-1 size-5 flex-none text-primary" />
                   <span>
                     <strong className="font-semibold text-primary">Bon à savoir</strong> {data.good_to_know}
                   </span>
                 </li>
+                )}
+                {data.action && (
                 <li className="flex gap-x-3">
                   <PersonStanding aria-hidden="true" className="mt-1 size-5 flex-none text-primary" />
                   <span>
                     <strong className="font-semibold text-primary">Actions</strong> {data.action}
                   </span>
                 </li>
+                )}
+                {data.more && (
                 <li className="flex gap-x-3">
                   <SquareChevronRight aria-hidden="true" className="mt-1 size-5 flex-none text-primary" />
                   <span>
                     <strong className="font-semibold text-primary">Pour aller encore plus loin</strong> Donne des choses à achter
                   </span>
                   {/* <LinkPreview url={"https://www.creowis.com/"} /> */}
-                </li>
+                  </li>
+                )}
               </ul>
             </div>
           </div>
