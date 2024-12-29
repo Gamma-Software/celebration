@@ -75,15 +75,19 @@ export function ConfigDropdown() {
         <DropdownMenuSeparator />
         <DropdownMenuLabel>Autre</DropdownMenuLabel>
         <DropdownMenuGroup>
-          <DropdownMenuItem>
+          <DropdownMenuItem onClick={() =>{
+            window.location.href = "mailto:valentin.rudloff.perso@gmail.com?subject=faire un retour sur le site célébrations"
+          }}>
             <MessageSquare />
             <span>Faire un retour</span>
           </DropdownMenuItem>
-          <DropdownMenuItem>
+          {/* <DropdownMenuItem>
             <CircleHelp />
             <span>A propos</span>
-          </DropdownMenuItem>
-          <DropdownMenuItem>
+          </DropdownMenuItem> */}
+          <DropdownMenuItem onClick={() =>{
+            window.location.href = "mailto:valentin.rudloff.perso@gmail.com?subject=Besoin d'aide sur le site célébrations"
+          }}>
             <CircleHelp />
             <span>Aide</span>
           </DropdownMenuItem>

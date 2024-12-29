@@ -1,7 +1,8 @@
-import { Celebration } from "@/components/celebration-section";
+    import { Celebration } from "@/components/celebration-section";
 
 import CelebrationSection from "@/components/celebration-section";
 import TodayCelebrationLayout from "@/layouts/today-celebration-layout";
+import { redirect } from "next/navigation";
 
 export default async function Page(props: { params: { date: string } }) {
   const { date } = props.params;
@@ -29,7 +30,8 @@ export default async function Page(props: { params: { date: string } }) {
   const celebrations = require("@/data/celebrations.json");
   const celebration = celebrations[new_id];
   if (!celebration) {
-    throw new Error("Date not found");
+    // redirect to home
+    redirect("/");
   }
 
   return (

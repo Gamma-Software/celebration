@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { ChevronDown } from "lucide-react";
 import LinkPreview from "./link-preview";
 import { formatDate } from "@/lib/utils";
-
+import Image from "next/image";
 function Background() {
     return (
         <div className="absolute inset-0 -z-10 overflow-hidden">
@@ -83,15 +83,19 @@ export default function CelebrationSection({data}: {data: Celebration}) {
         </div>
         <div className="-mt-12 -ml-12 p-12 lg:sticky lg:top-16 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
           {data.image ? (
-            <img
+            <Image
               alt={data.name}
               src={data.image}
+              width={1000}
+              height={1000}
               className="w-[48rem] max-w-none rounded-xl bg-gray-900 ring-1 shadow-xl ring-gray-400/10 sm:w-[57rem]"
             />
           ) : (
-            <img
+            <Image
               alt={data.name}
               src='/default-image.jpg'
+              width={1000}
+              height={1000}
               className="w-[48rem] max-w-none max-h-[calc(60vh)] rounded-xl bg-gray-900 ring-1 shadow-xl ring-gray-400/10 sm:w-[57rem]"
             />
           )}

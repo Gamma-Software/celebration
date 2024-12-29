@@ -10,6 +10,7 @@ import { DatePickerDemo } from "@/components/date-picker";
 import Header from "@/components/header";
 import Footer from "@/components/footer";
 import {ConfigDropdown} from "@/components/config-dropdown";
+import { Newsletter } from "@/components/newsletter";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -25,8 +26,9 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
         {children}
       </main>
       {/* <Footer/> */}
-      <footer className="absolute bottom-0 right-0 m-6 p-6 z-50 bg-background">
-        <ConfigDropdown/>
+      <footer>
+        <div className="absolute bottom-0 m-6 p-6 z-50"><Newsletter source="footer-celebrations"/></div>
+        <div className="absolute bottom-0 right-0 m-6 p-6 z-50"><ConfigDropdown/></div>
       </footer>
     </div>
   )

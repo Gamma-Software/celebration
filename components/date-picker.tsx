@@ -12,11 +12,32 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover"
-import { useRouter } from "next/navigation";
+import { usePathname, useRouter } from "next/navigation";
 import { fromDateToUrlDate } from "@/lib/utils";
 
 export function DatePickerDemo() {
-  const [date, setDate] = React.useState<Date>(new Date())
+  const pathname = usePathname();
+  if (pathname.includes("api")) return null;
+  const urlDate = pathname.split('/')[1];
+  const month = urlDate.match(/([a-z]+)/)?.[0];
+  const day = urlDate.match(/(\d+)/)?.[0];
+  const monthMap: {[key: string]: number} = {
+    'january': 0,
+    'february': 1,
+    'march': 2,
+    'april': 3,
+    'may': 4,
+    'june': 5,
+    'july': 6,
+    'august': 7,
+    'september': 8,
+    'october': 9,
+    'november': 10,
+    'december': 11
+  };
+  const monthStr = month?.toLowerCase() || 'january';
+  const date = new Date(new Date().getFullYear(), monthMap[monthStr], Number(day));
+  const [dateState, setDateState] = React.useState<Date>(date)
   const router = useRouter();
 
   return (
@@ -26,9 +47,9 @@ export function DatePickerDemo() {
             variant="ghost"
             size="icon"
             onClick={() => {
-              const newDate = new Date(date);
-              newDate.setDate(date.getDate() - 1);
-              setDate(newDate);
+              const newDate = new Date(dateState);
+              newDate.setDate(dateState.getDate() - 1);
+              setDateState(newDate);
               router.push(`/${fromDateToUrlDate(newDate)}`)
             }}
           >
@@ -50,9 +71,9 @@ export function DatePickerDemo() {
             variant="ghost"
             size="icon"
             onClick={() => {
-              const newDate = new Date(date);
-              newDate.setDate(date.getDate() + 1);
-              setDate(newDate);
+              const newDate = new Date(dateState);
+              newDate.setDate(dateState.getDate() + 1);
+              setDateState(newDate);
               router.push(`/${fromDateToUrlDate(newDate)}`);
             }}
           >
@@ -62,10 +83,12 @@ export function DatePickerDemo() {
       <PopoverContent className="w-auto p-0">
         <Calendar
           mode="single"
-          selected={date}
+          selected={dateState}
           onSelect={(selectedDate) => {
-            selectedDate && setDate(selectedDate)
-            router.push(`/${fromDateToUrlDate(selectedDate)}`)
+            if (selectedDate) {
+              setDateState(selectedDate)
+              router.push(`/${fromDateToUrlDate(selectedDate)}`)
+            }
           }}
           initialFocus
         />
