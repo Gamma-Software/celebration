@@ -25,11 +25,7 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
       <main className="grow">
         {children}
       </main>
-      {/* <Footer/> */}
-      <footer>
-        <div className="absolute bottom-0 m-6 p-6 z-50"><Newsletter source="footer-celebrations"/></div>
-        <div className="absolute bottom-0 right-0 m-6 p-6 z-50"><ConfigDropdown/></div>
-      </footer>
+      <Footer/>
     </div>
   )
 }
