@@ -25,7 +25,7 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
         {children}
       </main>
       {/* <Footer/> */}
-      <footer className="sticky bottom-0 right-0 z-100 bg-transparent m-4 p-4">
+      <footer className="absolute bottom-0 right-0 m-6 p-6 z-50 bg-background">
         <ConfigDropdown/>
       </footer>
     </div>

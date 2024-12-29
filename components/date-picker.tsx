@@ -21,7 +21,6 @@ export function DatePickerDemo() {
 
   return (
     <Popover>
-
         <div className="flex items-center gap-2">
           <Button
             variant="ghost"
@@ -39,12 +38,12 @@ export function DatePickerDemo() {
           <Button
             variant="ghost"
             className={cn(
-              "w-auto justify-center text-center font-normal",
+              "w-[200px] justify-center text-center font-normal",
               !date && "text-muted-foreground"
             )}
           >
             <CalendarIcon />
-            {date ? format(date, "PPP") : <span>Pick a date</span>}
+            {date ? format(date, "PPP") : <span>Sélectionner une date</span>}
           </Button>
           </PopoverTrigger>
           <Button
@@ -64,7 +63,10 @@ export function DatePickerDemo() {
         <Calendar
           mode="single"
           selected={date}
-          onSelect={(selectedDate) => selectedDate && setDate(selectedDate)}
+          onSelect={(selectedDate) => {
+            selectedDate && setDate(selectedDate)
+            router.push(`/${fromDateToUrlDate(selectedDate)}`)
+          }}
           initialFocus
         />
       </PopoverContent>
