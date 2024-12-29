@@ -25,67 +25,113 @@
     "date": "3 janvier",
     "name": "Fête de Sainte Geneviève",
     "description": "Commémoration de Sainte Geneviève",
-    "origin": "patronne de Paris."
+    "origin": "patronne de Paris.",
+    "image": "https://ekladata.com/Nab2I3HXExbQk-GFleQjNvr8Mjk.jpg",
+    "image_site": "https://liviaaugustae.eklablog.fr/fete-de-sainte-genevieve-a180143042",
+    "full_description": "La fête de Sainte Geneviève est une célébration chrétienne qui commémore la vie et la mort de Sainte Geneviève, une sainte chrétienne qui fut martyre à Paris au 5e siècle. Elle est considérée comme la patronne de Paris et de la France. Cette fête est souvent associée à des traditions de protection et de guérison, avec des prières et des processions.",
+    "good_to_know": "La fête de Sainte Geneviève est célébrée dans de nombreuses églises et paroisses, avec des cérémonies spécifiques et des récits historiques liés à sa vie et à son martyre. Elle est également associée à des traditions locales, comme la distribution de friandises aux enfants ou la pratique du 'Bärzeli'.",
+    "action": "- Participer à une cérémonie religieuse locale\n- Faire un pèlerinage à la basilique Sainte-Geneviève\n- Lire des textes sacrés liés à Sainte Geneviève\n- Organiser une réunion de famille ou un brunch avec des spécialités françaises"
   },
   "0104": {
     "date": "4 janvier",
     "name": "Journée mondiale du braille",
     "description": "Journée internationale célébrant l'importance du braille pour les personnes aveugles et malvoyantes.",
-    "origin": "Initiative mondiale"
+    "origin": "Initiative mondiale",
+    "image": "https://images.unsplash.com/photo-1660839061462-c9c8ceecb33d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_site": "https://images.unsplash.com",
+    "full_description": "La Journée mondiale du braille est une célébration internationale qui met en lumière l'importance du braille pour les personnes aveugles et malvoyantes. Le braille est un système d'écriture tactile utilisé pour lire et écrire, et il est essentiel pour les personnes qui ont des difficultés visuelles. Cette journée est une opportunité pour sensibiliser le public à l'importance de l'accessibilité pour tous, quelle que soit leur capacité à voir.",
+    "good_to_know": "La Journée mondiale du braille est organisée par l'Organisation mondiale de la santé (OMS) et l'Organisation internationale du braille (OIB). Elle vise à promouvoir l'utilisation du braille dans le monde entier, à encourager la création de ressources pour les personnes aveugles et malvoyantes, et à sensibiliser le public à l'importance de l'accessibilité pour tous.",
+    "action": "- Participer à une activité de sensibilisation au braille\n- Faire un don à une organisation caritative qui aide les personnes aveugles et malvoyantes\n- Lire un livre en braille ou en l'écrire en braille\n- Organiser une conférence ou une discussion sur l'importance du braille dans la communauté"
   },
   "0105": {
     "date": "5 janvier",
     "name": "Nuit des Rois",
     "description": "Veille de l'Épiphanie",
-    "origin": "célébrée dans certaines cultures avec des festivités et des pièces de théâtre."
+    "origin": "célébrée dans certaines cultures avec des festivités et des pièces de théâtre.",
+    "image": "https://www.billetreduc.com/zg/f700-900-0/vz-65be8a57-4546-43cb-983d-329e57adb2e4.jpeg",
+    "image_site": "https://www.billetreduc.com/298383/evt.htm",
+    "full_description": "La Nuit des Rois est une célébration traditionnelle qui marque le début de l'année chrétienne. Elle est associée à l'Épiphanie, le jour où les rois mages ont visité Jésus-Christ. Cette fête est souvent célébrée avec des festivités, des pièces de théâtre et des repas spécifiques.",
+    "good_to_know": "La Nuit des Rois est une célébration qui varie selon les régions et les traditions locales. Dans certaines régions, elle est associée à des festivités spécifiques, comme des pièces de théâtre ou des repas traditionnels. Elle est souvent célébrée avec des festivités, des pièces de théâtre et des repas spécifiques.",
+    "action": "- Participer à une pièce de théâtre locale\n- Préparer un repas traditionnel avec des spécialités de la région\n- Lire des textes sacrés liés à l'Épiphanie\n- Organiser une soirée de lecture ou une discussion sur l'importance de l'Épiphanie dans la culture chrétienne"
   },
   "0106": {
     "date": "6 janvier",
     "name": "Épiphanie",
     "description": "Fête chrétienne célébrant la visite des Rois mages à l'Enfant Jésus.",
-    "origin": "Christianisme (Catholicisme et Orthodoxie)"
-  },
-  "0107": {
+    "origin": "Christianisme (Catholicisme et Orthodoxie)",
+    "image": "https://images.unsplash.com/photo-1547675999-f71c79b90fb6?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_site": "https://images.unsplash.com",
+    "full_description": "L'Épiphanie est une célébration chrétienne qui marque la visite des rois mages, Melchior, Balthazar et Gaspard, à l'Enfant Jésus à Bethléem. Cette fête est également connue comme le jour où Jésus a été révélé comme le Messie. Elle est célébrée avec des processions, des messes spéciales, et des repas festifs, comme la galette des rois dans certains pays.",
+    "good_to_know": "Dans de nombreux pays, l'Épiphanie est aussi appelée la Fête des Rois et marque la fin des célébrations de Noël. Les traditions varient, mais incluent souvent des échanges de cadeaux, des chants religieux, et des mets spécifiques comme la galette des rois en France.",
+    "action": "- Participer à une messe ou une procession dédiée à l'Épiphanie.\n- Organiser une dégustation de galette des rois avec des amis ou en famille.\n- Lire ou partager les récits bibliques relatifs à la visite des rois mages.\n- Décorer votre maison avec des symboles liés aux rois mages."
+},
+"0107": {
     "date": "7 janvier",
     "name": "Noël orthodoxe",
     "description": "Célébration de la naissance de Jésus-Christ selon le calendrier julien",
-    "origin": "principalement dans les Églises orthodoxes."
+    "origin": "principalement dans les Églises orthodoxes.",
+    "image": "https://www.cath.ch/wp-content/uploads/sites/3/2022/12/5517630208_4781144aac_o-e1671714330855.jpg",
+    "image_site": "https://www.cath.ch/newsf/pourquoi-les-orthodoxes-fetent-ils-noel-le-7-janvier/",
+    "full_description": "Noël orthodoxe célèbre la naissance de Jésus-Christ selon le calendrier julien, qui est décalé de 13 jours par rapport au calendrier grégorien. Cette fête est caractérisée par des liturgies spéciales, des chants religieux, et des traditions locales telles que des jeûnes préparatoires et des repas de fête en famille.",
+    "good_to_know": "La veille de Noël orthodoxe est souvent marquée par un jeûne strict, suivi d'un repas festif connu sous le nom de 'Saint Souper'. Dans certaines communautés, des chants traditionnels appelés 'kolyadki' sont interprétés pour célébrer la naissance du Christ.",
+    "action": "- Participer à une liturgie orthodoxe pour Noël.\n- Découvrir les chants traditionnels de Noël orthodoxe (kolyadki).\n- Préparer ou partager un repas traditionnel en famille, tel que le kutia, un plat sucré de blé et de miel.\n- Explorer les coutumes locales de Noël dans différentes régions orthodoxes, comme en Russie ou en Grèce."
   },
   "0108": {
     "date": "8 janvier",
-    "name": "Fête de la République (Bosnie-Herzégovine)",
-    "description": "Commémoration de la déclaration de la République en 1992.",
-    "origin": "Histoire de la Bosnie-Herzégovine"
+      "name": "Fête de la République (Bosnie-Herzégovine)",
+      "description": "Commémoration de la déclaration de la République en 1992.",
+      "origin": "Histoire de la Bosnie-Herzégovine",
+      "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1709246934090-ZFPKU2XSD6JQDTPWT3A5/Sans+titre+7.png",
+      "full_description": "La Fête de la République en Bosnie-Herzégovine marque un moment clé de l'histoire du pays, lorsque la République a été déclarée en 1992, avant la guerre d'indépendance. Elle symbolise la souveraineté et l'unité nationale.",
+      "good_to_know": "Cette journée est controversée dans certaines parties du pays en raison des sensibilités politiques et historiques. Elle est principalement célébrée dans la République serbe de Bosnie.",
+      "action": "- Assister à des événements culturels et commémoratifs.\n- Découvrir les musées retraçant l'histoire récente de la Bosnie-Herzégovine.\n- Participer à des discussions ou conférences sur le thème de l'indépendance et de la paix."
   },
   "0109": {
-    "date": "9 janvier",
-    "name": "Journée des Martyrs (Panama)",
-    "description": "Jour honorant les Panaméens morts lors des émeutes de 1964 pour la souveraineté du canal de Panama.",
-    "origin": "Panama"
+      "date": "9 janvier",
+      "name": "Journée des Martyrs (Panama)",
+      "description": "Jour honorant les Panaméens morts lors des émeutes de 1964 pour la souveraineté du canal de Panama.",
+      "origin": "Panama",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Monumento_a_los_M%C3%A1rtires_-_Flickr_-_GaryAmberths.jpg/556px-Monumento_a_los_M%C3%A1rtires_-_Flickr_-_GaryAmberths.jpg",
+      "image_site": "https://fr.wikipedia.org/wiki/Jour_des_martyrs_(Panama)",
+      "full_description": "La Journée des Martyrs commémore les événements tragiques du 9 janvier 1964, lorsque des émeutes ont éclaté entre des manifestants panaméens et des forces américaines à propos du contrôle du canal de Panama. Cette journée honore les victimes et symbolise la lutte pour la souveraineté nationale.",
+      "good_to_know": "Des cérémonies officielles ont lieu dans tout le pays, notamment au Monument des Martyrs à Panama City.",
+      "action": "- Assister aux cérémonies de commémoration.\n- Visiter le canal de Panama pour mieux comprendre son histoire.\n- Participer à des événements éducatifs ou culturels liés au thème de la souveraineté."
   },
   "0110": {
-    "date": "10 janvier",
-    "name": "Sebastian's Day",
-    "description": "Fête traditionnelle aux Açores",
-    "origin": "au Portugal"
+      "date": "10 janvier",
+      "name": "Sebastian's Day",
+      "description": "Fête traditionnelle aux Açores",
+      "origin": "au Portugal",
+      "full_description": "Sebastian's Day est une fête religieuse célébrée dans les Açores, au Portugal. Elle est dédiée à Saint Sébastien, le saint patron de plusieurs villes, et est marquée par des processions, des messes et des festivités locales.",
+      "good_to_know": "La fête de Saint Sébastien est souvent accompagnée de musique traditionnelle et de plats typiques des Açores.",
+      "action": "- Assister à une procession religieuse.\n- Découvrir la musique et la danse traditionnelles des Açores.\n- Déguster des plats locaux, comme le cozido das Furnas."
   },
   "0111": {
-    "date": "11 janvier",
-    "name": "Journée internationale du merci",
-    "description": "Journée dédiée à l'expression de la gratitude et de la reconnaissance.",
-    "origin": "Initiative mondiale"
+      "date": "11 janvier",
+      "name": "Journée internationale du merci",
+      "description": "Journée dédiée à l'expression de la gratitude et de la reconnaissance.",
+      "origin": "Initiative mondiale",
+      "full_description": "La Journée internationale du merci est une célébration mondiale qui encourage chacun à exprimer sa gratitude envers les autres. Elle rappelle l'importance des mots simples, mais puissants, comme 'merci'.",
+      "good_to_know": "Un simple 'merci' peut renforcer les liens sociaux et contribuer au bien-être personnel et collectif.",
+      "action": "- Envoyer des messages de gratitude à vos proches.\n- Écrire une lettre de remerciement à quelqu'un qui a marqué votre vie.\n- Participer à des campagnes de sensibilisation sur l'importance de la gratitude."
   },
   "0112": {
-    "date": "12 janvier",
-    "name": "Zanzibar Revolution Day",
-    "description": "Jour férié en Tanzanie commémorant la révolution de 1964 à Zanzibar.",
-    "origin": "Histoire de la Tanzanie"
+      "date": "12 janvier",
+      "name": "Zanzibar Revolution Day",
+      "description": "Jour férié en Tanzanie commémorant la révolution de 1964 à Zanzibar.",
+      "origin": "Histoire de la Tanzanie",
+      "full_description": "Le Zanzibar Revolution Day commémore la révolution qui a renversé le sultanat en 1964, établissant un régime républicain à Zanzibar. Cette journée célèbre la liberté et l'indépendance des habitants de l'île.",
+      "good_to_know": "Des défilés, concerts et feux d'artifice ont lieu à Zanzibar pour marquer cette journée historique.",
+      "action": "- Assister aux festivités locales.\n- Explorer les sites historiques liés à la révolution.\n- En apprendre davantage sur l'histoire de Zanzibar."
   },
   "0113": {
     "date": "13 janvier",
     "name": "Lohri",
     "description": "Festival populaire en Inde",
-    "origin": "particulièrement au Pendjab"
+    "origin": "particulièrement au Pendjab",
+    "full_description": "Lohri est une fête populaire en Inde, particulièrement au Pendjab, célébrant la fin de l'hiver et le début de la saison des récoltes. Elle est marquée par des danses folkloriques, des chants et des feux de joie.",
+    "good_to_know": "Les feux de joie sont au cœur des célébrations, symbolisant la chaleur et la fertilité. Les gens jettent du maïs soufflé, des cacahuètes et des friandises dans les flammes en guise d'offrande.",
+    "action": "- Participer à un feu de joie communautaire.\n- Apprendre des danses folkloriques comme le Bhangra.\n- Préparer des mets traditionnels tels que le gur ki roti."
   },
   "0114": {
     "date": "14 janvier",
