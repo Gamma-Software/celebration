@@ -4,13 +4,22 @@
     "name": "Jour de l'An",
     "description": "Célébration mondiale marquant le début de la nouvelle année selon le calendrier grégorien.",
     "origin": "Célébration mondiale",
-    "image": "https://images.unsplash.com/photo-1734526040622-a3e96b679f80?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://images.unsplash.com/photo-1609421141185-8a4f37a5d063?q=80&w=3120&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_site": "https://images.unsplash.com",
+    "full_description": "Le Jour de l'An est une célébration universelle qui marque le passage à une nouvelle année. Cette tradition remonte à l'Empire romain, lorsque Jules César établit le 1er janvier comme début de l'année en 46 avant J.-C. Dans de nombreuses cultures, cette journée est considérée comme un moment de renouveau, de réflexion et d'espoir. Les festivités commencent généralement la veille au soir, le 31 décembre, avec le réveillon du Nouvel An, et se poursuivent jusqu'aux premières heures du 1er janvier.",
+    "good_to_know": "Cette célébration est riche en traditions selon les pays : en Espagne, on mange 12 raisins à minuit pour porter chance; au Japon, on sonne les cloches des temples 108 fois; en France, on s'embrasse sous le gui. Le champagne et les feux d'artifice sont devenus des symboles universels de cette fête. C'est aussi l'occasion de prendre des résolutions pour l'année à venir, une tradition qui remonte aux Babyloniens il y a plus de 4000 ans.",
+    "action": "- Écrire une lettre de réflexion sur l'année écoulée\n- Définir 3 objectifs principaux pour l'année à venir\n- Organiser un brunch du Nouvel An avec ses proches\n- Créer une capsule temporelle à ouvrir l'année suivante"
   },
   "0102": {
     "date": "2 janvier",
     "name": "Berchtoldstag",
-    "description": "Fête célébrée en Suisse",
-    "origin": "notamment dans le canton de Zurich"
+    "description": "Fête traditionnelle célébrée principalement en Suisse alémanique, marquant le deuxième jour de l'année avec des festivités communautaires, des banquets et des traditions locales uniques",
+    "origin": "Tradition suisse alémanique",
+    "image": "https://cdn.unitycms.io/images/8U_HYmQE4oR8YabaWfi-5h.jpg?op=ocroped&val=1600,1067,1000,1000,0,0&sum=t6ucjjQj_rY",
+    "image_site": "https://www.bazonline.ch/so-fremd-wie-das-zuercher-sechselaeuten-259140766393",
+    "full_description": "Le Berchtoldstag est une fête traditionnelle célébrée principalement en Suisse alémanique le 2 janvier. Son origine remonte au Moyen Âge et son nom proviendrait soit de 'berchten' (demander, quémander), soit du prénom Berchtold, possiblement en référence à la famille noble des Zähringen qui a fondé Berne. Cette journée était traditionnellement consacrée à la conclusion des affaires de l'année précédente et au partage de repas communautaires.",
+    "good_to_know": "Dans plusieurs cantons suisses, cette journée est un jour férié officiel. Les traditions varient selon les régions : à Berne, on organise des banquets de corporations; dans d'autres endroits, on pratique le 'Bärzeli', une tradition où les enfants vont de maison en maison pour recevoir des friandises. Les plats traditionnels incluent souvent des pâtisseries sucrées et le 'Berchtoldszopf', une tresse au beurre spéciale.",
+    "action": "- Préparer un Berchtoldszopf traditionnel\n- Participer aux festivités locales si vous êtes en Suisse\n- Découvrir l'histoire de la ville de Berne\n- Organiser un repas convivial avec des spécialités suisses\n- Explorer les traditions du Nouvel An dans différentes cultures"
   },
   "0103": {
     "date": "3 janvier",

@@ -7,6 +7,7 @@ import { ChevronDown } from "lucide-react";
 import LinkPreview from "./link-preview";
 import { formatDate } from "@/lib/utils";
 import Image from "next/image";
+
 function Background() {
     return (
         <div className="absolute inset-0 -z-10 overflow-hidden">
@@ -47,6 +48,7 @@ export type Celebration = {
   good_to_know?: string;
   action?: string;
   image?: string;
+  image_site?: string;
   more?: string;
 }
 
@@ -85,13 +87,15 @@ export default function CelebrationSection({data}: {data: Celebration}) {
         </div>
         <div className="order-last lg:order-none -mt-12 -ml-12 p-12 lg:sticky lg:top-16 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
           {data.image ? (
-            <Image
-              alt={data.name}
-              src={data.image}
-              width={1000}
-              height={1000}
-              className="w-[48rem] max-w-none rounded-xl bg-gray-900 ring-1 shadow-xl ring-gray-400/10 sm:w-[57rem]"
-            />
+            <a href={data.image_site} target="_blank" rel="noopener noreferrer">
+              <Image
+                alt={data.name}
+                src={data.image}
+                width={1000}
+                height={1000}
+                className="w-[48rem] max-w-none max-h-[calc(70vh)] object-cover rounded-xl bg-gray-900 ring-1 shadow-xl ring-gray-400/10 sm:w-[57rem] cursor-pointer hover:opacity-90 transition-opacity"
+              />
+            </a>
           ) : (
             <Image
               alt={data.name}
