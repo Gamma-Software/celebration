@@ -622,487 +622,730 @@
     "date": "1er mars",
     "name": "Fête de la Saint David",
     "description": "Célébration en l'honneur de Saint David, saint patron du Pays de Galles.",
-    "origin": "Christianisme/Culture galloise"
+    "origin": "Christianisme/Culture galloise",
+    "full_description": "Saint David était un évêque gallois du VIe siècle connu pour sa vie ascétique et ses enseignements. Cette fête nationale du Pays de Galles est marquée par le port du poireau ou du narcisse, symboles nationaux.",
+    "good_to_know": "Les Gallois portent traditionnellement un poireau ou un narcisse à la boutonnière ce jour-là. De nombreux festivals de musique et de poésie sont organisés.",
+    "action": "Porter du vert et du blanc, les couleurs nationales galloises, et déguster des gâteaux gallois traditionnels."
   },
   "0302": {
     "date": "2 mars",
     "name": "Peasants' Day (Myanmar)",
     "description": "Jour honorant les contributions des agriculteurs à l'économie du Myanmar.",
-    "origin": "Culture birmane"
+    "origin": "Culture birmane",
+    "full_description": "Cette journée nationale reconnaît l'importance cruciale des agriculteurs dans l'économie et la société birmane. Elle met en lumière leurs défis quotidiens et célèbre leur rôle vital dans la production alimentaire.",
+    "good_to_know": "Le Myanmar est l'un des plus grands exportateurs de riz au monde, et l'agriculture emploie plus de 50% de la main-d'œuvre du pays.",
+    "action": "Soutenir les agriculteurs locaux en achetant des produits locaux et en s'informant sur l'agriculture durable."
   },
   "0303": {
     "date": "3 mars",
     "name": "Hinamatsuri",
     "description": "Fête japonaise des filles, célébrant leur croissance et leur bonheur.",
-    "origin": "Culture japonaise"
+    "origin": "Culture japonaise",
+    "full_description": "Aussi appelée 'Festival des Poupées', cette célébration met en scène des présentoirs élaborés de poupées traditionnelles représentant la cour impériale de l'ère Heian. Les familles prient pour la santé et le bonheur de leurs filles.",
+    "good_to_know": "Les poupées doivent être rangées rapidement après la fête, car une croyance dit que les laisser trop longtemps pourrait retarder le mariage de la fille.",
+    "action": "Déguster des chirashi-zushi et des amazake, boissons et plats traditionnels de cette fête."
   },
   "0304": {
     "date": "4 mars",
     "name": "Journée mondiale de la vie sauvage",
     "description": "Journée sensibilisant à la protection de la faune et de la flore sauvages.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Établie par l'ONU en 2013, cette journée vise à sensibiliser le public à l'importance de la préservation des espèces sauvages et de leurs habitats naturels, tout en soulignant les menaces qui pèsent sur la biodiversité mondiale.",
+    "good_to_know": "Chaque année, un thème différent est choisi pour mettre en lumière un aspect particulier de la conservation de la vie sauvage.",
+    "action": "Participer à des activités de conservation locales ou faire un don à des organisations de protection de la nature."
   },
   "0305": {
     "date": "5 mars",
     "name": "Custom Chief's Day (Vanuatu)",
     "description": "Jour honorant les chefs traditionnels et la culture autochtone au Vanuatu.",
-    "origin": "Culture vanuataise"
+    "origin": "Culture vanuataise",
+    "full_description": "Cette journée célèbre le rôle essentiel des chefs coutumiers dans la préservation de la culture et des traditions du Vanuatu. Les chefs sont les gardiens des coutumes et jouent un rôle crucial dans la résolution des conflits locaux.",
+    "good_to_know": "Le Vanuatu maintient un système de gouvernance dual, combinant la démocratie moderne avec l'autorité traditionnelle des chefs.",
+    "action": "Assister aux cérémonies traditionnelles et découvrir l'artisanat local du Vanuatu."
   },
   "0306": {
     "date": "6 mars",
     "name": "Indépendance du Ghana",
     "description": "Jour célébrant l'indépendance du Ghana obtenue en 1957.",
-    "origin": "Culture ghanéenne"
+    "origin": "Culture ghanéenne",
+    "full_description": "Le Ghana fut le premier pays d'Afrique subsaharienne à obtenir son indépendance du Royaume-Uni. Sous la direction de Kwame Nkrumah, cette date marque un moment historique dans le mouvement de décolonisation africain.",
+    "good_to_know": "Les couleurs du drapeau ghanéen - rouge, or et vert - sont devenues un symbole panafricain repris par de nombreux autres pays africains.",
+    "action": "Participer aux défilés et festivités, porter les couleurs nationales et déguster des plats traditionnels ghanéens."
   },
   "0307": {
     "date": "7 mars",
     "name": "Nyepi",
     "description": "Nouvel an balinais célébré par une journée de silence, de jeûne et de méditation.",
-    "origin": "Hindouisme balinais"
+    "origin": "Hindouisme balinais",
+    "full_description": "Nyepi, ou 'Jour du Silence', est une célébration unique où l'île entière de Bali s'arrête pendant 24 heures. Les aéroports ferment, les lumières sont éteintes, et tout le monde reste chez soi pour l'introspection et la purification spirituelle.",
+    "good_to_know": "La veille de Nyepi, des parades d'Ogoh-ogoh (statues de démons) sont organisées pour chasser les mauvais esprits.",
+    "action": "Observer le silence, pratiquer la méditation et réfléchir à l'année écoulée."
   },
   "0308": {
     "date": "8 mars",
     "name": "Journée internationale des femmes",
     "description": "Journée célébrant les réalisations des femmes et promouvant l'égalité des sexes.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée mondiale met en lumière les réalisations sociales, économiques, culturelles et politiques des femmes. Elle sert aussi à sensibiliser aux inégalités persistantes et à promouvoir l'égalité des genres.",
+    "good_to_know": "La première Journée internationale des femmes a été célébrée en 1911, et l'ONU l'a officiellement reconnue en 1977.",
+    "action": "Participer à des événements locaux, soutenir des organisations féminines et sensibiliser aux droits des femmes."
   },
   "0309": {
     "date": "9 mars",
     "name": "Baron Bliss Day",
     "description": "Jour au Belize honorant le philanthrope Baron Bliss.",
-    "origin": "Culture bélizienne"
+    "origin": "Culture bélizienne",
+    "full_description": "Le Baron Bliss était un voyageur britannique qui, sans jamais avoir mis pied à terre au Belize, légua sa fortune au pays. Cette journée commémore sa générosité qui a permis de financer de nombreux projets d'infrastructure.",
+    "good_to_know": "Le véritable nom du Baron Bliss était Henry Edward Ernest Victor Bliss, et il n'était pas réellement baron.",
+    "action": "Participer aux régates traditionnelles et aux festivités côtières organisées en son honneur."
   },
   "0310": {
     "date": "10 mars",
     "name": "Holi",
     "description": "Festival hindou des couleurs célébrant le triomphe du bien sur le mal et l'arrivée du printemps.",
-    "origin": "Hindouisme"
+    "origin": "Hindouisme",
+    "full_description": "Holi est l'un des festivals les plus joyeux de l'hindouisme, célébrant la victoire de Prahlad sur sa tante démoniaque Holika. Les gens se rassemblent dans les rues pour se jeter des poudres colorées et de l'eau, symbolisant la joie et l'égalité.",
+    "good_to_know": "Les couleurs utilisées étaient traditionnellement faites d'herbes ayurvédiques aux propriétés médicinales.",
+    "action": "Participer aux festivités en jetant des poudres colorées, chanter des chansons traditionnelles et partager des sucreries."
   },
   "0311": {
     "date": "11 mars",
     "name": "Fête de la Saint Rosine",
     "description": "Célébration chrétienne en l'honneur de Sainte Rosine.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Sainte Rosine était une martyre chrétienne du IVe siècle. Bien que peu de détails historiques soient connus sur sa vie, elle est vénérée dans certaines régions pour sa dévotion et son sacrifice.",
+    "good_to_know": "Son nom dérive du latin 'rosa' signifiant rose, et elle est souvent représentée avec des roses.",
+    "action": "Visiter une église locale, offrir des roses en son honneur ou méditer sur les vertus qu'elle incarnait."
   },
   "0312": {
     "date": "12 mars",
     "name": "Fête nationale de Maurice",
     "description": "Jour célébrant l'indépendance de Maurice obtenue en 1968.",
-    "origin": "Culture mauricienne"
+    "origin": "Culture mauricienne",
+    "full_description": "Cette journée marque l'indépendance de l'île Maurice du Royaume-Uni et sa transformation en une république prospère. Elle célèbre la diversité culturelle unique de Maurice, mélange d'influences africaines, européennes, chinoises et indiennes.",
+    "good_to_know": "Maurice est souvent citée comme un modèle de coexistence pacifique entre différentes cultures et religions.",
+    "action": "Participer aux défilés, hisser le drapeau mauricien et déguster des spécialités locales comme le dholl puri."
   },
   "0313": {
     "date": "13 mars",
     "name": "Journée de l'éléphant en Thaïlande",
     "description": "Jour honorant l'importance culturelle et historique des éléphants en Thaïlande.",
-    "origin": "Culture thaïlandaise"
+    "origin": "Culture thaïlandaise",
+    "full_description": "Cette journée célèbre le rôle crucial des éléphants dans l'histoire, la culture et le développement de la Thaïlande. Elle sensibilise également à la protection de ces pachydermes et à l'amélioration de leurs conditions de vie.",
+    "good_to_know": "L'éléphant blanc est un symbole royal en Thaïlande et apparaissait sur l'ancien drapeau du pays.",
+    "action": "Visiter un sanctuaire d'éléphants éthique, faire un don pour leur protection ou participer aux festivités locales."
   },
   "0314": {
     "date": "14 mars",
     "name": "Pi Day",
     "description": "Journée célébrant la constante mathématique π (pi).",
-    "origin": "Culture scientifique"
+    "origin": "Culture scientifique",
+    "full_description": "Le Pi Day est célébré le 14 mars (3/14) en référence aux trois premiers chiffres de π. Cette journée promeut l'importance des mathématiques et des sciences dans notre société.",
+    "good_to_know": "Le physicien Albert Einstein est né un 14 mars, ajoutant une dimension supplémentaire à cette célébration scientifique.",
+    "action": "Participer à des concours de mémorisation de π, résoudre des énigmes mathématiques et déguster des tartes circulaires."
   },
   "0315": {
     "date": "15 mars",
     "name": "Ides de Mars",
     "description": "Date du calendrier romain rendue célèbre par l'assassinat de Jules César en 44 av. J.-C.",
-    "origin": "Histoire romaine"
+    "origin": "Histoire romaine",
+    "full_description": "Les Ides de Mars marquent l'assassinat de Jules César, un événement qui changea le cours de l'histoire romaine. Cette date était à l'origine simplement le milieu du mois dans le calendrier romain, mais devint synonyme de mauvais présage après la mort de César.",
+    "good_to_know": "La phrase 'Méfie-toi des Ides de Mars' aurait été prononcée par un devin pour avertir César de son destin.",
+    "action": "Lire des textes historiques sur la Rome antique, visiter des sites archéologiques romains ou participer à des reconstitutions historiques."
   },
   "0316": {
     "date": "16 mars",
     "name": "Fête de Saint Urho",
     "description": "Fête humoristique célébrée par les Finlandais-Américains honorant Saint Urho, un personnage légendaire supposé avoir chassé les criquets des vignobles.",
-    "origin": "Culture finno-américaine"
+    "origin": "Culture finno-américaine",
+    "full_description": "Cette célébration folklorique a été créée dans les années 1950 par des Finlandais-Américains comme réponse humoristique à la Saint-Patrick. Saint Urho aurait sauvé les vignes finlandaises des criquets en les chassant avec son cri puissant 'Heinäsirkka, heinäsirkka, mene täältä hiiteen!'",
+    "good_to_know": "Les couleurs traditionnelles de la fête sont le violet et le vert, représentant les raisins sauvés et les criquets chassés.",
+    "action": "Porter du violet et du vert, participer aux festivités finno-américaines et déguster des spécialités finlandaises."
   },
   "0317": {
     "date": "17 mars",
     "name": "Saint-Patrick",
     "description": "Fête en l'honneur de Saint Patrick, saint patron de l'Irlande, célébrée dans le monde entier.",
-    "origin": "Christianisme/Culture irlandaise"
+    "origin": "Christianisme/Culture irlandaise",
+    "full_description": "La Saint-Patrick commémore l'arrivée du christianisme en Irlande par Saint Patrick au Ve siècle. Aujourd'hui, c'est une célébration mondiale de la culture irlandaise, marquée par des défilés, de la musique traditionnelle et le port du vert.",
+    "good_to_know": "Le trèfle à trois feuilles était utilisé par Saint Patrick pour expliquer la Sainte Trinité aux Irlandais.",
+    "action": "Porter du vert, assister aux parades, écouter de la musique irlandaise et partager un repas traditionnel irlandais."
   },
   "0318": {
     "date": "18 mars",
     "name": "Fête de la Réunion (Madagascar)",
     "description": "Jour commémorant le retour de la région de Diego-Suarez sous contrôle malgache.",
-    "origin": "Culture malgache"
+    "origin": "Culture malgache",
+    "full_description": "Cette journée marque la réunification de Madagascar avec la région de Diego-Suarez (aujourd'hui Antsiranana) en 1960, symbolisant l'unité territoriale et politique du pays après la période coloniale.",
+    "good_to_know": "Diego-Suarez était une base navale stratégique pendant la période coloniale française.",
+    "action": "Participer aux cérémonies officielles, hisser le drapeau malgache et célébrer l'unité nationale."
   },
   "0319": {
     "date": "19 mars",
     "name": "Fête de la Saint Joseph",
     "description": "Célébration chrétienne en l'honneur de Saint Joseph, époux de la Vierge Marie.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Saint Joseph, père nourricier de Jésus et époux de Marie, est célébré pour ses vertus de patience, d'humilité et de dévouement. Cette fête est particulièrement importante dans les pays catholiques où il est considéré comme le patron des travailleurs et des familles.",
+    "good_to_know": "Dans certains pays, comme l'Italie et l'Espagne, c'est aussi la fête des pères.",
+    "action": "Visiter une église, partager un repas familial et honorer les figures paternelles de notre vie."
   },
   "0320": {
     "date": "20 mars",
     "name": "Journée internationale du bonheur",
     "description": "Journée promouvant l'importance du bonheur comme objectif universel.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Établie par l'ONU en 2012, cette journée reconnaît le bonheur comme un objectif humain fondamental et promeut une approche plus inclusive et équitable du développement économique qui favorise le bien-être et le bonheur de tous les peuples.",
+    "good_to_know": "Le Bhoutan est le premier pays à avoir adopté le Bonheur National Brut comme indicateur de développement.",
+    "action": "Pratiquer la gratitude, faire une bonne action pour autrui et partager des moments de joie avec ses proches."
   },
   "0321": {
     "date": "21 mars",
     "name": "Nowruz",
     "description": "Nouvel an persan célébrant l'équinoxe de printemps, marquant le début de l'année dans le calendrier zoroastrien.",
-    "origin": "Zoroastrisme/Culture perse"
+    "origin": "Zoroastrisme/Culture perse",
+    "full_description": "Nowruz, qui signifie 'nouveau jour', est une célébration ancestrale marquant le renouveau de la nature. Cette fête combine des rituels zoroastriens anciens avec des traditions culturelles modernes, célébrant l'harmonie entre l'homme et la nature.",
+    "good_to_know": "La table du Haft-sin, comportant sept éléments commençant par la lettre 'sin' en persan, est un élément central des célébrations.",
+    "action": "Préparer la table du Haft-sin, faire le grand nettoyage de printemps et partager un repas festif avec sa famille."
   },
   "0322": {
     "date": "22 mars",
     "name": "Fête de l'indépendance de l'Arabie saoudite",
     "description": "Jour commémorant l'unification du Royaume d'Arabie saoudite.",
-    "origin": "Culture saoudienne"
+    "origin": "Culture saoudienne",
+    "full_description": "Cette journée marque l'unification des régions du Nejd et du Hedjaz par le roi Abdulaziz Ibn Saud, créant ainsi le Royaume d'Arabie saoudite moderne. C'est une célébration de l'unité nationale et du développement du pays.",
+    "good_to_know": "Avant l'unification, la péninsule arabique était composée de plusieurs émirats et royaumes distincts.",
+    "action": "Participer aux festivités nationales, hisser le drapeau saoudien et découvrir l'histoire du royaume."
   },
   "0323": {
     "date": "23 mars",
     "name": "Pâques orthodoxes (variable)",
     "description": "Fête célébrant la résurrection de Jésus-Christ selon le calendrier julien.",
-    "origin": "Christianisme orthodoxe"
+    "origin": "Christianisme orthodoxe",
+    "full_description": "Les Pâques orthodoxes suivent le calendrier julien, ce qui explique leur date différente des Pâques occidentales. Cette fête est précédée par le Grand Carême et est considérée comme la plus importante célébration du calendrier orthodoxe.",
+    "good_to_know": "La date des Pâques orthodoxes peut varier de une à cinq semaines après les Pâques occidentales.",
+    "action": "Assister aux services religieux orthodoxes, partager un repas pascal traditionnel et échanger des œufs décorés."
   },
   "0324": {
     "date": "24 mars",
     "name": "Journée mondiale de la lutte contre la tuberculose",
     "description": "Journée sensibilisant au combat contre la tuberculose.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée commémore la découverte du bacille de la tuberculose par Robert Koch en 1882. Elle vise à sensibiliser le public à cette maladie qui reste un problème majeur de santé publique dans de nombreux pays.",
+    "good_to_know": "La tuberculose est l'une des 10 principales causes de décès dans le monde, mais elle est curable et évitable.",
+    "action": "S'informer sur la maladie, soutenir les organisations de lutte contre la tuberculose et promouvoir la prévention."
   },
   "0325": {
     "date": "25 mars",
     "name": "Fête de l'Annonciation",
     "description": "Célébration chrétienne de l'annonce de la naissance de Jésus par l'ange Gabriel à la Vierge Marie.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "L'Annonciation commémore le moment où l'ange Gabriel annonce à Marie qu'elle donnera naissance à Jésus. Cette fête est célébrée exactement neuf mois avant Noël et marque le début de l'histoire du salut dans la tradition chrétienne.",
+    "good_to_know": "Dans certains pays, cette date marquait autrefois le début de l'année civile.",
+    "action": "Assister à une messe de l'Annonciation, méditer sur le thème de l'acceptation et visiter des représentations artistiques de l'Annonciation."
   },
   "0326": {
     "date": "26 mars",
     "name": "Indépendance du Bangladesh",
     "description": "Jour célébrant l'indépendance du Bangladesh obtenue en 1971.",
-    "origin": "Culture bangladaise"
+    "origin": "Culture bangladaise",
+    "full_description": "Cette journée commémore la déclaration d'indépendance du Bangladesh par Sheikh Mujibur Rahman, marquant le début de la guerre de libération contre le Pakistan. C'est un jour de fierté nationale et de réflexion sur les sacrifices consentis pour la liberté.",
+    "good_to_know": "Le Bangladesh était auparavant connu sous le nom de Pakistan oriental avant son indépendance.",
+    "action": "Participer aux cérémonies patriotiques, hisser le drapeau national et chanter l'hymne national bangladais."
   },
   "0327": {
     "date": "27 mars",
     "name": "Journée mondiale du théâtre",
     "description": "Journée internationale promouvant les arts dramatiques et le théâtre.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Créée en 1961 par l'Institut International du Théâtre, cette journée célèbre le pouvoir du théâtre comme forme d'art universel capable de rassembler les cultures et de promouvoir la compréhension mutuelle.",
+    "good_to_know": "Chaque année, une personnalité du théâtre est invitée à rédiger un message international diffusé dans le monde entier.",
+    "action": "Assister à une représentation théâtrale, participer à un atelier de théâtre ou lire une pièce classique."
   },
   "0328": {
     "date": "28 mars",
     "name": "Holi (variable)",
     "description": "Festival hindou des couleurs célébrant le triomphe du bien sur le mal et l'arrivée du printemps.",
-    "origin": "Hindouisme"
+    "origin": "Hindouisme",
+    "full_description": "Holi est l'une des fêtes les plus populaires de l'hindouisme, célébrant l'arrivée du printemps et le triomphe du bien sur le mal. Les festivités commencent la veille avec Holika Dahan (feu de joie) et culminent avec le lancement joyeux de poudres colorées.",
+    "good_to_know": "Les couleurs utilisées pendant Holi étaient traditionnellement faites de fleurs et d'herbes ayurvédiques aux propriétés médicinales.",
+    "action": "Participer aux festivités en jetant des poudres colorées, danser sur de la musique traditionnelle et partager des sucreries spéciales de Holi."
   },
   "0329": {
     "date": "29 mars",
     "name": "Fête des jeunes (Taïwan)",
     "description": "Jour honorant les contributions des jeunes à la société à Taïwan.",
-    "origin": "Culture taïwanaise"
+    "origin": "Culture taïwanaise",
+    "full_description": "Cette journée célèbre le rôle vital des jeunes dans la société taïwanaise et leur contribution au développement du pays. Elle encourage également leur participation active dans les processus démocratiques et sociaux.",
+    "good_to_know": "La date commémore aussi le soulèvement de la jeunesse chinoise contre le gouvernement Qing en 1911.",
+    "action": "Participer à des forums de jeunesse, s'engager dans des activités communautaires et célébrer les réalisations des jeunes."
   },
   "0330": {
     "date": "30 mars",
     "name": "Journée de la Terre palestinienne",
     "description": "Jour de commémoration des événements de 1976 concernant la confiscation de terres palestiniennes.",
-    "origin": "Culture palestinienne"
+    "origin": "Culture palestinienne",
+    "full_description": "Cette journée commémore les manifestations de 1976 contre la confiscation des terres palestiniennes. Elle est devenue un symbole important de la résistance pacifique et de l'attachement à la terre.",
+    "good_to_know": "La journée est marquée par la plantation d'oliviers, symboles de l'enracinement et de la résilience.",
+    "action": "Participer à des événements de sensibilisation, planter des arbres et soutenir les initiatives de paix."
   },
   "0331": {
     "date": "31 mars",
     "name": "César Chávez Day",
     "description": "Jour honorant César Chávez, militant pour les droits des travailleurs agricoles aux États-Unis.",
-    "origin": "Culture américaine"
+    "origin": "Culture américaine",
+    "full_description": "Cette journée honore l'héritage de César Chávez, leader syndical et militant des droits civiques qui a lutté pour améliorer les conditions de travail des ouvriers agricoles. Son travail a conduit à des réformes majeures dans le secteur agricole américain.",
+    "good_to_know": "Sa devise 'Sí, se puede' (Oui, c'est possible) est devenue un cri de ralliement pour les mouvements de justice sociale.",
+    "action": "S'engager dans le service communautaire, soutenir les droits des travailleurs et s'informer sur l'histoire du mouvement ouvrier."
   },
   "0401": {
     "date": "1er avril",
     "name": "Poisson d'avril",
-    "description": "Journée dédiée aux blagues et canulars dans de nombreuses cultures.",
-    "origin": "Culture mondiale"
+    "description": "Tradition de faire des farces et des canulars.",
+    "origin": "Tradition européenne",
+    "full_description": "Le Poisson d'avril est une tradition séculaire consistant à faire des farces et à coller des poissons en papier dans le dos des gens. Son origine exacte est débattue, mais pourrait remonter au XVIe siècle en France, lorsque le roi Charles IX changea le début de l'année du 1er avril au 1er janvier.",
+    "good_to_know": "Dans différents pays, cette tradition prend des formes variées : en anglais, on parle d'April Fool's Day, et en Écosse, la tradition s'étend sur deux jours avec le 'Hunt the Gowk'.",
+    "action": "- Préparer des blagues inoffensives et amusantes\n- Créer des poissons en papier colorés\n- Organiser un concours de la meilleure farce\n- Vérifier les médias pour repérer les canulars traditionnels"
   },
   "0402": {
     "date": "2 avril",
-    "name": "Journée mondiale de la sensibilisation à l'autisme",
-    "description": "Journée promouvant la sensibilisation et l'acceptation de l'autisme.",
-    "origin": "ONU/Société civile"
+    "name": "Journée mondiale de sensibilisation à l'autisme",
+    "description": "Journée de sensibilisation aux troubles du spectre autistique.",
+    "origin": "ONU/Société civile",
+    "full_description": "Établie par l'ONU en 2007, cette journée vise à mieux faire comprendre l'autisme et à promouvoir l'inclusion des personnes autistes dans la société. Elle met en lumière les défis quotidiens auxquels font face les personnes autistes et leurs familles.",
+    "good_to_know": "La couleur bleue et le symbole du puzzle sont devenus des emblèmes de la sensibilisation à l'autisme. De nombreux bâtiments dans le monde s'illuminent en bleu ce jour-là.",
+    "action": "- S'informer sur l'autisme auprès de sources fiables\n- Participer aux événements de sensibilisation\n- Soutenir les organisations d'aide aux personnes autistes\n- Promouvoir l'inclusion dans son environnement"
   },
   "0403": {
     "date": "3 avril",
-    "name": "Fête de Qingming",
-    "description": "Fête traditionnelle chinoise dédiée au nettoyage des tombes et à l'hommage aux ancêtres.",
-    "origin": "Culture chinoise"
+    "name": "Journée du gâteau aux carottes",
+    "description": "Célébration dédiée à ce dessert populaire.",
+    "origin": "Culture culinaire",
+    "full_description": "Le gâteau aux carottes, mélange unique de légumes et de pâtisserie, est devenu un classique apprécié dans le monde entier. Cette journée célèbre ce dessert qui combine saveur, nutrition et tradition, rappelant comment un simple légume peut se transformer en délicieuse gourmandise.",
+    "good_to_know": "Les premières recettes de gâteau aux carottes remontent au Moyen Âge, où les carottes étaient utilisées comme édulcorant naturel en raison de leur teneur en sucre.",
+    "action": "- Préparer un gâteau aux carottes maison\n- Organiser une dégustation de différentes recettes\n- Partager sa recette préférée\n- Découvrir l'histoire de ce dessert"
   },
   "0404": {
     "date": "4 avril",
     "name": "Journée internationale de sensibilisation aux mines",
-    "description": "Journée soulignant les efforts mondiaux pour éliminer les mines antipersonnel.",
-    "origin": "ONU/Société civile"
+    "description": "Journée de sensibilisation aux dangers des mines antipersonnel.",
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée, établie par l'ONU, vise à sensibiliser aux dangers persistants des mines terrestres et à promouvoir leur élimination. Elle met en lumière le travail des démineurs et l'impact durable des mines sur les communautés affectées.",
+    "good_to_know": "Plus de 60 pays sont encore affectés par les mines terrestres. Le déminage manuel reste la méthode la plus sûre mais aussi la plus lente pour nettoyer les zones minées.",
+    "action": "- S'informer sur la problématique des mines\n- Soutenir les organisations de déminage\n- Participer à des campagnes de sensibilisation\n- Aider les victimes des mines"
   },
   "0405": {
     "date": "5 avril",
-    "name": "Fête de Saint Vincent Ferrier",
-    "description": "Célébration chrétienne en l'honneur de Saint Vincent Ferrier, prédicateur dominicain.",
-    "origin": "Christianisme"
+    "name": "Journée maritime mondiale",
+    "description": "Journée célébrant l'importance du transport maritime et des marins.",
+    "origin": "Organisation Maritime Internationale",
+    "full_description": "La Journée maritime mondiale met en lumière l'importance du transport maritime international et le rôle crucial des marins dans l'économie mondiale. Elle sensibilise également aux enjeux environnementaux et de sécurité maritime.",
+    "good_to_know": "Plus de 90% du commerce mondial s'effectue par voie maritime. Un grand porte-conteneurs moderne peut transporter plus de 20 000 conteneurs.",
+    "action": "- Découvrir l'histoire de la marine marchande\n- Visiter un port maritime\n- S'informer sur les métiers de la mer\n- Soutenir les associations d'aide aux marins"
   },
   "0406": {
     "date": "6 avril",
-    "name": "Journée de l'indépendance (Togo)",
-    "description": "Jour célébrant l'indépendance du Togo obtenue en 1960.",
-    "origin": "Culture togolaise"
+    "name": "Journée internationale du sport",
+    "description": "Journée promouvant le sport comme outil de développement et de paix.",
+    "origin": "ONU/Société civile",
+    "full_description": "Établie par l'ONU en 2013, cette journée célèbre le pouvoir du sport pour promouvoir la paix, le développement social et l'unité entre les peuples. Elle souligne l'importance du sport dans l'éducation et la santé.",
+    "good_to_know": "La date du 6 avril a été choisie en référence aux premiers Jeux Olympiques modernes qui ont débuté le 6 avril 1896 à Athènes.",
+    "action": "- Pratiquer une activité sportive\n- Organiser un événement sportif communautaire\n- Découvrir un nouveau sport\n- Promouvoir le fair-play et l'esprit sportif"
   },
   "0407": {
     "date": "7 avril",
     "name": "Journée mondiale de la santé",
-    "description": "Journée promouvant la santé mondiale et la sensibilisation aux problématiques sanitaires.",
-    "origin": "ONU/Société civile"
+    "description": "Journée de sensibilisation aux enjeux de santé mondiale.",
+    "origin": "OMS/Société civile",
+    "full_description": "Créée par l'Organisation mondiale de la santé (OMS), cette journée marque l'anniversaire de sa fondation en 1948. Chaque année, elle met en lumière un aspect particulier de la santé publique mondiale et promeut l'accès universel aux soins de santé.",
+    "good_to_know": "L'OMS choisit chaque année un thème différent pour cette journée, permettant de sensibiliser le public à des problématiques de santé spécifiques.",
+    "action": "- Faire un bilan de santé\n- Adopter de bonnes habitudes sanitaires\n- Soutenir les professionnels de santé\n- Participer aux campagnes de prévention"
   },
   "0408": {
     "date": "8 avril",
-    "name": "Fête des Fleurs (Chorokba)",
-    "description": "Festival traditionnel au Bhoutan célébrant le début du printemps.",
-    "origin": "Culture bhoutanaise"
+    "name": "Journée internationale des Roms",
+    "description": "Journée célébrant la culture et l'histoire du peuple rom.",
+    "origin": "Culture rom",
+    "full_description": "Cette journée commémore le premier Congrès mondial rom de 1971 à Londres. Elle célèbre la richesse de la culture rom et sensibilise aux défis auxquels cette communauté fait face, tout en promouvant leurs droits et leur inclusion sociale.",
+    "good_to_know": "Les Roms constituent la plus grande minorité ethnique d'Europe. Leur drapeau comporte une roue de chariot symbolisant leur histoire nomade.",
+    "action": "- Découvrir la musique et la danse tziganes\n- S'informer sur l'histoire des Roms\n- Lutter contre les préjugés\n- Soutenir les initiatives culturelles roms"
   },
   "0409": {
     "date": "9 avril",
-    "name": "Fête des Martyrs (Tunisie)",
-    "description": "Jour honorant les Tunisiens morts pour l'indépendance.",
-    "origin": "Culture tunisienne"
+    "name": "Journée nationale des archives",
+    "description": "Journée dédiée à la préservation et à la valorisation des archives.",
+    "origin": "Initiative nationale",
+    "full_description": "Cette journée met en valeur l'importance des archives dans la préservation de notre histoire collective. Elle sensibilise le public au rôle crucial des archivistes et à la nécessité de conserver et protéger les documents historiques.",
+    "good_to_know": "Les archives modernes ne se limitent pas aux documents papier mais incluent aussi les documents numériques, photos, films et enregistrements sonores.",
+    "action": "- Visiter des archives locales\n- Organiser ses documents personnels\n- Participer à des ateliers de conservation\n- Découvrir l'histoire de sa région"
   },
   "0410": {
     "date": "10 avril",
-    "name": "Pâques (variable)",
-    "description": "Fête chrétienne célébrant la résurrection de Jésus-Christ.",
-    "origin": "Christianisme"
+    "name": "Journée des frères et sœurs",
+    "description": "Journée célébrant les liens fraternels.",
+    "origin": "Initiative sociale",
+    "full_description": "Cette journée met à l'honneur les relations entre frères et sœurs, reconnaissant l'importance de ces liens familiaux uniques qui nous accompagnent toute la vie. Elle encourage à renforcer ces relations et à apprécier la présence de nos frères et sœurs.",
+    "good_to_know": "Les relations entre frères et sœurs sont parmi les plus longues de notre vie, dépassant souvent en durée celles avec nos parents, conjoints ou enfants.",
+    "action": "- Organiser une réunion familiale\n- Partager des souvenirs d'enfance\n- Renouer contact avec des frères et sœurs éloignés\n- Créer un album photo familial"
   },
   "0411": {
     "date": "11 avril",
     "name": "Journée mondiale de la maladie de Parkinson",
-    "description": "Journée consacrée à la sensibilisation et au soutien des personnes atteintes de Parkinson.",
-    "origin": "Société civile"
+    "description": "Journée de sensibilisation à la maladie de Parkinson.",
+    "origin": "Société civile/Santé",
+    "full_description": "Cette journée, qui coïncide avec l'anniversaire de James Parkinson qui a décrit la maladie pour la première fois, vise à sensibiliser le public à cette maladie neurodégénérative. Elle met en lumière les défis quotidiens des patients et l'importance de la recherche médicale.",
+    "good_to_know": "La maladie de Parkinson affecte plus de 10 millions de personnes dans le monde. Les symptômes varient grandement d'une personne à l'autre.",
+    "action": "- S'informer sur la maladie\n- Soutenir la recherche médicale\n- Aider les associations de patients\n- Participer aux événements de sensibilisation"
   },
   "0412": {
     "date": "12 avril",
-    "name": "Youri's Night",
-    "description": "Journée internationale célébrant les exploits de Youri Gagarine, premier homme dans l'espace.",
-    "origin": "Culture scientifique"
+    "name": "Journée internationale du vol spatial habité",
+    "description": "Commémoration du premier vol spatial humain.",
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée célèbre l'anniversaire du premier vol spatial habité par Youri Gagarine en 1961. Elle commémore cette étape cruciale de l'exploration spatiale et met en valeur les contributions de l'astronautique au développement de l'humanité.",
+    "good_to_know": "Le vol de Gagarine a duré 108 minutes et a fait une orbite complète autour de la Terre. Sa phrase célèbre 'Je vois la Terre, elle est si belle' est devenue emblématique.",
+    "action": "- Découvrir l'histoire de l'exploration spatiale\n- Observer les étoiles\n- Visiter un planétarium\n- S'intéresser aux dernières avancées spatiales"
   },
   "0413": {
     "date": "13 avril",
     "name": "Songkran",
-    "description": "Nouvel an thaïlandais marqué par des fêtes d'eau et des cérémonies traditionnelles.",
-    "origin": "Culture thaïlandaise/bouddhisme"
+    "description": "Nouvel an traditionnel thaïlandais.",
+    "origin": "Culture thaïlandaise",
+    "full_description": "Songkran est le festival traditionnel du Nouvel An thaïlandais, célébré du 13 au 15 avril. Cette fête est caractérisée par des batailles d'eau symboliques, représentant la purification et le renouveau. C'est aussi un moment de respect envers les aînés et de réunions familiales.",
+    "good_to_know": "L'eau utilisée pendant Songkran était traditionnellement parfumée avec des fleurs et des herbes. Les batailles d'eau actuelles sont dérivées du rituel traditionnel d'asperger doucement les statues de Bouddha d'eau parfumée.",
+    "action": "- Participer aux festivités de Songkran\n- Honorer les aînés de la famille\n- Découvrir la cuisine thaïlandaise traditionnelle\n- Visiter un temple bouddhiste"
   },
   "0414": {
     "date": "14 avril",
-    "name": "Puthandu",
-    "description": "Nouvel an tamoul célébré par des repas spéciaux et des rituels religieux.",
-    "origin": "Culture tamoule"
+    "name": "Nouvel An bengali (Pohela Boishakh)",
+    "description": "Célébration du Nouvel An selon le calendrier bengali.",
+    "origin": "Culture bengalie",
+    "full_description": "Pohela Boishakh marque le premier jour de l'année bengalie. Cette fête est célébrée avec des défilés colorés, des performances culturelles et des festins traditionnels. C'est un moment de renouveau où les commerçants ouvrent de nouveaux livres de comptes.",
+    "good_to_know": "Les femmes portent traditionnellement des saris blancs avec des bordures rouges, tandis que les hommes portent des punjabis blancs. Les maisons sont décorées d'alpona, des motifs traditionnels dessinés au sol.",
+    "action": "- Porter des vêtements traditionnels bengalis\n- Préparer des plats spéciaux\n- Participer aux célébrations culturelles\n- Créer des décorations alpona"
   },
   "0415": {
     "date": "15 avril",
     "name": "Journée mondiale de l'art",
-    "description": "Journée promouvant la créativité artistique et l'importance des arts pour la société.",
-    "origin": "ONU/Société civile"
+    "description": "Journée célébrant la créativité artistique sous toutes ses formes.",
+    "origin": "UNESCO/Société civile",
+    "full_description": "Cette journée, coïncidant avec l'anniversaire de Léonard de Vinci, promeut le développement, la diffusion et la jouissance de l'art. Elle souligne le rôle de l'art dans le développement culturel et le dialogue entre les peuples.",
+    "good_to_know": "L'art est reconnu comme un des plus anciens moyens d'expression humaine, avec des peintures rupestres datant de plus de 40 000 ans.",
+    "action": "- Visiter un musée ou une galerie d'art\n- Créer une œuvre artistique\n- Participer à un atelier créatif\n- Soutenir des artistes locaux"
   },
   "0416": {
     "date": "16 avril",
-    "name": "Hanami",
-    "description": "Fête japonaise célébrant la contemplation des cerisiers en fleurs.",
-    "origin": "Culture japonaise"
+    "name": "Journée mondiale de la voix",
+    "description": "Journée de sensibilisation à l'importance de la voix et de sa santé.",
+    "origin": "Initiative médicale/Société civile",
+    "full_description": "Cette journée met en lumière l'importance de la voix dans la communication humaine et sensibilise aux troubles vocaux. Elle promeut la santé vocale et l'importance des soins préventifs pour les professionnels de la voix.",
+    "good_to_know": "La voix humaine est produite par la vibration des cordes vocales, qui peuvent vibrer jusqu'à 1000 fois par seconde chez les sopranos.",
+    "action": "- Prendre soin de sa voix\n- Consulter un phoniatre si nécessaire\n- Découvrir différentes techniques vocales\n- Participer à un atelier de chant"
   },
   "0417": {
     "date": "17 avril",
-    "name": "Journée de la Constitution (Syrie)",
-    "description": "Jour marquant l'adoption de la Constitution syrienne en 1973.",
-    "origin": "Culture syrienne"
+    "name": "Journée mondiale de l'hémophilie",
+    "description": "Journée de sensibilisation à l'hémophilie et autres troubles de la coagulation.",
+    "origin": "Santé/Société civile",
+    "full_description": "Cette journée vise à sensibiliser le public à l'hémophilie, une maladie héréditaire affectant la coagulation du sang. Elle met en lumière les besoins des personnes atteintes et l'importance de la recherche médicale.",
+    "good_to_know": "L'hémophilie touche principalement les hommes, mais les femmes peuvent être porteuses du gène et le transmettre. La date du 17 avril a été choisie en l'honneur de Frank Schnabel, fondateur de la Fédération mondiale de l'hémophilie.",
+    "action": "- S'informer sur l'hémophilie\n- Soutenir la recherche médicale\n- Participer aux campagnes de sensibilisation\n- Donner son sang"
   },
   "0418": {
     "date": "18 avril",
     "name": "Journée internationale des monuments et des sites",
-    "description": "Journée sensibilisant à la préservation du patrimoine culturel mondial.",
-    "origin": "UNESCO"
+    "description": "Journée célébrant le patrimoine culturel mondial.",
+    "origin": "UNESCO/ICOMOS",
+    "full_description": "Établie par l'ICOMOS et approuvée par l'UNESCO, cette journée promeut la diversité du patrimoine culturel mondial. Elle sensibilise à l'importance de la préservation des monuments historiques et des sites culturels pour les générations futures.",
+    "good_to_know": "Chaque année, un thème différent est choisi pour mettre en lumière un aspect particulier du patrimoine culturel. De nombreux sites ouvrent gratuitement leurs portes ce jour-là.",
+    "action": "- Visiter des monuments historiques\n- Participer à des visites guidées\n- Documenter le patrimoine local\n- Soutenir la préservation du patrimoine"
   },
   "0419": {
     "date": "19 avril",
-    "name": "Fête de l'Indépendance (Venezuela)",
-    "description": "Jour célébrant la déclaration d'indépendance du Venezuela en 1810.",
-    "origin": "Culture vénézuélienne"
+    "name": "Jour du vélo",
+    "description": "Journée promouvant l'utilisation du vélo comme moyen de transport durable.",
+    "origin": "Initiative environnementale",
+    "full_description": "Cette journée célèbre le vélo comme moyen de transport écologique et sain. Elle encourage l'adoption du vélo pour les déplacements quotidiens et sensibilise aux bienfaits du cyclisme pour la santé et l'environnement.",
+    "good_to_know": "Le vélo est le moyen de transport le plus efficace énergétiquement, consommant 5 fois moins d'énergie que la marche pour parcourir la même distance.",
+    "action": "- Faire une balade à vélo\n- Participer à un événement cycliste\n- Apprendre l'entretien de son vélo\n- Promouvoir les infrastructures cyclables"
   },
   "0420": {
     "date": "20 avril",
-    "name": "Fête des Volcans",
-    "description": "Célébration dans certaines régions du monde en l'honneur des volcans et de leur puissance naturelle.",
-    "origin": "Culture environnementale"
+    "name": "Journée chinoise de la langue",
+    "description": "Journée célébrant la langue et la culture chinoises.",
+    "origin": "UNESCO/Culture chinoise",
+    "full_description": "Cette journée met en valeur la richesse de la langue chinoise et son importance dans le monde contemporain. Elle célèbre la contribution de Cangjie, personnage légendaire considéré comme l'inventeur des caractères chinois.",
+    "good_to_know": "Le chinois est la langue la plus parlée au monde avec plus de 1,3 milliard de locuteurs. L'écriture chinoise compte plus de 50 000 caractères, dont environ 3 000 sont utilisés quotidiennement.",
+    "action": "- Apprendre quelques mots en chinois\n- Découvrir la calligraphie chinoise\n- Participer à des événements culturels\n- Explorer la littérature chinoise"
   },
   "0421": {
     "date": "21 avril",
-    "name": "Tiradentes Day (Brésil)",
-    "description": "Jour honorant Tiradentes, héros de l'indépendance brésilienne.",
-    "origin": "Culture brésilienne"
+    "name": "Journée mondiale de la créativité et de l'innovation",
+    "description": "Journée célébrant le pouvoir de la créativité et de l'innovation.",
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée souligne l'importance de la créativité et de l'innovation dans la résolution des défis mondiaux. Elle encourage la pensée créative et l'innovation dans tous les domaines de l'activité humaine.",
+    "good_to_know": "La créativité est considérée comme une compétence clé du 21e siècle, essentielle pour s'adapter aux changements rapides de notre monde.",
+    "action": "- Expérimenter une nouvelle activité créative\n- Participer à un atelier d'innovation\n- Proposer des solutions créatives à un problème\n- Collaborer sur un projet innovant"
   },
   "0422": {
     "date": "22 avril",
     "name": "Journée de la Terre",
-    "description": "Journée mondiale promouvant la protection de l'environnement.",
-    "origin": "ONU/Société civile"
+    "description": "Journée mondiale de sensibilisation à la protection de l'environnement.",
+    "origin": "ONU/Société civile",
+    "full_description": "La Journée de la Terre est un événement annuel mondial qui mobilise des millions de personnes pour la protection de l'environnement. Créée en 1970, elle est devenue le plus grand mouvement civique au monde, sensibilisant aux enjeux climatiques et écologiques.",
+    "good_to_know": "La première Journée de la Terre a vu 20 millions d'Américains manifester pour la protection de l'environnement, contribuant à la création de l'Agence américaine de protection de l'environnement (EPA).",
+    "action": "- Participer à des actions de nettoyage\n- Réduire son empreinte carbone\n- Planter des arbres\n- Sensibiliser à l'écologie"
   },
   "0423": {
     "date": "23 avril",
     "name": "Journée mondiale du livre et du droit d'auteur",
-    "description": "Journée célébrant la lecture, les auteurs et l'accès au savoir.",
-    "origin": "UNESCO"
+    "description": "Journée célébrant la littérature et la protection des droits d'auteur.",
+    "origin": "UNESCO",
+    "full_description": "Cette journée rend hommage aux livres et aux auteurs, encourageant chacun à découvrir le plaisir de la lecture. La date du 23 avril a été choisie car c'est la date de décès de William Shakespeare et Miguel de Cervantes.",
+    "good_to_know": "À Barcelone, il est traditionnel d'offrir un livre et une rose ce jour-là, combinant la Saint-Georges (patron de la Catalogne) avec la Journée mondiale du livre.",
+    "action": "- Offrir un livre à un proche\n- Visiter une bibliothèque\n- Participer à un club de lecture\n- Soutenir les librairies indépendantes"
   },
   "0424": {
     "date": "24 avril",
-    "name": "Fête de la Sainte Fidèle",
-    "description": "Célébration chrétienne en l'honneur de Saint Fidèle, martyr du XVIIe siècle.",
-    "origin": "Christianisme"
+    "name": "Journée mondiale des animaux de laboratoire",
+    "description": "Journée de sensibilisation au bien-être des animaux utilisés en recherche.",
+    "origin": "Société civile/Protection animale",
+    "full_description": "Cette journée vise à sensibiliser le public aux questions éthiques liées à l'expérimentation animale et à promouvoir le développement de méthodes alternatives. Elle encourage le débat sur les droits des animaux et la nécessité d'une recherche éthique.",
+    "good_to_know": "De nombreuses avancées scientifiques majeures ont conduit au développement de méthodes alternatives à l'expérimentation animale, comme les cultures cellulaires et les modèles informatiques.",
+    "action": "- S'informer sur les méthodes alternatives\n- Soutenir la recherche éthique\n- Participer aux débats sur le sujet\n- Promouvoir les produits non testés sur les animaux"
   },
   "0425": {
     "date": "25 avril",
     "name": "ANZAC Day",
-    "description": "Jour honorant les soldats australiens et néo-zélandais morts pendant la Première Guerre mondiale.",
-    "origin": "Culture australienne et néo-zélandaise"
+    "description": "Jour commémorant les soldats australiens et néo-zélandais.",
+    "origin": "Culture australienne et néo-zélandaise",
+    "full_description": "ANZAC Day honore la mémoire des soldats australiens et néo-zélandais morts pendant la bataille de Gallipoli en 1915 et dans tous les conflits suivants. Cette journée est marquée par des cérémonies de l'aube, des défilés et des services commémoratifs.",
+    "good_to_know": "Le terme ANZAC signifie Australian and New Zealand Army Corps. Les biscuits ANZAC, créés pendant la Première Guerre mondiale pour nourrir les soldats, sont devenus un symbole de cette commémoration.",
+    "action": "- Assister à une cérémonie de l'aube\n- Préparer des biscuits ANZAC\n- Visiter un mémorial de guerre\n- Participer aux commémorations"
   },
   "0426": {
     "date": "26 avril",
     "name": "Journée mondiale de la propriété intellectuelle",
-    "description": "Journée mettant en lumière l'importance de la créativité et des droits de propriété intellectuelle.",
-    "origin": "ONU/Société civile"
+    "description": "Journée célébrant l'innovation et la créativité protégées.",
+    "origin": "OMPI/Société civile",
+    "full_description": "Cette journée sensibilise à l'importance de la propriété intellectuelle dans l'encouragement de l'innovation et de la créativité. Elle met en lumière le rôle des brevets, marques, droits d'auteur et autres formes de protection intellectuelle.",
+    "good_to_know": "La propriété intellectuelle génère environ 40% du PIB de l'Union européenne. Les premiers systèmes de brevets remontent à la Renaissance italienne.",
+    "action": "- Protéger ses créations\n- S'informer sur les droits d'auteur\n- Soutenir l'innovation responsable\n- Respecter la propriété intellectuelle"
   },
   "0427": {
     "date": "27 avril",
-    "name": "Fête de la liberté (Afrique du Sud)",
-    "description": "Jour marquant les premières élections démocratiques post-apartheid en 1994.",
-    "origin": "Culture sud-africaine"
+    "name": "Journée mondiale du design graphique",
+    "description": "Journée célébrant l'art et la profession du design graphique.",
+    "origin": "Initiative professionnelle",
+    "full_description": "Cette journée met en valeur le rôle crucial du design graphique dans la communication visuelle moderne. Elle célèbre la créativité des designers et leur contribution à la culture visuelle contemporaine.",
+    "good_to_know": "Le design graphique moderne est né avec la révolution industrielle, mais ses racines remontent aux premiers systèmes d'écriture et aux hiéroglyphes.",
+    "action": "- Explorer différents styles de design\n- Créer une œuvre graphique\n- Visiter une exposition de design\n- Soutenir les designers locaux"
   },
   "0428": {
     "date": "28 avril",
     "name": "Journée mondiale de la sécurité et de la santé au travail",
-    "description": "Journée promouvant des environnements de travail sûrs et sains.",
-    "origin": "ONU/Société civile"
+    "description": "Journée promouvant la sécurité sur le lieu de travail.",
+    "origin": "OIT/Société civile",
+    "full_description": "Cette journée promeut la prévention des accidents et des maladies professionnelles dans le monde. Elle souligne l'importance d'un environnement de travail sûr et sain pour tous les travailleurs.",
+    "good_to_know": "Chaque année, plus de 2,3 millions de personnes meurent d'accidents ou de maladies liés au travail. La prévention et la formation sont essentielles pour réduire ces chiffres.",
+    "action": "- Évaluer les risques sur son lieu de travail\n- Suivre une formation en sécurité\n- Promouvoir les bonnes pratiques\n- Signaler les situations dangereuses"
   },
   "0429": {
     "date": "29 avril",
     "name": "Journée internationale de la danse",
-    "description": "Journée célébrant la danse et son impact culturel et artistique.",
-    "origin": "UNESCO"
+    "description": "Journée célébrant l'art de la danse sous toutes ses formes.",
+    "origin": "UNESCO/CID",
+    "full_description": "Créée par le Comité International de la Danse de l'UNESCO, cette journée célèbre l'universalité de la danse comme forme d'expression artistique et culturelle. Elle encourage la pratique de la danse et sa reconnaissance comme art majeur.",
+    "good_to_know": "La date du 29 avril a été choisie car c'est l'anniversaire de Jean-Georges Noverre, créateur du ballet moderne au XVIIIe siècle.",
+    "action": "- Prendre un cours de danse\n- Assister à un spectacle\n- Organiser une flash mob\n- Découvrir des danses traditionnelles"
   },
   "0430": {
     "date": "30 avril",
-    "name": "Walpurgisnacht",
-    "description": "Fête traditionnelle européenne marquant le début de l'été avec des feux et des danses.",
-    "origin": "Culture européenne"
+    "name": "Journée internationale du jazz",
+    "description": "Journée célébrant le jazz et son impact culturel.",
+    "origin": "UNESCO",
+    "full_description": "Cette journée met en lumière le jazz comme forme d'expression artistique universelle promouvant la paix, le dialogue entre les cultures, la diversité et le respect des droits humains. Elle célèbre la capacité unique du jazz à unir les personnes.",
+    "good_to_know": "Le jazz est né à La Nouvelle-Orléans au début du XXe siècle, mélangeant les traditions musicales africaines, européennes et américaines.",
+    "action": "- Écouter du jazz\n- Assister à un concert\n- Apprendre l'histoire du jazz\n- Soutenir les musiciens locaux"
   },
   "0501": {
     "date": "1er mai",
     "name": "Fête du Travail",
-    "description": "Journée célébrant les travailleurs et leurs droits dans de nombreux pays.",
-    "origin": "Société civile"
+    "description": "Journée internationale des travailleurs.",
+    "origin": "Mouvement ouvrier/Société civile",
+    "full_description": "La Fête du Travail commémore la lutte historique des travailleurs pour obtenir la journée de huit heures et de meilleures conditions de travail. Cette journée, célébrée dans de nombreux pays, est marquée par des manifestations et des rassemblements syndicaux.",
+    "good_to_know": "La date du 1er mai a été choisie en mémoire du massacre de Haymarket à Chicago en 1886, lors d'une manifestation pour la journée de huit heures.",
+    "action": "- Participer aux manifestations syndicales\n- S'informer sur les droits des travailleurs\n- Soutenir les luttes sociales\n- Découvrir l'histoire du mouvement ouvrier"
   },
   "0502": {
     "date": "2 mai",
-    "name": "Fête nationale de la jeunesse (Chine)",
-    "description": "Jour honorant les contributions des jeunes en Chine.",
-    "origin": "Culture chinoise"
+    "name": "Journée mondiale du thon",
+    "description": "Journée de sensibilisation à la préservation du thon.",
+    "origin": "ONU/FAO",
+    "full_description": "Cette journée met en lumière l'importance du thon dans l'alimentation mondiale et l'économie maritime. Elle sensibilise également à la nécessité de préserver les stocks de thon et de promouvoir une pêche durable.",
+    "good_to_know": "Le thon est l'un des poissons les plus consommés au monde. Certaines espèces peuvent nager jusqu'à 70 km/h et plonger à plus de 1000 mètres de profondeur.",
+    "action": "- Choisir du thon pêché durablement\n- S'informer sur la pêche responsable\n- Découvrir des recettes de thon\n- Soutenir la protection des océans"
   },
   "0503": {
     "date": "3 mai",
     "name": "Journée mondiale de la liberté de la presse",
-    "description": "Journée promouvant la liberté de la presse et la protection des journalistes.",
-    "origin": "ONU/Société civile"
+    "description": "Journée célébrant la liberté de la presse et le journalisme indépendant.",
+    "origin": "ONU/UNESCO",
+    "full_description": "Cette journée rappelle l'importance fondamentale de la liberté de la presse pour la démocratie. Elle honore les journalistes qui risquent leur vie pour informer le public et dénonce la censure et les persécutions contre les médias.",
+    "good_to_know": "Plus de 800 journalistes ont été tués dans l'exercice de leur fonction au cours des dix dernières années. La liberté de la presse est en recul dans de nombreux pays.",
+    "action": "- Soutenir le journalisme indépendant\n- Vérifier ses sources d'information\n- Défendre la liberté d'expression\n- S'informer sur la situation des médias"
   },
   "0504": {
     "date": "4 mai",
     "name": "Star Wars Day",
-    "description": "Journée célébrant la franchise Star Wars avec le slogan 'May the Fourth be with you'.",
-    "origin": "Culture populaire"
+    "description": "Journée célébrant la saga Star Wars.",
+    "origin": "Culture populaire",
+    "full_description": "Le Star Wars Day est né d'un jeu de mots en anglais : 'May the 4th' ressemble à 'May the Force (be with you)', la célèbre phrase de la saga. Cette journée rassemble les fans du monde entier pour célébrer l'univers créé par George Lucas.",
+    "good_to_know": "La première célébration officielle du Star Wars Day a eu lieu en 2011 à Toronto. La saga a profondément influencé la culture populaire et le cinéma moderne.",
+    "action": "- Regarder un film Star Wars\n- Participer à des événements de fans\n- Se déguiser en personnage de la saga\n- Découvrir les coulisses de la création"
   },
   "0505": {
     "date": "5 mai",
-    "name": "Cinco de Mayo",
-    "description": "Fête célébrant la victoire mexicaine contre les Français lors de la bataille de Puebla.",
-    "origin": "Culture mexicaine"
+    "name": "Journée mondiale de la sage-femme",
+    "description": "Journée honorant le travail des sages-femmes.",
+    "origin": "OMS/Société civile",
+    "full_description": "Cette journée reconnaît le rôle crucial des sages-femmes dans la santé maternelle et infantile. Elle met en lumière leur contribution essentielle à la réduction de la mortalité maternelle et néonatale dans le monde.",
+    "good_to_know": "Les sages-femmes assurent environ 80% des naissances dans le monde. Leur présence peut réduire de 87% les complications liées à la grossesse.",
+    "action": "- Sensibiliser aux droits maternels\n- Soutenir les associations de sages-femmes\n- S'informer sur la profession\n- Partager des témoignages positifs"
   },
   "0506": {
     "date": "6 mai",
-    "name": "Chakri Day (Thaïlande)",
-    "description": "Jour honorant la dynastie Chakri régnante en Thaïlande.",
-    "origin": "Culture thaïlandaise"
+    "name": "Journée internationale sans régime",
+    "description": "Journée promouvant l'acceptation corporelle et la santé mentale.",
+    "origin": "Initiative sociale",
+    "full_description": "Cette journée encourage l'acceptation de soi et la lutte contre la culture des régimes restrictifs. Elle promeut une approche saine de l'alimentation et du rapport au corps, en opposition aux standards de beauté irréalistes.",
+    "good_to_know": "L'industrie des régimes génère plus de 70 milliards de dollars par an, malgré le fait que 95% des régimes échouent à long terme.",
+    "action": "- Célébrer la diversité corporelle\n- Adopter une alimentation intuitive\n- Questionner les standards de beauté\n- Promouvoir le bien-être mental"
   },
   "0507": {
     "date": "7 mai",
-    "name": "Journée de la Radio et de la Télévision (Russie)",
-    "description": "Jour honorant les travailleurs des médias en Russie.",
-    "origin": "Culture russe"
+    "name": "Journée mondiale du rire",
+    "description": "Journée célébrant les bienfaits du rire.",
+    "origin": "Initiative sociale",
+    "full_description": "Cette journée promeut les effets bénéfiques du rire sur la santé physique et mentale. Initiée par le Dr Madan Kataria, fondateur du yoga du rire, elle encourage les gens à rire davantage pour réduire le stress et améliorer leur bien-être.",
+    "good_to_know": "Le rire stimule la production d'endorphines, renforce le système immunitaire et peut brûler jusqu'à 40 calories par 10 minutes de fou rire.",
+    "action": "- Participer à une séance de yoga du rire\n- Regarder une comédie\n- Organiser une soirée humoristique\n- Partager des moments de joie"
   },
   "0508": {
     "date": "8 mai",
-    "name": "Fête de la Victoire",
-    "description": "Célébration marquant la fin de la Seconde Guerre mondiale en Europe.",
-    "origin": "Culture européenne"
+    "name": "Journée mondiale de la Croix-Rouge",
+    "description": "Journée célébrant le mouvement humanitaire de la Croix-Rouge.",
+    "origin": "Croix-Rouge/Société civile",
+    "full_description": "Cette journée commémore la naissance d'Henry Dunant, fondateur de la Croix-Rouge. Elle met en lumière le travail humanitaire de millions de volontaires à travers le monde qui aident les personnes en situation de crise.",
+    "good_to_know": "La Croix-Rouge est présente dans 192 pays et compte plus de 13 millions de volontaires actifs. Le symbole de la croix rouge est l'inverse du drapeau suisse en hommage aux origines du mouvement.",
+    "action": "- Faire un don à la Croix-Rouge\n- Devenir bénévole\n- Apprendre les premiers secours\n- Soutenir les actions humanitaires"
   },
   "0509": {
     "date": "9 mai",
     "name": "Journée de l'Europe",
-    "description": "Journée célébrant la paix et l'unité en Europe, marquant la déclaration Schuman.",
-    "origin": "Culture européenne"
+    "description": "Journée célébrant la paix et l'unité en Europe.",
+    "origin": "Union européenne",
+    "full_description": "La Journée de l'Europe commémore la déclaration Schuman du 9 mai 1950, qui a posé les bases de l'Union européenne. Elle célèbre la paix et la coopération entre les nations européennes après des siècles de conflits.",
+    "good_to_know": "L'hymne européen est basé sur l'Ode à la Joie de Beethoven. Le drapeau européen avec ses 12 étoiles a été adopté en 1985.",
+    "action": "- Participer aux festivités européennes\n- Découvrir les cultures européennes\n- S'informer sur l'UE\n- Promouvoir la coopération internationale"
   },
   "0510": {
     "date": "10 mai",
-    "name": "Fête des Mères (Mexique)",
-    "description": "Jour honorant les mères, célébré de manière particulière au Mexique.",
-    "origin": "Culture mexicaine"
+    "name": "Journée mondiale des oiseaux migrateurs",
+    "description": "Journée de sensibilisation à la protection des oiseaux migrateurs.",
+    "origin": "ONU/PNUE",
+    "full_description": "Cette journée met en lumière les défis auxquels font face les oiseaux migrateurs et l'importance de préserver leurs habitats et leurs routes migratoires. Elle souligne le rôle crucial de ces oiseaux dans les écosystèmes mondiaux.",
+    "good_to_know": "Certains oiseaux migrateurs parcourent plus de 20 000 kilomètres par an. L'Arctic Tern détient le record avec un voyage annuel de 70 000 kilomètres.",
+    "action": "- Observer les oiseaux dans la nature\n- Participer à des comptages d'oiseaux\n- Créer un habitat favorable aux oiseaux\n- Soutenir la conservation des zones humides"
   },
   "0511": {
     "date": "11 mai",
-    "name": "Journée de la couronne (Pays-Bas)",
-    "description": "Jour marquant la fondation de la dynastie royale néerlandaise.",
-    "origin": "Culture néerlandaise"
+    "name": "Journée mondiale du commerce équitable",
+    "description": "Journée promouvant le commerce équitable et éthique.",
+    "origin": "Initiative sociale/économique",
+    "full_description": "Cette journée sensibilise aux principes du commerce équitable qui garantit des conditions de travail décentes et une rémunération juste aux producteurs. Elle encourage les consommateurs à faire des choix éthiques dans leurs achats.",
+    "good_to_know": "Le commerce équitable touche plus de 2 millions de producteurs dans 70 pays. Le label Fairtrade est le plus reconnu mondialement.",
+    "action": "- Acheter des produits équitables\n- S'informer sur les filières éthiques\n- Soutenir les producteurs locaux\n- Sensibiliser son entourage"
   },
   "0512": {
     "date": "12 mai",
-    "name": "Fête de Saint Pancrace",
-    "description": "Célébration chrétienne en l'honneur de Saint Pancrace, martyr du IVe siècle.",
-    "origin": "Christianisme"
+    "name": "Journée internationale des infirmières",
+    "description": "Journée honorant la profession infirmière.",
+    "origin": "OMS/Conseil International des Infirmières",
+    "full_description": "Cette journée, anniversaire de la naissance de Florence Nightingale, célèbre la contribution essentielle des infirmières aux soins de santé. Elle met en lumière leur dévouement et leur professionnalisme dans la prise en charge des patients.",
+    "good_to_know": "Les infirmières représentent près de 60% du personnel de santé mondial. Florence Nightingale est considérée comme la fondatrice des soins infirmiers modernes.",
+    "action": "- Remercier les infirmières\n- Soutenir leurs revendications\n- S'informer sur la profession\n- Promouvoir la valorisation du métier"
   },
   "0513": {
     "date": "13 mai",
-    "name": "Rotuma Day",
-    "description": "Jour célébrant la culture et l'indépendance relative de Rotuma, une île des Fidji.",
-    "origin": "Culture rotumane"
+    "name": "Journée mondiale de la fibromyalgie",
+    "description": "Journée de sensibilisation à la fibromyalgie.",
+    "origin": "Santé/Société civile",
+    "full_description": "Cette journée vise à sensibiliser le public à la fibromyalgie, une maladie chronique caractérisée par des douleurs diffuses et une fatigue intense. Elle met en lumière les défis quotidiens des personnes atteintes et l'importance de la recherche médicale.",
+    "good_to_know": "La fibromyalgie touche environ 2-4% de la population mondiale, majoritairement des femmes. Son diagnostic reste complexe car les symptômes varient d'une personne à l'autre.",
+    "action": "- S'informer sur la maladie\n- Soutenir les associations de patients\n- Participer aux événements de sensibilisation\n- Promouvoir la recherche médicale"
   },
   "0514": {
     "date": "14 mai",
-    "name": "Journée de l'indépendance d'Israël (variable)",
-    "description": "Jour célébrant la déclaration d'indépendance d'Israël en 1948.",
-    "origin": "Culture israélienne"
+    "name": "Journée mondiale des oiseaux migrateurs",
+    "description": "Journée de sensibilisation à la protection des oiseaux migrateurs.",
+    "origin": "ONU/PNUE",
+    "full_description": "Cette journée célèbre le phénomène extraordinaire de la migration des oiseaux et souligne l'importance de préserver leurs habitats et leurs routes migratoires. Elle met en avant la coopération internationale nécessaire à leur protection.",
+    "good_to_know": "Les oiseaux migrateurs peuvent voler pendant des jours sans s'arrêter et utilisent le champ magnétique terrestre pour s'orienter.",
+    "action": "- Observer les oiseaux migrateurs\n- Participer à des activités de conservation\n- Créer des habitats favorables\n- Soutenir les organisations de protection"
   },
   "0515": {
     "date": "15 mai",
     "name": "Journée internationale des familles",
-    "description": "Journée promouvant l'importance des familles dans la société.",
-    "origin": "ONU/Société civile"
+    "description": "Journée célébrant l'importance des familles.",
+    "origin": "ONU/Société civile",
+    "full_description": "Établie par l'ONU en 1993, cette journée met en lumière l'importance des familles comme unité fondamentale de la société. Elle promeut la sensibilisation aux questions sociales, économiques et démographiques qui affectent les familles.",
+    "good_to_know": "La définition de la famille varie selon les cultures et évolue avec le temps. L'ONU reconnaît cette diversité et promeut des politiques favorables à toutes les formes de famille.",
+    "action": "- Organiser une réunion familiale\n- Participer à des activités en famille\n- Soutenir les familles en difficulté\n- Promouvoir les politiques familiales"
   },
   "0516": {
     "date": "16 mai",
-    "name": "Vesak (variable)",
-    "description": "Fête bouddhiste commémorant la naissance, l'illumination et la mort de Bouddha.",
-    "origin": "Bouddhisme"
+    "name": "Journée internationale de la lumière",
+    "description": "Journée célébrant le rôle de la lumière dans la science et la culture.",
+    "origin": "UNESCO",
+    "full_description": "Cette journée met en valeur le rôle crucial de la lumière dans la science, la culture, l'art, l'éducation et le développement durable. Elle commémore la première démonstration réussie du laser en 1960 par Theodore Maiman.",
+    "good_to_know": "La lumière joue un rôle fondamental dans presque tous les aspects de notre vie moderne, des communications à l'énergie solaire en passant par la médecine.",
+    "action": "- Participer à des expériences sur la lumière\n- Découvrir les technologies optiques\n- Visiter un musée des sciences\n- Explorer l'art de la photographie"
   },
   "0517": {
     "date": "17 mai",
     "name": "Journée mondiale des télécommunications",
-    "description": "Journée soulignant l'importance des télécommunications et de l'internet.",
-    "origin": "ONU/Société civile"
+    "description": "Journée célébrant l'évolution des communications.",
+    "origin": "UIT/ONU",
+    "full_description": "Cette journée commémore la création de l'Union internationale des télécommunications et sensibilise à l'importance des technologies de communication dans notre société moderne. Elle met en lumière les innovations et leur impact sur notre vie quotidienne.",
+    "good_to_know": "La première transmission télégraphique a eu lieu en 1844. Aujourd'hui, plus de 95% de la population mondiale a accès à un réseau mobile.",
+    "action": "- Explorer l'histoire des télécommunications\n- Réfléchir à son usage du numérique\n- Participer à des ateliers technologiques\n- Sensibiliser à la fracture numérique"
   },
   "0518": {
     "date": "18 mai",
     "name": "Journée internationale des musées",
-    "description": "Journée promouvant la richesse culturelle et éducative des musées.",
-    "origin": "UNESCO"
+    "description": "Journée célébrant le rôle des musées dans la société.",
+    "origin": "ICOM/UNESCO",
+    "full_description": "Cette journée met en valeur le rôle des musées comme moyens d'échange culturel, d'enrichissement des cultures, de développement de la compréhension mutuelle, de la coopération et de la paix entre les peuples.",
+    "good_to_know": "De nombreux musées offrent l'entrée gratuite ce jour-là. Chaque année, un thème différent est choisi pour explorer de nouvelles perspectives muséales.",
+    "action": "- Visiter un musée local\n- Participer aux activités spéciales\n- Découvrir des collections en ligne\n- Soutenir les institutions culturelles"
   },
   "0519": {
     "date": "19 mai",
-    "name": "Commemoration of Atatürk",
-    "description": "Youth and Sports Day (Turquie)",
-    "origin": "Jour honorant Mustafa Kemal Atatürk et la jeunesse turque."
+    "name": "Journée mondiale des abeilles",
+    "description": "Journée de sensibilisation à l'importance des abeilles.",
+    "origin": "ONU/FAO",
+    "full_description": "Cette journée met en lumière le rôle crucial des abeilles et autres pollinisateurs pour notre écosystème et notre sécurité alimentaire. Elle sensibilise aux menaces qui pèsent sur leur survie et à l'importance de les protéger.",
+    "good_to_know": "Les abeilles pollinisent environ 70% des espèces cultivées qui nourrissent 90% de la population mondiale. Une seule colonie peut polliniser jusqu'à 300 millions de fleurs par jour.",
+    "action": "- Planter des fleurs mellifères\n- Éviter les pesticides\n- Soutenir les apiculteurs locaux\n- Créer des habitats pour les abeilles"
   },
   "0520": {
     "date": "20 mai",
-    "name": "Indépendance du Cameroun",
-    "description": "Jour marquant l'indépendance du Cameroun en 1972.",
-    "origin": "Culture camerounaise"
+    "name": "Journée mondiale de la métrologie",
+    "description": "Journée célébrant la science de la mesure.",
+    "origin": "BIPM/OIML",
+    "full_description": "Cette journée commémore la signature de la Convention du Mètre en 1875. Elle met en valeur l'importance des mesures précises dans la science, l'industrie, le commerce et la vie quotidienne.",
+    "good_to_know": "Le système métrique est utilisé par plus de 95% de la population mondiale. Les unités de mesure sont régulièrement redéfinies pour plus de précision.",
+    "action": "- Découvrir l'histoire des mesures\n- Explorer les instruments de mesure\n- Participer à des expériences scientifiques\n- Comprendre les standards internationaux"
   },
   "0521": {
     "date": "21 mai",
