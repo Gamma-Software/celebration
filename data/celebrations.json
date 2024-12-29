@@ -102,6 +102,8 @@
       "name": "Sebastian's Day",
       "description": "Fête traditionnelle aux Açores",
       "origin": "au Portugal",
+      "image": "https://images.rove.me/w_1920,q_85/ux95ja63xppfleaaipzi/rio-de-janeiro-st-sebastians-day.jpg",
+      "image_site": "https://images.rove.me/w_1920,q_85/ux95ja63xppfleaaipzi/rio-de-janeiro-st-sebastians-day.jpg",
       "full_description": "Sebastian's Day est une fête religieuse célébrée dans les Açores, au Portugal. Elle est dédiée à Saint Sébastien, le saint patron de plusieurs villes, et est marquée par des processions, des messes et des festivités locales.",
       "good_to_know": "La fête de Saint Sébastien est souvent accompagnée de musique traditionnelle et de plats typiques des Açores.",
       "action": "- Assister à une procession religieuse.\n- Découvrir la musique et la danse traditionnelles des Açores.\n- Déguster des plats locaux, comme le cozido das Furnas."
@@ -111,15 +113,19 @@
       "name": "Journée internationale du merci",
       "description": "Journée dédiée à l'expression de la gratitude et de la reconnaissance.",
       "origin": "Initiative mondiale",
+      "image": "https://images.unsplash.com/photo-1503980599186-9cc36eda351a?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image_site": "https://images.unsplash.com",
       "full_description": "La Journée internationale du merci est une célébration mondiale qui encourage chacun à exprimer sa gratitude envers les autres. Elle rappelle l'importance des mots simples, mais puissants, comme 'merci'.",
       "good_to_know": "Un simple 'merci' peut renforcer les liens sociaux et contribuer au bien-être personnel et collectif.",
       "action": "- Envoyer des messages de gratitude à vos proches.\n- Écrire une lettre de remerciement à quelqu'un qui a marqué votre vie.\n- Participer à des campagnes de sensibilisation sur l'importance de la gratitude."
   },
   "0112": {
       "date": "12 janvier",
-      "name": "Zanzibar Revolution Day",
+      "name": "Journée de la révolution de Zanzibar",
       "description": "Jour férié en Tanzanie commémorant la révolution de 1964 à Zanzibar.",
       "origin": "Histoire de la Tanzanie",
+      "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1610309390270-UWU4EDZNCTU2ABM16W7S/zanzibar+.png",
+      "image_site": "https://www.bibliomonde.fr/lalmanach/2021/1/11/12-janvier-zanzibar-clbre-une-rvolution-politique-et-culturelle-qui-sest-droule-dans-le-sang",
       "full_description": "Le Zanzibar Revolution Day commémore la révolution qui a renversé le sultanat en 1964, établissant un régime républicain à Zanzibar. Cette journée célèbre la liberté et l'indépendance des habitants de l'île.",
       "good_to_know": "Des défilés, concerts et feux d'artifice ont lieu à Zanzibar pour marquer cette journée historique.",
       "action": "- Assister aux festivités locales.\n- Explorer les sites historiques liés à la révolution.\n- En apprendre davantage sur l'histoire de Zanzibar."
@@ -127,8 +133,10 @@
   "0113": {
     "date": "13 janvier",
     "name": "Lohri",
-    "description": "Festival populaire en Inde",
+    "description": "Festival populaire en Inde célébrant la fin de l'hiver et le début de la saison des récoltes.",
     "origin": "particulièrement au Pendjab",
+    "image": "https://www.mypoojabox.in/cdn/shop/articles/The_Bonfire_Festival_Lohri_Celebrate_in_a_My_Pooja_Box_Way_a30a930e-8a04-4b18-bb90-d87f3b36ed7b_1100x.jpg?v=1610465051",
+    "image_site": "https://www.mypoojabox.in/blogs/articles/the-bonfire-festival-lohri-celebrate-in-a-my-pooja-box-way",
     "full_description": "Lohri est une fête populaire en Inde, particulièrement au Pendjab, célébrant la fin de l'hiver et le début de la saison des récoltes. Elle est marquée par des danses folkloriques, des chants et des feux de joie.",
     "good_to_know": "Les feux de joie sont au cœur des célébrations, symbolisant la chaleur et la fertilité. Les gens jettent du maïs soufflé, des cacahuètes et des friandises dans les flammes en guise d'offrande.",
     "action": "- Participer à un feu de joie communautaire.\n- Apprendre des danses folkloriques comme le Bhangra.\n- Préparer des mets traditionnels tels que le gur ki roti."
@@ -137,109 +145,188 @@
     "date": "14 janvier",
     "name": "Makar Sankranti",
     "description": "Fête hindoue marquant le passage du soleil dans le signe du Capricorne",
-    "origin": "célébrée avec des vols de cerfs-volants et des festins."
+    "origin": "Hindouisme, Inde",
+    "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2021/01/14/949795-lohri-amritsar.jpg",
+    "image_site": "https://www.dnaindia.com/lifestyle/photo-gallery-makar-sankranti-2021-how-festival-is-celebrated-uniquely-across-different-states-of-india-2868064",
+    "full_description": "Makar Sankranti est l'une des rares fêtes hindoues basées sur le calendrier solaire plutôt que lunaire. Elle marque le début de la période où le soleil commence son voyage vers le nord (uttarayan) dans le zodiaque. Cette fête célèbre la fin de l'hiver et l'arrivée de jours plus longs, symbolisant le renouveau et la prospérité.",
+    "good_to_know": "Cette fête est célébrée différemment selon les régions de l'Inde : au Gujarat, elle est connue pour ses festivals de cerfs-volants colorés; au Tamil Nadu, on la célèbre comme Pongal avec des plats spéciaux de riz; au Punjab, elle coïncide avec Lohri. Les gens échangent des sucreries traditionnelles faites de sésame et de jaggery, symbolisant la douceur dans les relations.",
+    "action": "- Participer à un festival de cerfs-volants\n- Préparer des sucreries traditionnelles til-gul\n- Partager un repas communautaire\n- Apprendre sur les différentes traditions régionales indiennes\n- Décorer sa maison avec des motifs rangoli"
   },
   "0115": {
     "date": "15 janvier",
     "name": "Journée de Martin Luther King Jr.",
     "description": "Jour férié aux États-Unis honorant la vie et l'héritage du leader des droits civiques Martin Luther King Jr.",
-    "origin": "États-Unis"
+    "origin": "États-Unis",
+    "image": "https://images.unsplash.com/photo-1597704097219-0f6a59def63d?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFydGluJTIwTHV0aGVyJTIwS2luZyUyMEpyLnxlbnwwfHwwfHx8Mg%3D%3D",
+    "image_site": "https://images.unsplash.com/",
+    "full_description": "Cette journée commémore l'héritage du Dr. Martin Luther King Jr., figure emblématique du mouvement des droits civiques aux États-Unis. Instaurée en 1983 et célébrée le troisième lundi de janvier, proche de son anniversaire (15 janvier 1929), cette journée honore son combat non-violent pour l'égalité raciale et la justice sociale.",
+    "good_to_know": "Cette journée est souvent marquée par le slogan 'A Day On, Not a Day Off', encourageant les Américains à s'engager dans le service communautaire. Le discours 'I Have a Dream' de King, prononcé en 1963, reste l'un des plus influents de l'histoire américaine. De nombreuses écoles et organisations utilisent cette journée pour éduquer sur l'histoire des droits civiques.",
+    "action": "- Regarder ou lire le discours 'I Have a Dream'\n- Participer à des actions de service communautaire\n- Lire un livre sur l'histoire des droits civiques\n- Assister à des événements commémoratifs\n- S'engager dans une cause pour l'égalité sociale"
   },
   "0116": {
     "date": "16 janvier",
-    "name": "Teachers' Day (Thaïlande)",
+    "name": "Journée des enseignants (Thaïlande)",
     "description": "Journée dédiée à l'appréciation et au respect des enseignants en Thaïlande.",
-    "origin": "Thaïlande"
+    "origin": "Thaïlande",
+    "image": "https://images.unsplash.com/photo-1577896851231-70ef18881754",
+    "full_description": "Le Wan Kru (วันครู) ou Jour des Enseignants en Thaïlande est une célébration importante qui souligne le rôle crucial des enseignants dans la société thaïlandaise. Cette journée remonte à 1957 et met en valeur la tradition du 'wai kru', une cérémonie où les élèves rendent hommage à leurs professeurs.",
+    "good_to_know": "Lors de cette journée, les élèves offrent traditionnellement des guirlandes de jasmin et d'œillets d'Inde à leurs enseignants. La cérémonie du 'wai kru' implique que les étudiants s'agenouillent devant leurs professeurs en signe de respect. Les écoles sont généralement fermées mais organisent des cérémonies spéciales le matin.",
+    "action": "- Participer à une cérémonie traditionnelle wai kru\n- Créer une carte de remerciement pour un enseignant\n- Apprendre sur le système éducatif thaïlandais\n- Préparer des guirlandes florales traditionnelles\n- Organiser un événement de reconnaissance des enseignants"
   },
   "0117": {
     "date": "17 janvier",
     "name": "Fête de Saint Antoine le Grand",
     "description": "Célébration chrétienne en l'honneur de Saint Antoine",
-    "origin": "père du monachisme chrétien."
+    "origin": "père du monachisme chrétien",
+    "image": "https://wp.fr.aleteia.org/wp-content/uploads/sites/6/2020/03/untitled-2-copie-7-1.jpg?resize=620,413&q=75",
+    "full_description": "Saint Antoine le Grand (251-356), aussi connu comme Antoine d'Égypte ou Antoine du Désert, est considéré comme le père du monachisme chrétien. Après avoir distribué ses biens aux pauvres, il se retira dans le désert égyptien où il vécut en ermite pendant 20 ans. Sa vie, écrite par Saint Athanase, a inspiré de nombreux chrétiens à adopter la vie monastique.",
+    "good_to_know": "Saint Antoine est souvent représenté avec un cochon et un tau (croix en forme de T). Il est invoqué contre les maladies de peau, l'ergotisme (appelé 'feu de Saint Antoine'), et est le patron des animaux domestiques. En France, de nombreuses églises bénissent les animaux ce jour-là.",
+    "action": "- Visiter une église dédiée à Saint Antoine\n- Participer à une bénédiction des animaux\n- En apprendre davantage sur l'histoire du monachisme\n- Faire un don à un monastère local\n- Réfléchir sur la simplicité volontaire"
   },
   "0118": {
     "date": "18 janvier",
     "name": "Semaine de prière pour l'unité des chrétiens",
-    "description": "Période de prière annuelle de huit jours pour l'unité des chrétiens du 18 au 25 janvier.",
-    "origin": "Christianisme"
+    "description": "Période de prière annuelle de huit jours pour l'unité des chrétiens du 18 au 25 janvier",
+    "origin": "Christianisme",
+    "image": "https://images.unsplash.com/photo-1502987846294-e7ec70f4b393?q=80&w=3173&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_site": "https://images.unsplash.com/",
+    "full_description": "La Semaine de prière pour l'unité des chrétiens est une initiative œcuménique mondiale. Initiée en 1908 par le Révérend Paul Wattson, elle est célébrée du 18 au 25 janvier, entre les fêtes de la Chaire de Saint Pierre et de la Conversion de Saint Paul. Cette période est consacrée à la prière pour la réconciliation et l'unité entre les différentes confessions chrétiennes.",
+    "good_to_know": "Chaque année, un thème différent est choisi par les Églises d'une région particulière du monde. Les communautés chrétiennes organisent des célébrations communes, des échanges de chaires (où les pasteurs prêchent dans les églises des autres confessions) et des activités de dialogue interconfessionnel.",
+    "action": "- Participer à une célébration œcuménique\n- Découvrir les différentes traditions chrétiennes\n- Lire sur l'histoire du mouvement œcuménique\n- Prier pour l'unité des chrétiens\n- S'engager dans le dialogue interreligieux"
   },
   "0119": {
     "date": "19 janvier",
     "name": "Épiphanie orthodoxe",
-    "description": "Fête chrétienne orthodoxe commémorant le baptême de Jésus dans le Jourdain.",
-    "origin": "Christianisme (Orthodoxie)"
+    "description": "Fête chrétienne orthodoxe commémorant le baptême de Jésus dans le Jourdain",
+    "origin": "Christianisme (Orthodoxie)",
+    "image": "https://les-cultures.art/wp-content/uploads/2023/12/Epiphanie-orthodoxe.png",
+    "image_site": "https://les-cultures.art/epiphanie-orthodoxe-la-purification-dans-les-eaux-glaciales/",
+    "full_description": "L'Épiphanie orthodoxe, aussi appelée Théophanie, célèbre le baptême de Jésus-Christ dans le Jourdain par Jean-Baptiste. Cette fête est l'une des plus anciennes célébrations chrétiennes, considérée comme la manifestation de la Sainte Trinité : le Père parlant du ciel, le Fils dans le Jourdain, et l'Esprit Saint descendant sous forme de colombe.",
+    "good_to_know": "La tradition la plus spectaculaire de cette fête est la bénédiction des eaux. Dans de nombreux pays orthodoxes, les prêtres bénissent les plans d'eau naturels en y jetant une croix. Des fidèles plongent alors pour la récupérer, un acte considéré comme portant chance. En Russie, certains pratiquent le bain dans l'eau glacée (ice swimming).",
+    "action": "- Assister à une liturgie orthodoxe\n- Participer à une cérémonie de bénédiction des eaux\n- Apprendre sur les traditions orthodoxes\n- Visiter une église orthodoxe\n- Découvrir les chants liturgiques orthodoxes\n- Prendre un bain dans l'eau glacée"
   },
   "0120": {
     "date": "20 janvier",
     "name": "Fête de la Saint Sébastien",
-    "description": "Célébration en l'honneur de Saint Sébastien",
-    "origin": "martyr chrétien et saint patron de nombreuses villes."
+    "description": "Célébration en l'honneur de Saint Sébastien, martyr chrétien et saint patron de nombreuses villes",
+    "origin": "martyr chrétien et saint patron de nombreuses villes au Portugal et en Espagne",
+    "image": "https://www.sansebastianturismoa.eus/images/tematicos-2/tamborrada.jpg",
+    "full_description": "Saint Sébastien était un officier romain du IIIe siècle qui fut martyrisé pour sa foi chrétienne. Selon la tradition, il survécut à une première exécution où il fut criblé de flèches, avant d'être finalement battu à mort. Son courage et sa résilience en ont fait un symbole de force et de persévérance dans la foi chrétienne.",
+    "good_to_know": "Saint Sébastien est le saint patron des archers, des athlètes et des soldats. Il est également invoqué contre la peste, en raison d'une tradition selon laquelle son intercession aurait mis fin à une épidémie à Rome au VIIe siècle. Dans l'art, il est souvent représenté attaché à un arbre et percé de flèches.",
+    "action": "- Visiter une église dédiée à Saint Sébastien\n- Découvrir l'art religieux représentant le saint\n- Participer aux festivités locales dans les villes dont il est le patron\n- En apprendre davantage sur l'histoire des martyrs chrétiens\n- Réfléchir sur le courage et la persévérance"
   },
   "0121": {
     "date": "21 janvier",
     "name": "Journée internationale des câlins",
-    "description": "Journée promouvant l'acte de donner des câlins pour répandre la chaleur humaine et l'affection.",
-    "origin": "Initiative mondiale"
+    "description": "Journée promouvant l'acte de donner des câlins pour répandre la chaleur humaine et l'affection",
+    "origin": "Initiative mondiale",
+    "image": "https://images.unsplash.com/photo-1605713288610-00c1c630ca1e?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "full_description": "La Journée internationale des câlins (National Hugging Day) a été créée en 1986 aux États-Unis par Kevin Zaborney. Cette journée vise à encourager les démonstrations d'affection dans notre société, reconnaissant les bienfaits physiques et émotionnels des câlins : réduction du stress, renforcement du système immunitaire et libération d'ocytocine, l'hormone du bien-être.",
+    "good_to_know": "Les études scientifiques montrent qu'un câlin de 20 secondes libère de l'ocytocine et réduit les niveaux de cortisol (hormone du stress). Les câlins augmentent également la production de sérotonine et de dopamine, améliorant l'humeur. Il est important de respecter le consentement et les préférences de chacun en matière de contact physique.",
+    "action": "- Faire des câlins à ses proches (avec leur consentement)\n- Organiser une journée câlins en famille\n- Apprendre sur les bienfaits des contacts physiques positifs\n- Offrir un câlin virtuel aux amis éloignés\n- Réfléchir sur l'importance du toucher dans les relations humaines"
   },
   "0122": {
     "date": "22 janvier",
     "name": "Journée de l'unité ukrainienne",
-    "description": "Jour célébrant l'unification de l'Ukraine orientale et occidentale en 1919.",
-    "origin": "Ukraine"
+    "description": "Jour célébrant l'unification de l'Ukraine orientale et occidentale en 1919",
+    "origin": "Ukraine",
+    "image": "https://static.ukrinform.com/photos/2024_01/thumb_files/630_360_1705904898-647.png",
+    "full_description": "La Journée de l'unité ukrainienne commémore l'Acte d'Union de 1919, qui a unifié la République populaire ukrainienne et la République populaire d'Ukraine occidentale en un seul État. Cette date symbolique marque une étape cruciale dans la formation de l'Ukraine moderne et rappelle l'importance de l'unité nationale.",
+    "good_to_know": "Cette journée est célébrée par une chaîne humaine traditionnelle reliant les rives du Dniepr à Kiev, symbolisant l'unité entre l'est et l'ouest du pays. Les célébrations incluent des défilés, des concerts patriotiques et des expositions historiques. Le vyshyvanka, chemise brodée traditionnelle ukrainienne, est souvent porté ce jour-là.",
+    "action": "- Participer aux célébrations communautaires ukrainiennes\n- Découvrir l'histoire de l'Ukraine\n- Apprendre quelques mots en ukrainien\n- Déguster des plats traditionnels ukrainiens\n- S'informer sur la culture ukrainienne contemporaine"
   },
   "0123": {
     "date": "23 janvier",
     "name": "Fête de la Saint Ildefonse",
     "description": "Célébration en l'honneur de Saint Ildefonse",
-    "origin": "archevêque de Tolède au VIIe siècle."
+    "origin": "archevêque de Tolède au VIIe siècle",
+    "image": "https://www.mariedenazareth.com/fileadmin/user_upload/Bartolome_Murillo-saint_Ildephonse.jpg",
+    "full_description": "Saint Ildefonse (607-667) était un théologien et archevêque de Tolède, connu pour sa dévotion particulière à la Vierge Marie. Il est l'auteur d'importants traités théologiques, notamment sur la virginité perpétuelle de Marie. Selon la légende, la Vierge Marie lui serait apparue pour le remercier de sa défense de son honneur et lui aurait offert une chasuble céleste.",
+    "good_to_know": "Saint Ildefonse est particulièrement vénéré en Espagne, où de nombreuses églises lui sont dédiées. Il est considéré comme un des plus grands théologiens de l'époque wisigothique. Sa fête est célébrée avec une solennité particulière à Tolède, où ses reliques sont conservées dans la cathédrale.",
+    "action": "- Visiter une église dédiée à Saint Ildefonse\n- Lire ses écrits sur la Vierge Marie\n- Découvrir l'histoire de Tolède médiévale\n- Explorer l'art religieux espagnol\n- Approfondir ses connaissances sur la période wisigothique"
   },
   "0124": {
     "date": "24 janvier",
     "name": "Journée internationale de l'éducation",
-    "description": "Journée proclamée par l'ONU pour célébrer le rôle de l'éducation pour la paix et le développement.",
-    "origin": "Organisation des Nations Unies (ONU)"
+    "description": "Journée proclamée par l'ONU pour célébrer le rôle de l'éducation pour la paix et le développement",
+    "origin": "Organisation des Nations Unies (ONU)",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+    "full_description": "Proclamée par l'Assemblée générale des Nations Unies en 2018, cette journée souligne le rôle fondamental de l'éducation dans le développement durable et la paix mondiale. Elle met en lumière les défis persistants de l'accès à l'éducation et promeut l'objectif d'une éducation inclusive et de qualité pour tous.",
+    "good_to_know": "L'éducation est un droit humain fondamental, un bien public et une responsabilité collective. Pourtant, plus de 258 millions d'enfants ne sont toujours pas scolarisés. Cette journée est l'occasion de réfléchir aux innovations pédagogiques et aux moyens d'améliorer l'accès à l'éducation dans le monde.",
+    "action": "- Soutenir une organisation œuvrant pour l'éducation\n- Partager ses connaissances avec d'autres\n- Participer à des programmes de mentorat\n- S'informer sur les enjeux de l'éducation mondiale\n- Contribuer à des projets éducatifs locaux"
   },
   "0125": {
     "date": "25 janvier",
     "name": "Burns Night",
     "description": "Célébration écossaise en l'honneur du poète Robert Burns",
-    "origin": "avec des repas traditionnels et des lectures de ses œuvres."
+    "origin": "Écosse",
+    "image": "https://www.visitscotland.com/binaries/content/gallery/visitscotland/cms-images/2022/06/30/burns-supper.jpg",
+    "image_site": "https://www.visitscotland.com/fr-fr/things-to-do/events/burns-night",
+    "full_description": "Burns Night est une célébration annuelle de la vie et de l'œuvre du poète national écossais Robert Burns (1759-1796). Cette soirée traditionnelle, organisée autour d'un repas festif, comprend des lectures de poésie, des discours et des chants. Le point culminant est la présentation cérémonielle du haggis, accompagnée de la lecture du poème 'Address to a Haggis'.",
+    "good_to_know": "Le dîner traditionnel de Burns Night suit un protocole strict : le haggis est apporté au son de la cornemuse, on récite des poèmes de Burns, on porte des toasts au poète et aux 'lassies' (les femmes). La soirée se termine généralement par le chant d'Auld Lang Syne, peut-être le poème le plus connu de Burns.",
+    "action": "- Organiser un Burns Supper traditionnel\n- Lire ou réciter des poèmes de Robert Burns\n- Découvrir la cuisine écossaise traditionnelle\n- Apprendre quelques mots en scots\n- Écouter de la musique traditionnelle écossaise"
   },
   "0126": {
     "date": "26 janvier",
     "name": "Journée de la République (Inde)",
-    "description": "Fête nationale célébrant l'entrée en vigueur de la Constitution indienne en 1950.",
-    "origin": "Inde"
+    "description": "Fête nationale célébrant l'entrée en vigueur de la Constitution indienne en 1950",
+    "origin": "Inde",
+    "image": "https://images.unsplash.com/photo-1532375810709-75b1da00537c",
+    "full_description": "La Journée de la République marque l'adoption de la Constitution indienne le 26 janvier 1950, transformant l'Inde en une république souveraine. Cette date fut choisie car elle coïncidait avec la 'Purna Swaraj' (déclaration d'indépendance complète) de 1930. C'est l'une des trois fêtes nationales majeures de l'Inde, célébrée avec un grand défilé militaire à New Delhi.",
+    "good_to_know": "Le défilé de Rajpath à New Delhi est l'attraction principale, présentant la puissance militaire, la diversité culturelle et les réalisations de l'Inde. Chaque État présente un tableau vivant unique. La cérémonie commence par le dépôt d'une gerbe à l'India Gate par le Premier Ministre. Les écoles organisent des événements patriotiques et les bâtiments sont illuminés aux couleurs du drapeau national.",
+    "action": "- Regarder le défilé de la République en direct\n- Découvrir l'histoire de la Constitution indienne\n- Préparer un repas indien traditionnel\n- Participer à des célébrations culturelles indiennes\n- Explorer la diversité des traditions indiennes"
   },
   "0127": {
     "date": "27 janvier",
     "name": "Journée internationale dédiée à la mémoire des victimes de l'Holocauste",
-    "description": "Journée commémorant les victimes de l'Holocauste pendant la Seconde Guerre mondiale.",
-    "origin": "Initiative mondiale"
+    "description": "Journée commémorant les victimes de l'Holocauste pendant la Seconde Guerre mondiale",
+    "origin": "Initiative mondiale",
+    "image": "https://images.unsplash.com/photo-1505664194779-8beaceb93744",
+    "full_description": "Cette journée commémorative a été instaurée par l'ONU en 2005, choisissant la date de la libération du camp d'Auschwitz-Birkenau en 1945. Elle vise à honorer la mémoire des six millions de victimes juives de l'Holocauste et des millions d'autres victimes du nazisme, tout en promouvant l'éducation sur ce génocide pour prévenir de futurs actes de génocide.",
+    "good_to_know": "De nombreux pays organisent des cérémonies officielles et des programmes éducatifs. Les survivants partagent leurs témoignages dans les écoles et les institutions. Le thème 'Plus jamais ça' est central dans les commémorations. Les musées de l'Holocauste proposent souvent des entrées gratuites ou des expositions spéciales ce jour-là.",
+    "action": "- Visiter un mémorial ou un musée de l'Holocauste\n- Lire des témoignages de survivants\n- Participer à une cérémonie commémorative\n- S'informer sur l'histoire de l'Holocauste\n- Soutenir des organisations de lutte contre l'antisémitisme"
   },
   "0128": {
     "date": "28 janvier",
     "name": "Fête de Saint Thomas d'Aquin",
     "description": "Célébration catholique en l'honneur de Saint Thomas d'Aquin",
-    "origin": "philosophe et théologien."
+    "origin": "philosophe et théologien",
+    "image": "https://ipc-paris.fr/wp-content/uploads/2024/01/thomas-daquin-01-1024x683.jpg",
+    "image_site": "https://ipc-paris.fr/evenement/thomas-daquin-dieu-la-creation-la-providence-et-la-revelation/",
+    "full_description": "Saint Thomas d'Aquin (1225-1274) est l'un des plus influents théologiens et philosophes de l'Église catholique. Son œuvre majeure, la 'Somme théologique', représente une synthèse monumentale entre la philosophie aristotélicienne et la théologie chrétienne. Il est considéré comme le patron des universités, des écoles et des étudiants.",
+    "good_to_know": "Thomas d'Aquin est connu pour avoir développé les cinq voies de la preuve de l'existence de Dieu. Sa pensée continue d'influencer la philosophie et la théologie contemporaines. Il est représenté avec un soleil sur la poitrine, symbolisant la clarté de son enseignement, et souvent avec une plume et un livre.",
+    "action": "- Lire un extrait de la Somme théologique\n- Participer à un groupe d'étude philosophique\n- Visiter une université catholique\n- Explorer la philosophie médiévale\n- Réfléchir sur le rapport foi et raison"
   },
   "0129": {
     "date": "29 janvier",
     "name": "Fête de Saint Sulpice",
     "description": "Célébration en l'honneur de Saint Sulpice le Pieux",
-    "origin": "évêque de Bourges au VIIe siècle."
+    "origin": "évêque de Bourges au VIIe siècle",
+    "image": "https://cdn.paris.fr/eqpts-prod/2024/04/22/bbb6bb45e6b032ea297d58dbb8994467.jpg",
+    "image_site": "https://www.paris.fr/lieux/eglise-saint-sulpice-3749",
+    "full_description": "Saint Sulpice le Pieux (576-647), évêque de Bourges, était connu pour sa grande charité et son dévouement aux pauvres. Issu d'une famille noble, il renonça à ses richesses pour se consacrer à l'Église. Son épiscopat fut marqué par la construction d'églises, de monastères et d'hospices. Il est particulièrement célèbre pour avoir fondé le premier hôpital de Bourges.",
+    "good_to_know": "Le célèbre séminaire de Saint-Sulpice à Paris, bien que portant son nom, n'a pas été fondé par lui mais par Jean-Jacques Olier au XVIIe siècle. De nombreuses églises en France portent son nom, notamment l'église Saint-Sulpice à Paris, deuxième plus grande église de Paris après Notre-Dame.",
+    "action": "- Visiter l'église Saint-Sulpice à Paris\n- Découvrir l'histoire de Bourges médiévale\n- S'engager dans une action caritative locale\n- Explorer l'histoire des hôpitaux en France\n- Étudier l'architecture religieuse du VIIe siècle"
   },
   "0130": {
     "date": "30 janvier",
     "name": "Journée scolaire de la non-violence et de la paix",
-    "description": "Journée éducative promouvant la non-violence et la paix dans les écoles.",
-    "origin": "Initiative mondiale"
+    "description": "Journée éducative promouvant la non-violence et la paix dans les écoles",
+    "origin": "Initiative mondiale",
+    "image": "https://cdn.snrtnews.com/sites/default/files/2022/07/15/paix-parlement-1657875272.jpg",
+    "full_description": "Créée en 1964 par le poète et éducateur espagnol Llorenç Vidal, cette journée (DENIP - Día Escolar de la No Violencia y la Paz) est célébrée le 30 janvier, anniversaire de la mort de Mahatma Gandhi. Elle vise à éduquer les enfants et les jeunes aux valeurs de paix, de tolérance, et de non-violence comme fondements d'une coexistence pacifique.",
+    "good_to_know": "Cette journée est reconnue officiellement par l'UNESCO. Dans de nombreuses écoles, on organise des activités spéciales comme des lâchers de colombes, des chaînes humaines, des ateliers sur la résolution pacifique des conflits. Le slogan 'Amour universel, Non-violence et Paix' est souvent utilisé comme message central.",
+    "action": "- Organiser un atelier sur la résolution pacifique des conflits\n- Créer une fresque collective sur la paix\n- Étudier la vie de grands pacifistes comme Gandhi, Martin Luther King ou Mandela\n- Participer à des jeux coopératifs\n- Rédiger des messages de paix"
   },
   "0131": {
     "date": "31 janvier",
     "name": "Fête nationale de Nauru",
-    "description": "Jour célébrant l'indépendance de Nauru obtenue en 1968.",
-    "origin": "Nauru"
+    "description": "Jour célébrant l'indépendance de Nauru obtenue en 1968",
+    "origin": "Nauru dans le Pacifique occidental",
+    "image": "https://media.istockphoto.com/id/1386085829/es/foto/detalle-de-la-bandera-nacional-de-nauru-ondeando-al-viento-en-un-d%C3%ADa-despejado.jpg?s=612x612&w=0&k=20&c=wu3Tz2qBGxJn9Hywd8Rk2t1rIsmIKEI4xmZLShDe4ck=",
+    "full_description": "Nauru, plus petite république au monde, célèbre son indépendance obtenue le 31 janvier 1968. Anciennement sous tutelle australienne, cette île du Pacifique de 21 km² a une histoire unique, marquée par l'exploitation du phosphate qui a fait sa richesse puis son déclin. Cette journée commémore la fin de la tutelle et le début de l'autodétermination nauruane.",
+    "good_to_know": "Nauru était autrefois l'un des pays les plus riches du monde grâce à ses gisements de phosphate. Les célébrations incluent des défilés, des compétitions sportives et des festins traditionnels. L'île fait face à des défis environnementaux majeurs dus à l'exploitation minière passée et au changement climatique.",
+    "action": "- Découvrir la culture nauruane\n- Apprendre quelques mots en nauruan\n- Cuisiner des plats du Pacifique\n- S'informer sur les enjeux des petits États insulaires\n- Étudier l'impact du changement climatique sur les îles du Pacifique"
   },
   "0201": {
     "date": "1er février",

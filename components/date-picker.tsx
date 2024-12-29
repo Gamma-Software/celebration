@@ -49,7 +49,7 @@ export function DatePickerDemo() {
           <Button
             variant="ghost"
             size="icon"
-            className="hidden sm:block"
+            className="hidden sm:flex self-center"
             onClick={() => {
               const newDate = new Date(dateState);
               newDate.setDate(dateState.getDate() - 1);
@@ -75,7 +75,7 @@ export function DatePickerDemo() {
           <Button
             variant="ghost"
             size="icon"
-            className="hidden sm:block"
+            className="hidden sm:flex"
             onClick={() => {
               const newDate = new Date(dateState);
               newDate.setDate(dateState.getDate() + 1);
