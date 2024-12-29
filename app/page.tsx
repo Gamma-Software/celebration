@@ -7,5 +7,6 @@ import { redirect } from "next/navigation";
 export default function Home() {
   const today = new Date();
   const dateString = fromDateToUrlDate(today);
+  console.log(dateString);
   redirect(`/${dateString}`);
 }

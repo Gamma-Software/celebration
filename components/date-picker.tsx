@@ -18,6 +18,7 @@ import { fromDateToUrlDate } from "@/lib/utils";
 export function DatePickerDemo() {
   const pathname = usePathname();
   if (pathname.includes("api")) return null;
+  if (pathname === "/") return null; // if on home page, don't show date picker
   const urlDate = pathname.split('/')[1];
   const month = urlDate.match(/([a-z]+)/)?.[0];
   const day = urlDate.match(/(\d+)/)?.[0];
@@ -37,15 +38,18 @@ export function DatePickerDemo() {
   };
   const monthStr = month?.toLowerCase() || 'january';
   const date = new Date(new Date().getFullYear(), monthMap[monthStr], Number(day));
+  console.log(month);
   const [dateState, setDateState] = React.useState<Date>(date)
   const router = useRouter();
+  const [open, setOpen] = React.useState(false)
 
   return (
-    <Popover>
+    <Popover open={open} onOpenChange={setOpen}>
         <div className="flex items-center gap-2">
           <Button
             variant="ghost"
             size="icon"
+            className="hidden sm:block"
             onClick={() => {
               const newDate = new Date(dateState);
               newDate.setDate(dateState.getDate() - 1);
@@ -62,6 +66,7 @@ export function DatePickerDemo() {
               "w-[200px] justify-center text-center font-normal",
               !date && "text-muted-foreground"
             )}
+            onClick={() => setOpen(true)}
           >
             <CalendarIcon />
             {date ? format(date, "PPP") : <span>Sélectionner une date</span>}
@@ -70,11 +75,14 @@ export function DatePickerDemo() {
           <Button
             variant="ghost"
             size="icon"
+            className="hidden sm:block"
             onClick={() => {
               const newDate = new Date(dateState);
               newDate.setDate(dateState.getDate() + 1);
               setDateState(newDate);
               router.push(`/${fromDateToUrlDate(newDate)}`);
+              // Close the popover
+              setOpen(false);
             }}
           >
             <ChevronRight className="h-4 w-4" />
@@ -88,6 +96,7 @@ export function DatePickerDemo() {
             if (selectedDate) {
               setDateState(selectedDate)
               router.push(`/${fromDateToUrlDate(selectedDate)}`)
+              setOpen(false)  // Close the popover after selection
             }
           }}
           initialFocus

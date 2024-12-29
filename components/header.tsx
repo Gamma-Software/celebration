@@ -25,10 +25,10 @@ export default function Header() {
               src="/logo.svg"
               className="h-8 w-auto"
             />
-          <p className="text-xl font-bold">Célébrations</p>
+          <p className="text-sm sm:text-xl font-bold">Célébrations</p>
         </div>
         </Link>
-        <div className="hidden lg:flex lg:flex-1 lg:justify-end">
+        <div className="lg:flex lg:flex-1 lg:justify-end">
           <DatePickerDemo/>
         </div>
       </nav>
