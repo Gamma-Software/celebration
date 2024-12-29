@@ -21,11 +21,11 @@ export const metadata: Metadata = {
 export default function AppLayout({ children }: { children: React.ReactNode }) {
   return (
     <div className="flex flex-col h-full">
-      <Header/>
-      <main className="grow">
-        {children}
-      </main>
-      <Footer/>
+    <Header/>
+    <main className="grow">
+      {children}
+    </main>
+    <Footer/>
     </div>
   )
 }

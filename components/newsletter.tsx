@@ -13,6 +13,7 @@ import { Input } from "@/components/ui/input";
 import { useForm } from "react-hook-form";
 import { Loader2 } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { useState } from "react";
 
 const formSchema = z.object({
   email: z.string().email("Enter a valid email address"),
@@ -30,6 +31,8 @@ export function Newsletter(props: {
     },
   });
 
+  const [isSuccess, setIsSuccess] = useState(false);
+
   async function onSubmit(values: z.infer<typeof formSchema>) {
     const res = await fetch("/api/newsletter-sub", {
       method: "POST",
@@ -43,9 +46,9 @@ export function Newsletter(props: {
     });
 
     if (!res.ok) {
-      alert("error");
+      console.error(res);
     } else {
-      alert("success");
+      setIsSuccess(true);
       form.reset();
     }
   }
@@ -87,7 +90,7 @@ export function Newsletter(props: {
           {form.formState.isSubmitting ? (
             <Loader2 className="mr-2 h-4 w-4 animate-spin" />
           ) : (
-            <span>S'inscrire à la newsletter</span>
+            <span>{isSuccess ? "Merci !" : "S'inscrire à la newsletter"}</span>
           )}
         </Button>
       </form>

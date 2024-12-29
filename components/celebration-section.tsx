@@ -1,7 +1,7 @@
 "use client"
 
 import { ChevronRight, Cloud, Lock, SquareChevronRight, PersonStanding, Server, Sprout, ThumbsUp, Users } from "lucide-react";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { ChevronDown } from "lucide-react";
 import LinkPreview from "./link-preview";
@@ -71,7 +71,9 @@ export default function CelebrationSection({data}: {data: Celebration}) {
               <div className="mt-8">
                 <Button
                     variant="outline"
-                    onClick={() => setIsOpen(!isOpen)}
+                    onClick={() => {
+                      setIsOpen(!isOpen);
+                    }}
                     className="hover:bg-transparent"
                 >
                     {isOpen ? 'Fermer la description' : 'En savoir plus'}
@@ -81,7 +83,7 @@ export default function CelebrationSection({data}: {data: Celebration}) {
             </div>
           </div>
         </div>
-        <div className="-mt-12 -ml-12 p-12 lg:sticky lg:top-16 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
+        <div className="order-last lg:order-none -mt-12 -ml-12 p-12 lg:sticky lg:top-16 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
           {data.image ? (
             <Image
               alt={data.name}
@@ -100,7 +102,7 @@ export default function CelebrationSection({data}: {data: Celebration}) {
             />
           )}
         </div>
-        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
+        <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8 sm:mb-20">
           <div className="lg:pr-4">
             <div className={`max-w-xl text-base/7 lg:max-w-lg ${isOpen ? 'block' : 'hidden'}`}>
               {data.full_description && (
@@ -111,7 +113,7 @@ export default function CelebrationSection({data}: {data: Celebration}) {
               <ul role="list" className="mt-8 space-y-8">
                 {data.origin && (
                   <li className="flex gap-x-3">
-                    <Sprout aria-hidden="true" className="mt-1 size-5 flex-none text-primary" />
+                    <Sprout aria-hidden="true" className="size-5 flex-none text-primary" />
                     <span>
                     <strong className="font-semibold text-primary">Origine</strong> {data.origin}
                   </span>
@@ -119,7 +121,7 @@ export default function CelebrationSection({data}: {data: Celebration}) {
                 )}
                 {data.good_to_know && (
                 <li className="flex gap-x-3">
-                  <ThumbsUp aria-hidden="true" className="mt-1 size-5 flex-none text-primary" />
+                  <ThumbsUp aria-hidden="true" className="size-5 flex-none text-primary" />
                   <span>
                     <strong className="font-semibold text-primary">Bon à savoir</strong> {data.good_to_know}
                   </span>
@@ -127,7 +129,7 @@ export default function CelebrationSection({data}: {data: Celebration}) {
                 )}
                 {data.action && (
                 <li className="flex gap-x-3">
-                  <PersonStanding aria-hidden="true" className="mt-1 size-5 flex-none text-primary" />
+                  <PersonStanding aria-hidden="true" className="size-5 flex-none text-primary" />
                   <span>
                     <strong className="font-semibold text-primary">Actions</strong> {data.action}
                   </span>

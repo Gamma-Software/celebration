@@ -1,6 +1,6 @@
 "use client"
 
-import { BookOpen, CircleHelp, MonitorCog, Moon, Sun } from "lucide-react";
+import { BookOpen, CircleHelp, MonitorCog, Moon, Newspaper, Sun } from "lucide-react";
 import {
   MessageSquare,
   UserPlus,
@@ -23,11 +23,17 @@ import {
   DropdownMenuSubTrigger,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
+import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
+import { Label } from "@/components/ui/label"
+import { Input } from "@/components/ui/input"
+import { Newsletter } from "@/components/newsletter"
+import { DialogClose } from "@radix-ui/react-dialog";
 
 export function ConfigDropdown() {
   const { setTheme } = useTheme()
 
   return (
+    <Dialog>
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
         <Button variant="outline" size="icon">
@@ -81,6 +87,13 @@ export function ConfigDropdown() {
             <MessageSquare />
             <span>Faire un retour</span>
           </DropdownMenuItem>
+          <DialogTrigger asChild>
+            <DropdownMenuItem>
+              <Newspaper />
+              <span>S'inscrire à la newsletter</span>
+            </DropdownMenuItem>
+          </DialogTrigger>
+
           {/* <DropdownMenuItem>
             <CircleHelp />
             <span>A propos</span>
@@ -94,5 +107,18 @@ export function ConfigDropdown() {
         </DropdownMenuGroup>
       </DropdownMenuContent>
     </DropdownMenu>
+    <DialogContent className="max-w-[425px]">
+        <DialogHeader>
+          <DialogTitle>S'inscrire à la newsletter</DialogTitle>
+          <DialogDescription>
+            Vous recevrez un email chaque jour pour savoir quel évenement est à célébrer.
+          </DialogDescription>
+        </DialogHeader>
+        <Newsletter source="config-dropdown" className=""/>
+        <DialogClose>
+          <Button variant="outline">Fermer</Button>
+        </DialogClose>
+      </DialogContent>
+    </Dialog>
   )
 }
