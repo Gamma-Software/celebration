@@ -1663,7 +1663,10 @@
     "date": "6 juillet",
     "name": "Journée internationale du baiser",
     "description": "Journée célébrant l'importance des baisers dans les relations humaines.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre le baiser comme expression universelle d'affection et d'amour. Elle encourage les manifestations d'affection et rappelle l'importance des liens émotionnels dans nos vies.",
+    "good_to_know": "Le plus long baiser enregistré a duré 58 heures et 35 minutes. Le baiser libère des endorphines et renforce le système immunitaire.",
+    "action": "- Exprimer son affection\n- Célébrer l'amour\n- Étudier les traditions culturelles\n- Promouvoir le bien-être émotionnel"
   },
   "0707": {
     "date": "7 juillet",
@@ -1692,14 +1695,20 @@
   "0711": {
     "date": "11 juillet",
     "name": "Journée mondiale de la population",
-    "description": "Journée sensibilisant à l'importance des problématiques liées à la population mondiale.",
-    "origin": "ONU/Société civile"
+    "description": "Journée sur les enjeux démographiques.",
+    "origin": "ONU",
+    "full_description": "Cette journée sensibilise aux enjeux liés à la croissance démographique mondiale et à ses impacts. Elle promeut le développement durable et l'accès universel aux soins de santé reproductive.",
+    "good_to_know": "La population mondiale a atteint 8 milliards en 2022. Il a fallu 200 000 ans à l'humanité pour atteindre 1 milliard, mais seulement 12 ans pour passer de 7 à 8 milliards.",
+    "action": "- S'informer sur la démographie\n- Soutenir le planning familial\n- Promouvoir l'éducation\n- Agir pour la durabilité"
   },
   "0712": {
     "date": "12 juillet",
-    "name": "Malala Day",
-    "description": "Jour honorant Malala Yousafzai et sa lutte pour l'éducation des filles.",
-    "origin": "ONU/Société civile"
+    "name": "Journée internationale de Malala",
+    "description": "Journée honorant la lutte pour l'éducation.",
+    "origin": "ONU",
+    "full_description": "Cette journée honore Malala Yousafzai et son combat pour l'éducation des filles. Elle sensibilise à l'importance de l'éducation comme droit fondamental et outil d'émancipation.",
+    "good_to_know": "Malala est la plus jeune lauréate du prix Nobel de la paix, reçu à 17 ans. Plus de 130 millions de filles dans le monde n'ont pas accès à l'éducation.",
+    "action": "- Soutenir l'éducation des filles\n- Lutter contre les discriminations\n- Promouvoir l'égalité des chances\n- Participer aux campagnes"
   },
   "0713": {
     "date": "13 juillet",
@@ -1710,8 +1719,11 @@
   "0714": {
     "date": "14 juillet",
     "name": "Fête nationale française",
-    "description": "Jour marquant la prise de la Bastille et la Révolution française.",
-    "origin": "Culture française"
+    "description": "Commémoration de la prise de la Bastille.",
+    "origin": "Culture française",
+    "full_description": "Cette journée commémore la prise de la Bastille en 1789, symbole de la Révolution française. Elle célèbre les valeurs républicaines de liberté, d'égalité et de fraternité à travers des festivités nationales.",
+    "good_to_know": "La Bastille ne contenait que sept prisonniers lors de sa prise. Le plus grand défilé militaire d'Europe a lieu sur les Champs-Élysées ce jour-là.",
+    "action": "- Participer aux célébrations\n- Découvrir l'histoire\n- Assister au défilé\n- Célébrer les valeurs républicaines"
   },
   "0715": {
     "date": "15 juillet",
