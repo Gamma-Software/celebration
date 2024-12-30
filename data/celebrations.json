@@ -1378,67 +1378,100 @@
     "date": "24 mai",
     "name": "Journée de la Fraternité (Bolivie)",
     "description": "Jour célébrant l'amitié et la solidarité entre les nations sud-américaines.",
-    "origin": "Culture bolivienne"
+    "origin": "Culture bolivienne",
+    "full_description": "Cette journée symbolise l'unité et la coopération entre les peuples d'Amérique du Sud. Elle met en valeur les liens historiques et culturels qui unissent la Bolivie à ses pays voisins, promouvant la paix et l'entente mutuelle.",
+    "good_to_know": "La Bolivie joue un rôle central dans l'intégration sud-américaine, notamment à travers des initiatives culturelles et économiques régionales.",
+    "action": "- Participer à des échanges culturels\n- Découvrir la culture bolivienne\n- Promouvoir la coopération internationale\n- Célébrer la diversité culturelle"
   },
   "0525": {
     "date": "25 mai",
     "name": "Journée de l'Afrique",
     "description": "Journée marquant la fondation de l'Organisation de l'unité africaine en 1963.",
-    "origin": "Union africaine"
+    "origin": "Union africaine",
+    "full_description": "Cette journée commémore la création de l'Organisation de l'unité africaine (OUA), devenue l'Union africaine. Elle célèbre l'unité du continent africain et ses efforts pour promouvoir l'indépendance, la décolonisation et le progrès socio-économique.",
+    "good_to_know": "L'Union africaine compte 55 États membres et travaille à la promotion de l'intégration continentale, du développement durable et de la paix.",
+    "action": "- S'informer sur l'histoire africaine\n- Soutenir des projets de développement\n- Découvrir les cultures africaines\n- Promouvoir la solidarité panafricaine"
   },
   "0526": {
     "date": "26 mai",
     "name": "Fête nationale de la Géorgie",
     "description": "Jour célébrant l'indépendance de la Géorgie en 1918.",
-    "origin": "Culture géorgienne"
+    "origin": "Culture géorgienne",
+    "full_description": "Cette journée marque la déclaration d'indépendance de la République démocratique de Géorgie en 1918. Elle symbolise la souveraineté nationale et l'aspiration du peuple géorgien à la liberté et à la démocratie.",
+    "good_to_know": "La Géorgie fut l'une des premières républiques démocratiques modernes de la région, avec un système parlementaire et le droit de vote des femmes dès 1918.",
+    "action": "- Découvrir l'histoire géorgienne\n- Déguster la cuisine traditionnelle\n- Écouter de la musique géorgienne\n- Célébrer la culture caucasienne"
   },
   "0527": {
     "date": "27 mai",
-    "name": "Fête des Mères (France",
-    "description": "variable)",
-    "origin": "Jour honorant les mères en France et dans plusieurs autres pays."
+    "name": "Fête des Mères (France)",
+    "description": "Jour honorant les mères en France et dans plusieurs autres pays.",
+    "origin": "Culture française",
+    "full_description": "La Fête des Mères en France est une célébration nationale qui rend hommage aux mères et à leur rôle fondamental dans la société. Cette tradition, officialisée en 1950, est l'occasion de témoigner amour et reconnaissance.",
+    "good_to_know": "En France, la date varie chaque année mais tombe généralement le dernier dimanche de mai, sauf si cette date coïncide avec la Pentecôte.",
+    "action": "- Offrir des fleurs ou des cadeaux\n- Organiser un repas familial\n- Écrire un message personnel\n- Passer du temps en famille"
   },
   "0528": {
     "date": "28 mai",
     "name": "Fête de la République d'Azerbaïdjan",
     "description": "Jour marquant la fondation de la République démocratique d'Azerbaïdjan en 1918.",
-    "origin": "Culture azerbaïdjanaise"
+    "origin": "Culture azerbaïdjanaise",
+    "full_description": "Cette journée commémore la création de la première république démocratique et laïque du monde musulman en 1918. Elle symbolise l'indépendance, la modernité et les valeurs démocratiques de l'Azerbaïdjan.",
+    "good_to_know": "L'Azerbaïdjan fut également l'un des premiers pays au monde à accorder le droit de vote aux femmes, avant même de nombreux pays occidentaux.",
+    "action": "- Découvrir l'histoire azerbaïdjanaise\n- Participer aux festivités culturelles\n- Explorer la musique traditionnelle\n- Célébrer les valeurs démocratiques"
   },
   "0529": {
     "date": "29 mai",
     "name": "Journée internationale des Casques bleus",
     "description": "Journée honorant les forces de maintien de la paix de l'ONU.",
-    "origin": "ONU"
+    "origin": "ONU",
+    "full_description": "Cette journée rend hommage aux Casques bleus qui servent sous le drapeau des Nations Unies dans des missions de paix à travers le monde. Elle honore particulièrement ceux qui ont perdu la vie au service de la paix.",
+    "good_to_know": "Plus d'un million de Casques bleus ont servi dans plus de 70 opérations de maintien de la paix depuis 1948.",
+    "action": "- S'informer sur les missions de paix\n- Soutenir les actions humanitaires\n- Promouvoir la paix mondiale\n- Honorer les peacekeepers"
   },
   "0530": {
     "date": "30 mai",
     "name": "Fête de Jeanne d'Arc",
     "description": "Célébration en l'honneur de Sainte Jeanne d'Arc, héroïne française.",
-    "origin": "Christianisme/Culture française"
+    "origin": "Christianisme/Culture française",
+    "full_description": "Cette fête commémore Jeanne d'Arc, figure emblématique de l'histoire de France qui a mené les armées françaises à des victoires décisives pendant la guerre de Cent Ans. Canonisée en 1920, elle est devenue un symbole de courage et de patriotisme.",
+    "good_to_know": "Jeanne d'Arc est célébrée deux fois dans l'année en France : le 30 mai pour sa mort sur le bûcher (1431) et le deuxième dimanche de mai à Orléans.",
+    "action": "- Visiter les lieux historiques\n- Participer aux commémorations\n- Découvrir l'histoire médiévale\n- Assister aux reconstitutions"
   },
   "0531": {
     "date": "31 mai",
     "name": "Journée mondiale sans tabac",
     "description": "Journée sensibilisant aux dangers du tabac et promouvant un mode de vie sain.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Initiée par l'Organisation mondiale de la Santé, cette journée vise à sensibiliser le public aux dangers du tabagisme et à encourager les politiques efficaces pour réduire sa consommation. Elle met en lumière l'impact du tabac sur la santé publique mondiale.",
+    "good_to_know": "Le tabagisme est la première cause de décès évitable dans le monde, causant plus de 8 millions de morts par an.",
+    "action": "- Sensibiliser à la prévention\n- Soutenir l'arrêt du tabac\n- Promouvoir la santé publique\n- Participer aux campagnes"
   },
   "0601": {
     "date": "1er juin",
     "name": "Journée internationale de l'enfance",
     "description": "Journée célébrant et défendant les droits des enfants à travers le monde.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière les droits fondamentaux des enfants et l'importance de leur protection. Elle promeut le bien-être des enfants et sensibilise aux défis auxquels ils font face dans différentes parties du monde.",
+    "good_to_know": "La Convention relative aux droits de l'enfant, adoptée en 1989, est le traité international le plus largement ratifié de l'histoire.",
+    "action": "- Soutenir des projets éducatifs\n- Défendre les droits des enfants\n- Organiser des activités ludiques\n- Sensibiliser aux enjeux"
   },
   "0602": {
     "date": "2 juin",
     "name": "Fête de la République (Italie)",
     "description": "Jour marquant la fondation de la République italienne en 1946.",
-    "origin": "Culture italienne"
+    "origin": "Culture italienne",
+    "full_description": "Cette journée commémore le référendum historique de 1946 où les Italiens ont choisi la république comme forme de gouvernement après la Seconde Guerre mondiale. Elle symbolise le renouveau démocratique de l'Italie moderne.",
+    "good_to_know": "Le défilé militaire sur la Via dei Fori Imperiali à Rome est l'un des moments forts de cette célébration nationale.",
+    "action": "- Participer aux festivités\n- Découvrir l'histoire italienne\n- Célébrer la culture italienne\n- Promouvoir les valeurs républicaines"
   },
   "0603": {
     "date": "3 juin",
     "name": "Fête de l'Immaculée Conception (Colombie)",
     "description": "Célébration chrétienne honorant la Vierge Marie en Colombie.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête religieuse célèbre le dogme de l'Immaculée Conception de la Vierge Marie. En Colombie, elle est l'occasion de grandes célébrations religieuses et de traditions populaires qui témoignent de la dévotion mariale.",
+    "good_to_know": "En Colombie, cette célébration est marquée par des processions aux chandelles et des illuminations spectaculaires dans les villes.",
+    "action": "- Participer aux célébrations religieuses\n- Découvrir les traditions colombiennes\n- Visiter les églises historiques\n- S'initier à la culture catholique"
   },
   "0604": {
     "date": "4 juin",
@@ -1462,7 +1495,10 @@
     "date": "6 juin",
     "name": "Fête nationale de la Suède",
     "description": "Jour marquant l'indépendance suédoise et l'élection de Gustav Vasa comme roi en 1523.",
-    "origin": "Culture suédoise"
+    "origin": "Culture suédoise",
+    "full_description": "Cette journée commémore deux événements historiques majeurs : l'élection de Gustav Vasa comme roi en 1523, marquant la fin de l'Union de Kalmar et l'indépendance de la Suède, ainsi que l'adoption de la constitution de 1809. C'est un jour de célébration de l'identité et de la culture suédoise.",
+    "good_to_know": "Cette fête est devenue jour férié officiel seulement en 2005. La famille royale participe traditionnellement aux célébrations au musée Skansen de Stockholm, le plus ancien musée en plein air du monde.",
+    "action": "- Participer aux festivités traditionnelles\n- Découvrir la culture suédoise\n- Arborer les couleurs nationales\n- Déguster la cuisine traditionnelle"
   },
   "0607": {
     "date": "7 juin",
