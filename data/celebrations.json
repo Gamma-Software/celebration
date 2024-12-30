@@ -1351,19 +1351,28 @@
     "date": "21 mai",
     "name": "Fête de l'Union nationale (Madagascar)",
     "description": "Jour célébrant l'unité nationale à Madagascar.",
-    "origin": "Culture malgache"
+    "origin": "Culture malgache",
+    "full_description": "Cette journée commémore l'unification de Madagascar et célèbre l'identité nationale malgache. Elle rappelle l'importance de la cohésion sociale et de l'unité dans la diversité culturelle du pays.",
+    "good_to_know": "Madagascar est la quatrième plus grande île du monde et abrite une biodiversité unique, avec plus de 90% de ses espèces qu'on ne trouve nulle part ailleurs.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture malgache\n- Soutenir les projets de développement\n- Promouvoir l'unité nationale"
   },
   "0522": {
     "date": "22 mai",
     "name": "Journée internationale de la biodiversité",
     "description": "Journée promouvant la préservation de la diversité biologique.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée sensibilise à l'importance de la biodiversité pour notre planète et notre survie. Elle met en lumière les menaces qui pèsent sur les espèces et les écosystèmes, et promeut des actions pour leur protection.",
+    "good_to_know": "La Terre perd environ 200 espèces chaque jour. Plus d'un million d'espèces sont menacées d'extinction dans les prochaines décennies.",
+    "action": "- Protéger la biodiversité locale\n- Participer à des projets de conservation\n- Réduire son impact environnemental\n- Sensibiliser à la protection des espèces"
   },
   "0523": {
     "date": "23 mai",
     "name": "Labour Day (Jamaïque)",
     "description": "Jour célébrant les contributions des travailleurs jamaïcains.",
-    "origin": "Culture jamaïcaine"
+    "origin": "Culture jamaïcaine",
+    "full_description": "Cette journée honore les travailleurs jamaïcains et leur contribution au développement du pays. Elle est marquée par des projets communautaires et des célébrations qui mettent en valeur l'esprit de travail collectif.",
+    "good_to_know": "La tradition du travail communautaire volontaire en Jamaïque remonte à l'époque coloniale et s'appelle 'Day's Work'.",
+    "action": "- Participer à des projets communautaires\n- Célébrer la culture jamaïcaine\n- Soutenir les droits des travailleurs\n- Promouvoir la solidarité"
   },
   "0524": {
     "date": "24 mai",
@@ -1433,15 +1442,21 @@
   },
   "0604": {
     "date": "4 juin",
-    "name": "Journée internationale des enfants victimes innocentes d'agression",
-    "description": "Journée sensibilisant aux violences faites aux enfants dans les conflits.",
-    "origin": "ONU/Société civile"
+    "name": "Journée internationale des enfants victimes de l'agression",
+    "description": "Journée de sensibilisation aux droits des enfants victimes de violence.",
+    "origin": "ONU",
+    "full_description": "Cette journée attire l'attention sur la souffrance des enfants victimes d'agressions physiques, mentales et émotionnelles. Elle promeut la protection des droits de l'enfant et la prévention de la violence.",
+    "good_to_know": "La journée a été établie par l'ONU en 1982 suite aux conséquences des conflits sur les enfants au Liban. Des millions d'enfants sont encore victimes de violence chaque année.",
+    "action": "- Soutenir les organisations de protection\n- Sensibiliser aux droits des enfants\n- Signaler les cas de maltraitance\n- Promouvoir la non-violence"
   },
   "0605": {
     "date": "5 juin",
     "name": "Journée mondiale de l'environnement",
-    "description": "Journée promouvant la protection de l'environnement et la durabilité.",
-    "origin": "ONU/Société civile"
+    "description": "Journée de sensibilisation à la protection de l'environnement.",
+    "origin": "ONU/PNUE",
+    "full_description": "Cette journée est la plus importante plateforme mondiale de sensibilisation environnementale. Elle encourage l'action individuelle et collective pour la protection de notre planète et la promotion du développement durable.",
+    "good_to_know": "Chaque année, plus de 150 pays participent à cette journée. Le thème change annuellement pour mettre en lumière différents aspects de la protection environnementale.",
+    "action": "- Réduire son impact environnemental\n- Participer à des actions écologiques\n- Sensibiliser son entourage\n- Soutenir les initiatives vertes"
   },
   "0606": {
     "date": "6 juin",
@@ -1452,14 +1467,20 @@
   "0607": {
     "date": "7 juin",
     "name": "Journée mondiale de la sécurité alimentaire",
-    "description": "Journée sensibilisant à l'importance d'une alimentation sûre pour tous.",
-    "origin": "ONU/Société civile"
+    "description": "Journée promouvant la sécurité alimentaire mondiale.",
+    "origin": "FAO/ONU",
+    "full_description": "Cette journée sensibilise à l'importance de la sécurité alimentaire et de l'accès à une alimentation saine pour tous. Elle met en lumière les défis de la faim dans le monde et promeut des solutions durables.",
+    "good_to_know": "Plus de 820 millions de personnes souffrent de la faim dans le monde. Un tiers de la nourriture produite mondialement est gaspillée chaque année.",
+    "action": "- Réduire le gaspillage alimentaire\n- Soutenir les banques alimentaires\n- Promouvoir l'agriculture durable\n- Sensibiliser à la malnutrition"
   },
   "0608": {
     "date": "8 juin",
     "name": "Journée mondiale des océans",
-    "description": "Journée promouvant la protection et la préservation des océans.",
-    "origin": "ONU/Société civile"
+    "description": "Journée de sensibilisation à la protection des océans.",
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière l'importance vitale des océans pour notre planète et sensibilise aux menaces qui pèsent sur les écosystèmes marins. Elle encourage les actions de conservation et de protection des océans.",
+    "good_to_know": "Les océans produisent plus de 50% de l'oxygène que nous respirons et absorbent 30% du CO2 émis par les activités humaines.",
+    "action": "- Réduire sa consommation de plastique\n- Participer à des nettoyages de plages\n- Consommer du poisson durable\n- Soutenir la protection marine"
   },
   "0609": {
     "date": "9 juin",
@@ -1482,8 +1503,11 @@
   "0612": {
     "date": "12 juin",
     "name": "Journée mondiale contre le travail des enfants",
-    "description": "Journée sensibilisant à l'élimination du travail des enfants.",
-    "origin": "ONU/Société civile"
+    "description": "Journée de lutte contre l'exploitation des enfants.",
+    "origin": "OIT/ONU",
+    "full_description": "Cette journée sensibilise à la persistance du travail des enfants dans le monde et mobilise pour son élimination. Elle promeut les droits des enfants et l'accès à l'éducation pour tous.",
+    "good_to_know": "Plus de 150 millions d'enfants sont encore astreints au travail dans le monde. La majorité travaille dans l'agriculture et les mines.",
+    "action": "- Sensibiliser au problème\n- Soutenir les organisations de protection\n- Consommer responsable\n- Promouvoir l'éducation"
   },
   "0613": {
     "date": "13 juin",
@@ -1493,9 +1517,12 @@
   },
   "0614": {
     "date": "14 juin",
-    "name": "Journée mondiale du don de sang",
-    "description": "Journée promouvant le don de sang pour sauver des vies.",
-    "origin": "ONU/Société civile"
+    "name": "Journée mondiale du donneur de sang",
+    "description": "Journée remerciant les donneurs de sang.",
+    "origin": "OMS",
+    "full_description": "Cette journée rend hommage aux donneurs de sang volontaires et sensibilise à l'importance du don de sang régulier. Elle souligne le rôle crucial des dons de sang dans les soins de santé.",
+    "good_to_know": "Chaque seconde, trois personnes dans le monde ont besoin d'une transfusion sanguine. Un don de sang peut sauver jusqu'à trois vies.",
+    "action": "- Donner son sang\n- Recruter de nouveaux donneurs\n- Remercier les donneurs\n- Promouvoir le don régulier"
   },
   "0615": {
     "date": "15 juin",
@@ -1596,14 +1623,20 @@
   "0701": {
     "date": "1er juillet",
     "name": "Fête du Canada",
-    "description": "Jour célébrant la Confédération canadienne de 1867.",
-    "origin": "Culture canadienne"
+    "description": "Jour de la Confédération canadienne.",
+    "origin": "Culture canadienne",
+    "full_description": "Cette journée commémore la création de la Confédération canadienne en 1867. Elle célèbre l'identité, la diversité et les réalisations du Canada à travers des festivités nationales.",
+    "good_to_know": "Le Canada était initialement composé de quatre provinces lors de la Confédération. Le pays compte aujourd'hui dix provinces et trois territoires.",
+    "action": "- Participer aux célébrations\n- Découvrir l'histoire canadienne\n- Célébrer la diversité culturelle\n- Arborer les symboles nationaux"
   },
   "0702": {
     "date": "2 juillet",
     "name": "Journée mondiale des OVNIs",
-    "description": "Journée sensibilisant au phénomène des objets volants non identifiés.",
-    "origin": "Culture populaire"
+    "description": "Journée dédiée aux phénomènes aériens inexpliqués.",
+    "origin": "Initiative populaire",
+    "full_description": "Cette journée est consacrée à l'étude et à la discussion des phénomènes aériens non identifiés. Elle encourage une approche scientifique et rationnelle de ces observations tout en reconnaissant leur impact culturel.",
+    "good_to_know": "Le terme OVNI a été créé en 1952 par l'armée de l'air américaine. De nombreux pays ont déclassifié leurs archives sur les observations inexpliquées.",
+    "action": "- S'informer scientifiquement\n- Participer aux conférences\n- Explorer l'astronomie\n- Développer l'esprit critique"
   },
   "0703": {
     "date": "3 juillet",
@@ -1613,9 +1646,12 @@
   },
   "0704": {
     "date": "4 juillet",
-    "name": "Independence Day (États-Unis)",
-    "description": "Jour célébrant l'indépendance des États-Unis obtenue en 1776.",
-    "origin": "Culture américaine"
+    "name": "Fête nationale des États-Unis",
+    "description": "Jour de l'Indépendance américaine.",
+    "origin": "Culture américaine",
+    "full_description": "Cette journée commémore l'adoption de la Déclaration d'indépendance des États-Unis en 1776. Elle célèbre la liberté et l'indépendance à travers des festivités nationales, des défilés et des feux d'artifice.",
+    "good_to_know": "La Déclaration d'indépendance n'a pas été signée le 4 juillet mais le 2 août 1776. John Adams pensait que le 2 juillet serait la date célébrée.",
+    "action": "- Participer aux célébrations\n- Étudier l'histoire américaine\n- Honorer les traditions\n- Célébrer en communauté"
   },
   "0705": {
     "date": "5 juillet",
