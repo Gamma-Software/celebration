@@ -1522,19 +1522,28 @@
     "date": "9 juin",
     "name": "Fête de l'Ascension (variable)",
     "description": "Célébration chrétienne marquant l'ascension de Jésus au ciel.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête chrétienne commémore l'ascension de Jésus-Christ au ciel, quarante jours après sa résurrection. C'est l'une des principales fêtes du calendrier liturgique chrétien, célébrant le retour du Christ auprès de Dieu le Père.",
+    "good_to_know": "La date de l'Ascension varie chaque année car elle dépend de la date de Pâques. Elle est toujours célébrée un jeudi, 40 jours après Pâques.",
+    "action": "- Participer aux célébrations religieuses\n- Découvrir les traditions chrétiennes\n- Visiter les églises locales\n- S'informer sur l'histoire religieuse"
   },
   "0610": {
     "date": "10 juin",
     "name": "Journée du Portugal",
     "description": "Jour célébrant la culture portugaise et l'anniversaire du poète national Luís de Camões.",
-    "origin": "Culture portugaise"
+    "origin": "Culture portugaise",
+    "full_description": "Cette journée nationale commémore la mort du grand poète portugais Luís de Camões en 1580 et célèbre la richesse de la culture portugaise. C'est aussi le Jour des Communautés portugaises, honorant la diaspora portugaise dans le monde.",
+    "good_to_know": "Luís de Camões est l'auteur des 'Lusiades', considéré comme le plus grand poème épique de la langue portugaise. Cette œuvre célèbre l'âge d'or des découvertes portugaises.",
+    "action": "- Participer aux festivités culturelles\n- Découvrir la littérature portugaise\n- Déguster la cuisine traditionnelle\n- Célébrer l'héritage portugais"
   },
   "0611": {
     "date": "11 juin",
     "name": "Kamehameha Day",
     "description": "Jour honorant le roi Kamehameha I, fondateur du royaume d'Hawaï.",
-    "origin": "Culture hawaïenne"
+    "origin": "Culture hawaïenne",
+    "full_description": "Cette fête honore le roi Kamehameha I, qui a unifié les îles hawaïennes en 1810. La journée est marquée par des défilés, des festivals et des cérémonies traditionnelles célébrant l'héritage culturel hawaïen.",
+    "good_to_know": "Le roi Kamehameha I est connu sous le nom de 'Kamehameha le Grand'. Une statue emblématique à son effigie se trouve devant le palais judiciaire d'Honolulu et est traditionnellement décorée de leis lors des célébrations.",
+    "action": "- Participer aux festivités traditionnelles\n- Découvrir la culture hawaïenne\n- Assister aux cérémonies de lei\n- Explorer l'histoire d'Hawaï"
   },
   "0612": {
     "date": "12 juin",
@@ -1549,7 +1558,10 @@
     "date": "13 juin",
     "name": "Fête de Saint Antoine",
     "description": "Célébration chrétienne en l'honneur de Saint Antoine de Padoue.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Antoine de Padoue, un saint catholique du 13e siècle connu pour ses talents de prédicateur et ses miracles. Il est particulièrement vénéré comme le saint patron des objets perdus et des causes désespérées.",
+    "good_to_know": "Saint Antoine est l'un des saints les plus populaires de l'Église catholique. La tradition de prier Saint Antoine pour retrouver des objets perdus vient d'un épisode où il retrouva miraculeusement son psautier volé.",
+    "action": "- Participer aux célébrations religieuses\n- Découvrir la vie de Saint Antoine\n- Visiter les églises dédiées au saint\n- S'informer sur les traditions associées"
   },
   "0614": {
     "date": "14 juin",
@@ -1564,97 +1576,145 @@
     "date": "15 juin",
     "name": "Fête des Moissons (variable)",
     "description": "Célébration traditionnelle des premières récoltes dans diverses cultures.",
-    "origin": "Cultures agricoles"
+    "origin": "Cultures agricoles",
+    "full_description": "Cette célébration ancestrale marque le début des récoltes et remercie la terre pour son abondance. Les dates varient selon les régions et les cultures, mais elle s'accompagne généralement de rituels, de festins et de danses traditionnelles.",
+    "good_to_know": "De nombreuses cultures à travers le monde ont des fêtes similaires, comme Lammas en Europe, Sukkot dans le judaïsme, ou le Festival de la Mi-Automne en Asie.",
+    "action": "- Participer aux célébrations locales\n- Découvrir les traditions agricoles\n- Soutenir les agriculteurs locaux\n- Apprendre sur l'agriculture durable"
   },
   "0616": {
     "date": "16 juin",
     "name": "Journée de l'Enfant africain",
     "description": "Journée sensibilisant aux droits et défis des enfants en Afrique.",
-    "origin": "Union africaine"
+    "origin": "Union africaine",
+    "full_description": "Cette journée commémore le massacre de Soweto en 1976, où des étudiants sud-africains ont manifesté pour une meilleure éducation. Elle met en lumière les défis auxquels font face les enfants africains et promeut leurs droits fondamentaux.",
+    "good_to_know": "Malgré des progrès significatifs, des millions d'enfants africains n'ont toujours pas accès à l'éducation de base ou aux soins de santé essentiels.",
+    "action": "- Soutenir les organisations d'aide\n- Sensibiliser aux droits des enfants\n- Participer aux actions de solidarité\n- Promouvoir l'éducation en Afrique"
   },
   "0617": {
     "date": "17 juin",
     "name": "Journée mondiale de la lutte contre la désertification",
     "description": "Journée promouvant la gestion durable des terres pour lutter contre la désertification.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée sensibilise à la dégradation des terres et à la désertification croissante dans le monde. Elle promeut des solutions durables pour protéger les écosystèmes fragiles et soutenir les communautés affectées.",
+    "good_to_know": "La désertification affecte directement plus de 250 millions de personnes et menace les moyens de subsistance d'un milliard d'habitants dans plus de 100 pays.",
+    "action": "- Soutenir les projets de reforestation\n- Adopter des pratiques durables\n- Économiser l'eau\n- Sensibiliser à la protection des sols"
   },
   "0618": {
     "date": "18 juin",
     "name": "Waterloo Day",
     "description": "Jour commémorant la bataille de Waterloo en 1815.",
-    "origin": "Histoire européenne"
+    "origin": "Histoire européenne",
+    "full_description": "Cette journée marque l'anniversaire de la bataille de Waterloo qui vit la défaite définitive de Napoléon Bonaparte face aux forces alliées dirigées par le Duc de Wellington et le maréchal Blücher. Cette bataille changea profondément la carte politique de l'Europe.",
+    "good_to_know": "La bataille de Waterloo fut l'une des plus sanglantes de son époque avec plus de 47 000 morts et blessés. Le terme 'Waterloo' est devenu synonyme de défaite décisive dans plusieurs langues.",
+    "action": "- Visiter le champ de bataille\n- Découvrir l'histoire européenne\n- Participer aux reconstitutions\n- Explorer les musées historiques"
   },
   "0619": {
     "date": "19 juin",
     "name": "Journée de l'émancipation (Juneteenth)",
     "description": "Jour célébrant la fin de l'esclavage aux États-Unis.",
-    "origin": "Culture américaine"
+    "origin": "Culture américaine",
+    "full_description": "Cette journée commémore l'annonce de l'abolition de l'esclavage au Texas le 19 juin 1865, marquant la fin effective de l'esclavage aux États-Unis. Elle célèbre la liberté et l'émancipation tout en rappelant l'importance de la justice sociale.",
+    "good_to_know": "Bien que la Proclamation d'émancipation ait été signée en 1863, il fallut attendre plus de deux ans pour que la nouvelle atteigne le Texas. Juneteenth est devenu un jour férié fédéral en 2021.",
+    "action": "- Participer aux célébrations communautaires\n- S'éduquer sur l'histoire de l'esclavage\n- Soutenir les causes pour l'égalité\n- Promouvoir la justice sociale"
   },
   "0620": {
     "date": "20 juin",
     "name": "Journée mondiale des réfugiés",
     "description": "Journée honorant la force et le courage des réfugiés.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière la situation des millions de réfugiés dans le monde qui ont dû fuir leur pays en raison de conflits ou de persécutions. Elle promeut la compréhension et la solidarité envers leur situation.",
+    "good_to_know": "Plus de 100 millions de personnes sont déplacées de force dans le monde. En moyenne, une personne est forcée de fuir toutes les deux secondes.",
+    "action": "- Soutenir les organisations d'aide\n- Accueillir les réfugiés\n- Sensibiliser aux droits des réfugiés\n- Combattre les préjugés"
   },
   "0621": {
     "date": "21 juin",
     "name": "Journée internationale du yoga",
     "description": "Journée promouvant la pratique du yoga pour le bien-être.",
-    "origin": "Culture indienne"
+    "origin": "Culture indienne",
+    "full_description": "Cette journée célèbre le yoga comme pratique holistique unissant le corps, l'esprit et l'âme. Elle promeut ses bienfaits pour la santé physique et mentale, tout en soulignant son importance culturelle et spirituelle.",
+    "good_to_know": "Le mot 'yoga' vient du sanskrit et signifie 'union'. Cette pratique millénaire combine exercices physiques, méditation et techniques de respiration.",
+    "action": "- Participer à une séance de yoga\n- Découvrir différents styles de yoga\n- Pratiquer la méditation\n- Explorer la philosophie du yoga"
   },
   "0622": {
     "date": "22 juin",
     "name": "Journée nationale de la mémoire (Croatie)",
     "description": "Jour honorant les victimes de la guerre d'indépendance croate.",
-    "origin": "Culture croate"
+    "origin": "Culture croate",
+    "full_description": "Cette journée commémore les sacrifices et les souffrances endurés pendant la guerre d'indépendance croate (1991-1995). Elle honore la mémoire des victimes et promeut la paix et la réconciliation.",
+    "good_to_know": "La guerre d'indépendance croate, aussi appelée 'Guerre de la Patrie', a marqué profondément l'histoire moderne de la Croatie et reste un symbole important de l'identité nationale.",
+    "action": "- Participer aux cérémonies commémoratives\n- Visiter les mémoriaux\n- S'informer sur l'histoire croate\n- Promouvoir la paix"
   },
   "0623": {
     "date": "23 juin",
     "name": "Fête nationale du Luxembourg",
     "description": "Jour célébrant l'anniversaire officiel du Grand-Duc.",
-    "origin": "Culture luxembourgeoise"
+    "origin": "Culture luxembourgeoise",
+    "full_description": "Cette fête nationale célèbre l'anniversaire officiel du Grand-Duc, bien qu'il ne corresponde pas à sa date de naissance réelle. C'est l'occasion de célébrer l'identité nationale luxembourgeoise et ses traditions.",
+    "good_to_know": "La veille au soir, le 22 juin, est marquée par des festivités importantes incluant un défilé aux flambeaux et un feu d'artifice spectaculaire dans la capitale.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture luxembourgeoise\n- Assister au défilé militaire\n- Célébrer les traditions locales"
   },
   "0624": {
     "date": "24 juin",
     "name": "Fête de la Saint-Jean",
     "description": "Célébration chrétienne marquant la naissance de Saint Jean-Baptiste.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête chrétienne célèbre la naissance de Saint Jean-Baptiste, précurseur du Christ. Elle coïncide avec le solstice d'été et intègre souvent des traditions païennes comme les feux de joie.",
+    "good_to_know": "Les feux de la Saint-Jean sont une tradition répandue dans de nombreux pays européens. Cette fête est particulièrement importante au Québec, où elle est devenue la fête nationale.",
+    "action": "- Participer aux célébrations locales\n- Assister aux feux de joie\n- Découvrir les traditions populaires\n- Explorer l'histoire religieuse"
   },
   "0625": {
     "date": "25 juin",
     "name": "Indépendance de la Slovénie et de la Croatie",
     "description": "Jour marquant l'indépendance de ces deux pays en 1991.",
-    "origin": "Culture slovène et croate"
+    "origin": "Culture slovène et croate",
+    "full_description": "Cette journée commémore la déclaration simultanée d'indépendance de la Slovénie et de la Croatie vis-à-vis de la Yougoslavie en 1991. Elle marque un tournant majeur dans l'histoire des Balkans.",
+    "good_to_know": "La Slovénie fut le premier pays à quitter la Yougoslavie et connut une transition relativement pacifique, contrairement à la Croatie qui dut faire face à une guerre d'indépendance.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir l'histoire des Balkans\n- Explorer les cultures slovène et croate\n- Promouvoir la paix"
   },
   "0626": {
     "date": "26 juin",
     "name": "Journée internationale contre la drogue",
     "description": "Journée sensibilisant aux problèmes liés à l'usage de drogues.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée vise à sensibiliser aux dangers de la consommation de drogues et à promouvoir une société libre de toute addiction. Elle met en lumière l'importance de la prévention et du soutien aux personnes touchées.",
+    "good_to_know": "Environ 275 millions de personnes consomment des drogues dans le monde. Le trafic de drogue reste l'une des activités criminelles les plus lucratives.",
+    "action": "- Soutenir les programmes de prévention\n- Aider les personnes dépendantes\n- S'informer sur les addictions\n- Promouvoir un mode de vie sain"
   },
   "0627": {
     "date": "27 juin",
     "name": "Journée nationale des vétérans de guerre (Canada)",
     "description": "Jour honorant les vétérans canadiens de toutes les guerres.",
-    "origin": "Culture canadienne"
+    "origin": "Culture canadienne",
+    "full_description": "Cette journée rend hommage aux anciens combattants canadiens qui ont servi leur pays lors des différents conflits. Elle souligne leur courage, leurs sacrifices et leur dévouement pour la défense des valeurs canadiennes et de la paix mondiale.",
+    "good_to_know": "Plus d'un million de Canadiens ont servi pendant la Seconde Guerre mondiale, soit 10% de la population de l'époque. Le coquelicot est devenu un symbole du souvenir au Canada.",
+    "action": "- Participer aux cérémonies commémoratives\n- Visiter les monuments aux morts\n- Soutenir les associations de vétérans\n- Transmettre la mémoire historique"
   },
   "0628": {
     "date": "28 juin",
     "name": "Journée mondiale des arbres",
     "description": "Journée promouvant la plantation et la préservation des arbres.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée met en lumière l'importance vitale des arbres pour notre planète. Elle encourage la plantation d'arbres et sensibilise à leur rôle crucial dans la lutte contre le changement climatique et la préservation de la biodiversité.",
+    "good_to_know": "Un arbre mature peut absorber jusqu'à 22 kg de CO2 par an. Les forêts abritent plus de 80% de la biodiversité terrestre mondiale.",
+    "action": "- Planter des arbres\n- Participer à des actions de reboisement\n- Protéger les forêts existantes\n- Sensibiliser à la déforestation"
   },
   "0629": {
     "date": "29 juin",
     "name": "Fête des Saints Pierre et Paul",
     "description": "Célébration chrétienne honorant les apôtres Pierre et Paul.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête solennelle honore deux piliers de l'Église chrétienne : Saint Pierre, premier pape et 'pierre' sur laquelle l'Église fut bâtie, et Saint Paul, grand évangélisateur des nations. Elle célèbre leur martyre à Rome et leur contribution fondamentale au christianisme.",
+    "good_to_know": "Cette fête est un jour férié dans plusieurs pays, notamment à Rome où elle honore les saints patrons de la ville. La basilique Saint-Pierre est construite sur le lieu présumé du martyre de Pierre.",
+    "action": "- Participer aux célébrations religieuses\n- Visiter les églises historiques\n- Découvrir l'histoire des saints\n- Explorer l'art religieux"
   },
   "0630": {
     "date": "30 juin",
     "name": "Journée de l'indépendance de la RDC",
     "description": "Jour célébrant l'indépendance de la République démocratique du Congo en 1960.",
-    "origin": "Culture congolaise"
+    "origin": "Culture congolaise",
+    "full_description": "Cette journée commémore l'indépendance de la République démocratique du Congo vis-à-vis de la Belgique en 1960. Elle célèbre la souveraineté nationale et l'identité culturelle congolaise à travers des festivités et des cérémonies officielles.",
+    "good_to_know": "Le discours de Patrice Lumumba lors de la cérémonie d'indépendance est resté célèbre pour sa dénonciation du colonialisme. La RDC est le deuxième plus grand pays d'Afrique.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture congolaise\n- Soutenir le développement local\n- Promouvoir la paix et l'unité"
   },
   "0701": {
     "date": "1er juillet",
@@ -1678,7 +1738,10 @@
     "date": "3 juillet",
     "name": "Fête de l'indépendance du Bélarus",
     "description": "Jour célébrant l'indépendance du Bélarus en 1944.",
-    "origin": "Culture biélorusse"
+    "origin": "Culture biélorusse",
+    "full_description": "Cette journée commémore la libération de Minsk par l'Armée rouge en 1944 pendant la Seconde Guerre mondiale. Elle célèbre l'indépendance et la souveraineté du Bélarus à travers des défilés militaires, des concerts et des festivités populaires.",
+    "good_to_know": "Le Bélarus a perdu un quart de sa population pendant la Seconde Guerre mondiale. La date du 3 juillet a été choisie comme fête nationale en 1996.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture biélorusse\n- Honorer la mémoire des victimes\n- Promouvoir la paix et l'unité"
   },
   "0704": {
     "date": "4 juillet",
@@ -1693,7 +1756,10 @@
     "date": "5 juillet",
     "name": "Fête de l'indépendance du Venezuela",
     "description": "Jour célébrant l'indépendance du Venezuela en 1811.",
-    "origin": "Culture vénézuélienne"
+    "origin": "Culture vénézuélienne",
+    "full_description": "Cette journée commémore la déclaration d'indépendance du Venezuela signée le 5 juillet 1811, marquant la rupture avec l'Empire espagnol. Elle célèbre la naissance de la première république d'Amérique du Sud à travers des défilés militaires, des festivités populaires et des cérémonies officielles.",
+    "good_to_know": "Le drapeau vénézuélien a été créé par Francisco de Miranda en 1806. Ses couleurs jaune, bleu et rouge ont ensuite inspiré de nombreux autres drapeaux sud-américains.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir l'histoire vénézuélienne\n- Explorer la culture latino-américaine\n- Promouvoir l'unité nationale"
   },
   "0706": {
     "date": "6 juillet",
@@ -1708,25 +1774,37 @@
     "date": "7 juillet",
     "name": "Tanabata",
     "description": "Fête japonaise célébrant la rencontre des étoiles Orihime et Hikoboshi.",
-    "origin": "Culture japonaise"
+    "origin": "Culture japonaise",
+    "full_description": "Le Tanabata est une fête traditionnelle japonaise basée sur une légende romantique. Selon le conte, deux amoureux, Orihime (l'étoile Véga) et Hikoboshi (l'étoile Altaïr), séparés par la Voie lactée, ne peuvent se rencontrer qu'une fois par an, le septième jour du septième mois.",
+    "good_to_know": "Les Japonais célèbrent cette fête en écrivant leurs vœux sur des bandes de papier coloré (tanzaku) qu'ils accrochent aux branches de bambou. Les décorations et les festivals illuminent les rues pendant les célébrations.",
+    "action": "- Participer aux festivals Tanabata\n- Écrire des vœux sur des tanzaku\n- Découvrir la culture japonaise\n- Observer les étoiles"
   },
   "0708": {
     "date": "8 juillet",
     "name": "Journée mondiale de l'allergie",
     "description": "Journée sensibilisant aux problèmes liés aux allergies.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée vise à sensibiliser le public aux différents types d'allergies et à leur impact sur la qualité de vie. Elle promeut la recherche, le diagnostic précoce et l'amélioration des traitements pour les personnes souffrant d'allergies.",
+    "good_to_know": "Les allergies touchent environ 30% de la population mondiale. Le changement climatique et la pollution contribuent à l'augmentation des cas d'allergies.",
+    "action": "- S'informer sur les allergies\n- Consulter un allergologue\n- Identifier les allergènes\n- Soutenir la recherche médicale"
   },
   "0709": {
     "date": "9 juillet",
     "name": "Fête nationale de l'Argentine",
     "description": "Jour célébrant l'indépendance de l'Argentine obtenue en 1816.",
-    "origin": "Culture argentine"
+    "origin": "Culture argentine",
+    "full_description": "Cette journée commémore la déclaration d'indépendance de l'Argentine vis-à-vis de l'Espagne en 1816. Les célébrations incluent des défilés militaires, des spectacles culturels et des rassemblements festifs qui mettent en valeur l'identité nationale argentine.",
+    "good_to_know": "Le Congrès de Tucumán, qui a déclaré l'indépendance, était composé de représentants des Provinces-Unies du Río de la Plata. L'Argentine est aujourd'hui la deuxième plus grande économie d'Amérique du Sud.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture argentine\n- Déguster la cuisine traditionnelle\n- Célébrer l'héritage historique"
   },
   "0710": {
     "date": "10 juillet",
     "name": "Fête de Nikola Tesla",
     "description": "Jour honorant Nikola Tesla, inventeur et ingénieur serbe-américain.",
-    "origin": "Culture scientifique"
+    "origin": "Culture scientifique",
+    "full_description": "Cette journée célèbre l'héritage de Nikola Tesla, génie visionnaire né le 10 juillet 1856. Ses inventions révolutionnaires dans les domaines de l'électricité, du magnétisme et de l'énergie sans fil ont façonné le monde moderne.",
+    "good_to_know": "Tesla a déposé près de 300 brevets dans sa vie. Ses travaux sur le courant alternatif ont permis l'électrification massive du monde. L'unité de mesure de l'induction magnétique porte son nom.",
+    "action": "- Explorer les inventions de Tesla\n- Visiter des musées scientifiques\n- Étudier l'histoire des sciences\n- Promouvoir l'innovation"
   },
   "0711": {
     "date": "11 juillet",
@@ -1750,7 +1828,10 @@
     "date": "13 juillet",
     "name": "Fête de la République du Monténégro",
     "description": "Jour marquant la reconnaissance internationale du Monténégro en 1878.",
-    "origin": "Culture monténégrine"
+    "origin": "Culture monténégrine",
+    "full_description": "Cette journée commémore la reconnaissance officielle du Monténégro comme État indépendant lors du Congrès de Berlin en 1878. Elle célèbre l'histoire, la culture et l'identité nationale du pays à travers diverses manifestations culturelles et festivités.",
+    "good_to_know": "Le Monténégro est l'un des plus jeunes États d'Europe, ayant retrouvé son indépendance en 2006 après la dissolution de l'union avec la Serbie. Le pays tire son nom des forêts denses qui recouvraient autrefois ses montagnes noires.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture monténégrine\n- Visiter les sites historiques\n- Célébrer l'héritage culturel"
   },
   "0714": {
     "date": "14 juillet",
@@ -1765,757 +1846,1135 @@
     "date": "15 juillet",
     "name": "Saint Vladimir",
     "description": "Célébration chrétienne en l'honneur de Saint Vladimir de Kiev.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Vladimir le Grand, prince de Kiev qui a christianisé la Rus' de Kiev au Xe siècle. Sa conversion et son baptême en 988 ont marqué un tournant majeur dans l'histoire religieuse et culturelle de l'Europe de l'Est.",
+    "good_to_know": "Saint Vladimir est considéré comme l'un des saints les plus importants des Églises orthodoxes. Son baptême a conduit à la christianisation massive de la Rus' de Kiev, ancêtre des nations russe, ukrainienne et biélorusse.",
+    "action": "- Participer aux célébrations religieuses\n- Découvrir l'histoire médiévale\n- Visiter les églises orthodoxes\n- Explorer la culture slave"
   },
   "0716": {
     "date": "16 juillet",
     "name": "Journée nationale de la Vierge du Carmen",
     "description": "Jour honorant la Vierge Marie, patronne des marins.",
-    "origin": "Christianisme/Culture espagnole et latino-américaine"
+    "origin": "Christianisme/Culture espagnole et latino-américaine",
+    "full_description": "Cette célébration honore Notre-Dame du Mont-Carmel, une des appellations de la Vierge Marie particulièrement vénérée dans le monde hispanique. Elle est considérée comme la protectrice des marins et des pêcheurs.",
+    "good_to_know": "La tradition de la Vierge du Carmen est particulièrement forte au Chili, où elle est la patronne des forces armées. Des processions maritimes sont organisées dans de nombreux ports.",
+    "action": "- Participer aux processions maritimes\n- Découvrir les traditions marines\n- Visiter les sanctuaires marials\n- Célébrer avec les communautés côtières"
   },
   "0717": {
     "date": "17 juillet",
     "name": "Journée mondiale de la justice internationale",
     "description": "Journée promouvant le droit et la justice au niveau mondial.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée marque l'anniversaire de l'adoption du Statut de Rome de la Cour pénale internationale. Elle promeut la justice internationale et la lutte contre l'impunité des crimes les plus graves.",
+    "good_to_know": "La Cour pénale internationale, créée en 2002, est le premier tribunal pénal international permanent. Elle peut juger les crimes de guerre, crimes contre l'humanité et génocides.",
+    "action": "- Sensibiliser aux droits humains\n- Soutenir la justice internationale\n- S'informer sur le droit international\n- Promouvoir la paix mondiale"
   },
   "0718": {
     "date": "18 juillet",
     "name": "Journée internationale Nelson Mandela",
     "description": "Journée honorant l'héritage de Nelson Mandela pour la paix et la liberté.",
-    "origin": "ONU"
+    "origin": "ONU",
+    "full_description": "Cette journée célèbre l'héritage de Nelson Mandela et ses valeurs de justice sociale, de réconciliation et de dialogue. Elle encourage chacun à agir pour rendre le monde meilleur, suivant l'exemple de Mandela.",
+    "good_to_know": "Nelson Mandela a passé 27 ans en prison avant de devenir le premier président noir d'Afrique du Sud. Il a reçu le prix Nobel de la paix en 1993 pour son rôle dans la fin pacifique de l'apartheid.",
+    "action": "- Faire 67 minutes de bénévolat\n- Promouvoir la réconciliation\n- Lutter contre les discriminations\n- S'engager pour la justice sociale"
   },
   "0719": {
     "date": "19 juillet",
     "name": "Anniversaire de la Révolution sandiniste (Nicaragua)",
     "description": "Jour marquant la victoire du Front sandiniste en 1979.",
-    "origin": "Culture nicaraguayenne"
+    "origin": "Culture nicaraguayenne",
+    "full_description": "Cette journée commémore le renversement de la dictature Somoza par le Front sandiniste de libération nationale en 1979. Elle marque un tournant majeur dans l'histoire du Nicaragua et célèbre la lutte pour la liberté.",
+    "good_to_know": "La révolution sandiniste tire son nom d'Augusto César Sandino, héros national nicaraguayen qui lutta contre l'occupation américaine dans les années 1920-30.",
+    "action": "- Participer aux commémorations\n- Étudier l'histoire du Nicaragua\n- Découvrir la culture révolutionnaire\n- Promouvoir la démocratie"
   },
   "0720": {
     "date": "20 juillet",
     "name": "Journée de l'Amitié (Colombie)",
     "description": "Jour célébrant l'importance des relations amicales.",
-    "origin": "Culture colombienne"
+    "origin": "Culture colombienne",
+    "full_description": "Cette journée célèbre l'amitié et les liens sociaux en Colombie. Elle encourage les gestes d'amitié et renforce les relations interpersonnelles à travers diverses activités et célébrations.",
+    "good_to_know": "En Colombie, cette journée est souvent marquée par l'échange de cadeaux et l'organisation de réunions amicales appelées 'compartir'.",
+    "action": "- Organiser des rencontres amicales\n- Renouer avec des amis\n- Échanger des messages d'amitié\n- Participer aux célébrations locales"
   },
   "0721": {
     "date": "21 juillet",
     "name": "Fête nationale de la Belgique",
     "description": "Jour marquant la prestation de serment du premier roi des Belges en 1831.",
-    "origin": "Culture belge"
+    "origin": "Culture belge",
+    "full_description": "Cette journée commémore la prestation de serment de Léopold Ier, premier roi des Belges, marquant la naissance officielle du Royaume de Belgique. Elle célèbre l'unité nationale et la monarchie constitutionnelle.",
+    "good_to_know": "La Belgique est devenue indépendante en 1830, se séparant des Pays-Bas. Le pays est connu pour son système fédéral unique combinant trois régions et trois communautés linguistiques.",
+    "action": "- Participer aux festivités nationales\n- Découvrir l'histoire belge\n- Assister au défilé militaire\n- Célébrer la diversité culturelle"
   },
   "0722": {
     "date": "22 juillet",
     "name": "Saint Marie-Madeleine",
     "description": "Célébration chrétienne honorant Marie-Madeleine, disciple de Jésus.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Marie-Madeleine, disciple fidèle de Jésus et première témoin de sa résurrection. Elle est considérée comme un modèle de conversion et de fidélité dans la tradition chrétienne.",
+    "good_to_know": "Marie-Madeleine est souvent confondue avec d'autres figures bibliques. Le pape François a élevé sa célébration au rang de fête en 2016, soulignant son rôle d'\"apôtre des apôtres\".",
+    "action": "- Participer aux célébrations religieuses\n- Étudier l'histoire biblique\n- Visiter les lieux de pèlerinage\n- Découvrir l'art religieux"
   },
   "0723": {
     "date": "23 juillet",
     "name": "Renaissance Day (Égypte)",
     "description": "Jour marquant le début de la révolution égyptienne de 1952.",
-    "origin": "Culture égyptienne"
+    "origin": "Culture égyptienne",
+    "full_description": "Cette journée commémore la révolution de 1952 qui a mis fin à la monarchie en Égypte. Elle célèbre le début d'une nouvelle ère de modernisation et d'indépendance nationale sous la direction de Gamal Abdel Nasser.",
+    "good_to_know": "La révolution de 1952 a profondément transformé l'Égypte, aboutissant à des réformes majeures comme la réforme agraire et la nationalisation du canal de Suez.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir l'histoire moderne égyptienne\n- Explorer la culture arabe\n- Célébrer le patrimoine égyptien"
   },
   "0724": {
     "date": "24 juillet",
     "name": "Fête de Simon Bolivar",
     "description": "Jour honorant Simon Bolivar, héros de l'indépendance sud-américaine.",
-    "origin": "Culture sud-américaine"
+    "origin": "Culture sud-américaine",
+    "full_description": "Cette journée célèbre la naissance de Simon Bolivar, le 'Libérateur' qui a conduit plusieurs pays d'Amérique du Sud à l'indépendance. Elle honore son héritage de liberté et d'unité latino-américaine.",
+    "good_to_know": "Bolivar a libéré six pays : le Venezuela, la Colombie, l'Équateur, le Pérou, la Bolivie (qui porte son nom) et le Panama. Son rêve était de créer une grande nation sud-américaine unie.",
+    "action": "- Participer aux commémorations\n- Étudier l'histoire latino-américaine\n- Découvrir la pensée bolivarienne\n- Promouvoir l'unité régionale"
   },
   "0725": {
     "date": "25 juillet",
     "name": "Saint Jacques le Majeur",
     "description": "Célébration chrétienne honorant Saint Jacques, apôtre et patron de l'Espagne.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Jacques le Majeur, l'un des douze apôtres de Jésus et saint patron de l'Espagne. Elle est particulièrement importante sur le Chemin de Saint-Jacques-de-Compostelle, lieu de pèlerinage majeur.",
+    "good_to_know": "Saint Jacques est le saint patron des pèlerins. La coquille Saint-Jacques est devenue le symbole des pèlerins sur le Chemin de Compostelle.",
+    "action": "- Participer aux célébrations religieuses\n- Découvrir le Chemin de Compostelle\n- Explorer les traditions de pèlerinage\n- Visiter les sites historiques"
   },
   "0726": {
     "date": "26 juillet",
     "name": "Fête de la Rébellion nationale (Cuba)",
     "description": "Jour marquant l'attaque de la caserne Moncada en 1953, début de la révolution cubaine.",
-    "origin": "Culture cubaine"
+    "origin": "Culture cubaine",
+    "full_description": "Cette journée commémore l'attaque de la caserne Moncada par Fidel Castro et ses compagnons, événement considéré comme le début de la révolution cubaine. Bien que l'attaque ait échoué, elle est devenue un symbole de la résistance.",
+    "good_to_know": "Le mouvement révolutionnaire tire son nom 'M-26-7' de cette date. Malgré l'échec de l'attaque, elle a galvanisé le mouvement révolutionnaire qui a triomphé en 1959.",
+    "action": "- Participer aux commémorations\n- Étudier l'histoire cubaine\n- Découvrir la culture révolutionnaire\n- Explorer les traditions locales"
   },
   "0727": {
     "date": "27 juillet",
     "name": "Journée mondiale de la prévention des hépatites",
     "description": "Journée sensibilisant aux hépatites et à leur prévention.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée vise à sensibiliser le public aux différentes formes d'hépatites virales et à promouvoir leur prévention. Elle souligne l'importance du dépistage précoce et de l'accès aux traitements pour réduire la propagation de ces maladies.",
+    "good_to_know": "Les hépatites virales touchent environ 325 millions de personnes dans le monde. La vaccination et les mesures préventives peuvent prévenir la plupart des nouvelles infections.",
+    "action": "- Se faire dépister\n- Se faire vacciner\n- S'informer sur les modes de transmission\n- Soutenir les campagnes de sensibilisation"
   },
   "0728": {
     "date": "28 juillet",
     "name": "Fête nationale du Pérou",
     "description": "Jour célébrant l'indépendance du Pérou en 1821.",
-    "origin": "Culture péruvienne"
+    "origin": "Culture péruvienne",
+    "full_description": "Cette journée commémore la déclaration d'indépendance du Pérou par José de San Martín en 1821, marquant la fin de la domination espagnole. Les célébrations incluent des défilés militaires, des festivals culturels et des manifestations patriotiques.",
+    "good_to_know": "Le Pérou était le centre de l'Empire inca et abrite de nombreux sites historiques, dont le Machu Picchu. L'indépendance a été proclamée à Lima, sur la Plaza Mayor.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture péruvienne\n- Déguster la cuisine traditionnelle\n- Explorer l'histoire inca"
   },
   "0729": {
     "date": "29 juillet",
     "name": "Saint Olaf",
     "description": "Célébration chrétienne honorant Saint Olaf, roi et martyr de Norvège.",
-    "origin": "Christianisme/Culture norvégienne"
+    "origin": "Christianisme/Culture norvégienne",
+    "full_description": "Cette fête honore Saint Olaf, roi de Norvège au XIe siècle qui christianisa son pays. Mort en martyr à la bataille de Stiklestad en 1030, il est devenu le saint patron de la Norvège et un symbole de l'unité nationale.",
+    "good_to_know": "La cathédrale de Nidaros à Trondheim, construite sur la tombe de Saint Olaf, est devenue un important lieu de pèlerinage médiéval en Europe du Nord.",
+    "action": "- Participer aux célébrations religieuses\n- Découvrir l'histoire norvégienne\n- Visiter les sites historiques\n- Explorer les traditions vikings"
   },
   "0730": {
     "date": "30 juillet",
     "name": "Journée internationale de l'amitié",
     "description": "Journée promouvant l'amitié entre les peuples, les pays et les cultures.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée célèbre l'importance de l'amitié dans la promotion de la paix et de la compréhension entre les cultures. Elle encourage le dialogue interculturel et la construction de ponts entre les communautés.",
+    "good_to_know": "L'amitié est considérée comme l'une des relations humaines les plus nobles. Cette journée a été proclamée par l'ONU pour promouvoir la culture de la paix.",
+    "action": "- Recontacter de vieux amis\n- Créer des liens interculturels\n- Organiser des rencontres amicales\n- Promouvoir la tolérance"
   },
   "0731": {
     "date": "31 juillet",
     "name": "Hari Raya Haji (variable)",
     "description": "Fête musulmane marquant la fin du Hajj, le pèlerinage à La Mecque.",
-    "origin": "Islam"
+    "origin": "Islam",
+    "full_description": "Cette fête importante de l'Islam commémore la volonté d'Ibrahim de sacrifier son fils sur ordre divin. Elle marque également la fin du Hajj, le pèlerinage annuel à La Mecque que tout musulman doit effectuer au moins une fois dans sa vie.",
+    "good_to_know": "Aussi appelée Aïd al-Adha, cette fête est marquée par le sacrifice d'un animal dont la viande est partagée avec les pauvres et les voisins.",
+    "action": "- Participer aux prières communautaires\n- Partager des repas festifs\n- Faire des dons aux nécessiteux\n- Découvrir les traditions musulmanes"
   },
   "0801": {
     "date": "1er août",
     "name": "Fête nationale suisse",
     "description": "Jour célébrant la fondation de la Confédération suisse en 1291.",
-    "origin": "Culture suisse"
+    "origin": "Culture suisse",
+    "full_description": "Cette journée commémore le Pacte fédéral de 1291, considéré comme l'acte fondateur de la Confédération suisse. Les célébrations incluent des feux d'artifice, des feux de joie sur les montagnes et des festivités dans tout le pays.",
+    "good_to_know": "Le Pacte de 1291 a été signé par les trois cantons primitifs : Uri, Schwytz et Unterwald. La Suisse est l'une des plus anciennes démocraties au monde.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir l'histoire suisse\n- Assister aux feux d'artifice\n- Explorer les traditions locales"
   },
   "0802": {
     "date": "2 août",
     "name": "Journée internationale du souvenir de la traite négrière et de son abolition",
     "description": "Journée honorant la mémoire des victimes de l'esclavage.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée commémore les millions de victimes de la traite négrière et sensibilise aux conséquences durables de l'esclavage. Elle promeut également la reconnaissance et la dignité des personnes d'ascendance africaine.",
+    "good_to_know": "La traite négrière transatlantique a duré plus de 400 ans et a déporté plus de 15 millions d'Africains. Ses effets continuent d'influencer les sociétés contemporaines.",
+    "action": "- S'éduquer sur l'histoire de l'esclavage\n- Participer aux commémorations\n- Lutter contre le racisme\n- Promouvoir l'égalité"
   },
   "0803": {
     "date": "3 août",
     "name": "Fête de l'indépendance du Niger",
     "description": "Jour marquant l'indépendance du Niger en 1960.",
-    "origin": "Culture nigérienne"
+    "origin": "Culture nigérienne",
+    "full_description": "Cette journée célèbre l'indépendance du Niger vis-à-vis de la France en 1960. Les célébrations incluent des défilés militaires, des festivals culturels et des manifestations patriotiques à travers le pays.",
+    "good_to_know": "Le Niger est le plus grand pays d'Afrique de l'Ouest et abrite une partie importante du désert du Sahara. Sa culture est fortement influencée par les traditions nomades.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture nigérienne\n- Soutenir le développement local\n- Explorer les traditions sahéliennes"
   },
   "0804": {
     "date": "4 août",
     "name": "Fête nationale du Burkina Faso",
     "description": "Jour célébrant l'indépendance du Burkina Faso en 1960.",
-    "origin": "Culture burkinabè"
+    "origin": "Culture burkinabè",
+    "full_description": "Cette journée marque l'indépendance du Burkina Faso (alors Haute-Volta) de la France en 1960. Les célébrations mettent en valeur la riche culture du pays et son engagement pour le développement.",
+    "good_to_know": "Le nom 'Burkina Faso' signifie 'Pays des hommes intègres'. Le pays est connu pour sa production de coton et son festival panafricain du cinéma, le FESPACO.",
+    "action": "- Participer aux festivités nationales\n- Découvrir la culture burkinabè\n- Soutenir l'artisanat local\n- Promouvoir le développement durable"
   },
   "0805": {
     "date": "5 août",
     "name": "Journée mondiale de la bière",
     "description": "Journée célébrant la bière et ses traditions à travers le monde.",
-    "origin": "Culture mondiale"
+    "origin": "Culture mondiale",
+    "full_description": "Cette journée célèbre l'une des plus anciennes boissons produites par l'humanité. Elle met en valeur l'art du brassage, les traditions brassicoles et la diversité des bières à travers le monde.",
+    "good_to_know": "La bière est brassée depuis plus de 7000 ans. Il existe des milliers de variétés différentes, chaque pays ayant ses propres traditions de brassage.",
+    "action": "- Découvrir les bières artisanales\n- Visiter des brasseries locales\n- Apprendre l'art du brassage\n- Célébrer de façon responsable"
   },
   "0806": {
     "date": "6 août",
     "name": "Fête de l'indépendance de la Bolivie",
     "description": "Jour célébrant l'indépendance de la Bolivie en 1825.",
-    "origin": "Culture bolivienne"
+    "origin": "Culture bolivienne",
+    "full_description": "Cette journée commémore l'indépendance de la Bolivie vis-à-vis de l'Espagne en 1825. Les célébrations incluent des défilés, des danses traditionnelles et des festivités mettant en valeur la diversité culturelle du pays.",
+    "good_to_know": "La Bolivie porte le nom de Simon Bolivar, le libérateur. C'est un pays multiculturel avec 36 peuples indigènes reconnus officiellement.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture bolivienne\n- Explorer les traditions andines\n- Soutenir les communautés indigènes"
   },
   "0807": {
     "date": "7 août",
     "name": "Fête de la bataille de Boyacá (Colombie)",
     "description": "Jour célébrant une bataille clé de l'indépendance colombienne.",
-    "origin": "Culture colombienne"
+    "origin": "Culture colombienne",
+    "full_description": "Cette journée commémore la bataille décisive de Boyacá en 1819, qui assura l'indépendance de la Colombie. Cette victoire de Simon Bolivar fut cruciale pour la libération de l'Amérique du Sud.",
+    "good_to_know": "La bataille de Boyacá dura seulement deux heures mais changea le cours de l'histoire sud-américaine. Le pont de Boyacá est devenu un symbole national.",
+    "action": "- Participer aux commémorations\n- Visiter les sites historiques\n- Découvrir l'histoire colombienne\n- Célébrer l'héritage bolivarien"
   },
   "0808": {
     "date": "8 août",
     "name": "Journée internationale du chat",
     "description": "Journée dédiée aux chats pour sensibiliser à leur bien-être.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre les chats et sensibilise à leur bien-être. Elle promeut l'adoption responsable et les soins appropriés pour ces compagnons domestiques appréciés dans le monde entier.",
+    "good_to_know": "Les chats ont été domestiqués il y a environ 9000 ans. Ils sont présents dans la culture et la mythologie de nombreuses civilisations.",
+    "action": "- Adopter un chat\n- Soutenir les refuges animaliers\n- Sensibiliser au bien-être animal\n- Stériliser son animal"
   },
   "0809": {
     "date": "9 août",
     "name": "Journée internationale des peuples autochtones",
     "description": "Journée honorant les droits et cultures des peuples autochtones.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière les droits, la culture et les traditions des peuples autochtones du monde entier. Elle sensibilise aux défis qu'ils rencontrent et promeut la protection de leurs droits.",
+    "good_to_know": "Il existe plus de 476 millions d'autochtones dans le monde, parlant plus de 4000 langues. Ils sont les gardiens de nombreuses connaissances traditionnelles.",
+    "action": "- Soutenir les communautés autochtones\n- Découvrir leurs cultures\n- Protéger leurs droits\n- Préserver leurs langues"
   },
   "0810": {
     "date": "10 août",
     "name": "Fête nationale de l'Équateur",
     "description": "Jour célébrant la déclaration d'indépendance de l'Équateur en 1809.",
-    "origin": "Culture équatorienne"
+    "origin": "Culture équatorienne",
+    "full_description": "Cette journée commémore le Premier Cri de l'Indépendance de Quito en 1809, qui marqua le début du processus d'indépendance de l'Équateur. Les célébrations incluent des défilés, des festivals culturels et des événements patriotiques.",
+    "good_to_know": "L'Équateur tire son nom de sa position sur l'équateur. Le pays est connu pour sa biodiversité exceptionnelle et les îles Galápagos.",
+    "action": "- Participer aux festivités nationales\n- Découvrir la culture équatorienne\n- Explorer la biodiversité locale\n- Soutenir la conservation"
   },
   "0811": {
     "date": "11 août",
     "name": "Raksha Bandhan",
     "description": "Fête hindoue célébrant les liens entre frères et sœurs.",
-    "origin": "Hindouisme"
+    "origin": "Hindouisme",
+    "full_description": "Cette fête hindoue célèbre le lien sacré entre frères et sœurs. Les sœurs attachent un bracelet sacré (rakhi) au poignet de leurs frères, qui promettent en retour de les protéger toute leur vie.",
+    "good_to_know": "Raksha Bandhan signifie 'lien de protection' en sanskrit. Cette tradition renforce les liens familiaux et promeut l'harmonie sociale.",
+    "action": "- Participer aux célébrations\n- Échanger des cadeaux\n- Renforcer les liens familiaux\n- Découvrir les traditions hindoues"
   },
   "0812": {
     "date": "12 août",
     "name": "Journée internationale de la jeunesse",
     "description": "Journée promouvant les droits et les aspirations des jeunes.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière les défis auxquels font face les jeunes et célèbre leur potentiel comme agents de changement. Elle promeut leur participation active dans la société et le développement durable.",
+    "good_to_know": "Les jeunes de 15 à 24 ans représentent environ 1,2 milliard de personnes dans le monde. Leur engagement est crucial pour atteindre les objectifs de développement durable.",
+    "action": "- Participer à des projets jeunesse\n- S'engager dans sa communauté\n- Promouvoir l'éducation\n- Soutenir l'innovation sociale"
   },
   "0813": {
     "date": "13 août",
     "name": "Fête de la révolution cubaine",
     "description": "Jour marquant l'anniversaire de Fidel Castro et les débuts de la révolution cubaine.",
-    "origin": "Culture cubaine"
+    "origin": "Culture cubaine",
+    "full_description": "Cette journée commémore l'anniversaire de Fidel Castro et les débuts du mouvement révolutionnaire cubain. Elle célèbre les changements sociaux et politiques qui ont transformé Cuba au XXe siècle.",
+    "good_to_know": "Fidel Castro a dirigé Cuba de 1959 à 2008, faisant de lui l'un des dirigeants ayant exercé le plus longtemps le pouvoir au XXe siècle.",
+    "action": "- Découvrir l'histoire cubaine\n- Explorer la culture révolutionnaire\n- Étudier les mouvements sociaux\n- Comprendre les enjeux géopolitiques"
   },
   "0814": {
     "date": "14 août",
     "name": "Indépendance du Pakistan",
     "description": "Jour marquant l'indépendance du Pakistan en 1947.",
-    "origin": "Culture pakistanaise"
+    "origin": "Culture pakistanaise",
+    "full_description": "Cette journée commémore la création du Pakistan comme nation indépendante en 1947, lors de la partition de l'Inde britannique. Elle célèbre la naissance d'un État musulman distinct et honore les sacrifices consentis pour l'indépendance.",
+    "good_to_know": "Le Pakistan est né de la plus grande migration de l'histoire, avec plus de 14 millions de personnes déplacées. Le nom 'Pakistan' signifie 'Terre des Purs' en ourdou.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture pakistanaise\n- Explorer l'histoire de l'indépendance\n- Promouvoir l'harmonie intercommunautaire"
   },
   "0815": {
     "date": "15 août",
     "name": "Assomption",
     "description": "Célébration chrétienne marquant la montée de la Vierge Marie au ciel.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête solennelle célèbre l'élévation de la Vierge Marie au ciel à la fin de sa vie terrestre. C'est l'une des plus importantes fêtes mariales du calendrier chrétien, particulièrement célébrée dans les traditions catholique et orthodoxe.",
+    "good_to_know": "Le dogme de l'Assomption a été officiellement proclamé par le pape Pie XII en 1950, bien que cette croyance soit célébrée depuis les premiers siècles du christianisme.",
+    "action": "- Participer aux célébrations religieuses\n- Visiter les sanctuaires mariaux\n- Découvrir l'art religieux\n- Explorer les traditions mariales"
   },
   "0816": {
     "date": "16 août",
     "name": "Fête de Saint Roch",
     "description": "Fête chrétienne honorant Saint Roch, protecteur contre les épidémies.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Saint Roch est vénéré comme protecteur contre la peste et les épidémies. Pèlerin du XIVe siècle, il est connu pour avoir soigné les malades de la peste et être lui-même guéri miraculeusement. Il est souvent représenté avec un chien qui l'aurait nourri pendant sa maladie.",
+    "good_to_know": "Saint Roch est l'un des saints les plus populaires en Europe, particulièrement invoqué lors des grandes épidémies historiques. Il est aussi le patron des pèlerins et des animaux domestiques.",
+    "action": "- Participer aux processions traditionnelles\n- Découvrir l'histoire des épidémies\n- Soutenir les malades\n- Protéger les animaux"
   },
   "0817": {
     "date": "17 août",
     "name": "Fête de l'indépendance de l'Indonésie",
     "description": "Jour célébrant l'indépendance de l'Indonésie en 1945.",
-    "origin": "Culture indonésienne"
+    "origin": "Culture indonésienne",
+    "full_description": "Cette journée commémore la proclamation de l'indépendance de l'Indonésie en 1945, après des siècles de colonisation néerlandaise et une brève occupation japonaise. Les célébrations incluent des défilés, des jeux traditionnels et des cérémonies patriotiques.",
+    "good_to_know": "L'Indonésie est le plus grand archipel du monde avec plus de 17 000 îles. La devise nationale 'Bhinneka Tunggal Ika' signifie 'L'unité dans la diversité'.",
+    "action": "- Participer aux festivités nationales\n- Découvrir la culture indonésienne\n- Explorer la diversité culturelle\n- Célébrer les traditions locales"
   },
   "0818": {
     "date": "18 août",
     "name": "Journée des anciens combattants (Australie)",
     "description": "Jour honorant les vétérans australiens.",
-    "origin": "Culture australienne"
+    "origin": "Culture australienne",
+    "full_description": "Cette journée commémore la participation des forces australiennes à la guerre du Vietnam et honore tous les vétérans australiens. Elle marque particulièrement la bataille de Long Tan en 1966, où les forces australiennes ont fait preuve d'un grand courage.",
+    "good_to_know": "L'Australie a participé à de nombreux conflits internationaux, de la guerre des Boers à l'Afghanistan. Les ANZAC (Australian and New Zealand Army Corps) sont devenus un symbole national.",
+    "action": "- Participer aux cérémonies commémoratives\n- Soutenir les associations de vétérans\n- Préserver la mémoire historique\n- Promouvoir la paix"
   },
   "0819": {
     "date": "19 août",
     "name": "Journée mondiale de la photographie",
     "description": "Journée célébrant l'art et l'histoire de la photographie.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre l'invention de la photographie et son impact sur notre société. Elle commémore l'annonce du daguerréotype en 1839, première méthode photographique commercialement viable, et met en valeur le rôle de la photographie dans la documentation et l'expression artistique.",
+    "good_to_know": "La première photographie permanente a été créée par Nicéphore Niépce en 1826. Aujourd'hui, plus de 1,8 milliard de photos sont partagées chaque jour sur les réseaux sociaux.",
+    "action": "- Pratiquer la photographie\n- Organiser des expositions\n- Partager ses connaissances\n- Préserver les photos historiques"
   },
   "0820": {
     "date": "20 août",
     "name": "Saint Étienne de Hongrie",
     "description": "Célébration chrétienne honorant Saint Étienne, premier roi de Hongrie.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Étienne, premier roi chrétien de Hongrie qui a unifié le pays et l'a converti au christianisme au début du XIe siècle. C'est la fête nationale hongroise, célébrant la fondation de l'État hongrois.",
+    "good_to_know": "Saint Étienne a reçu sa couronne du pape Sylvestre II en l'an 1000. Cette Sainte Couronne est devenue un symbole national hongrois, représentant la continuité de l'État.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir l'histoire hongroise\n- Explorer les traditions chrétiennes\n- Visiter les sites historiques"
   },
   "0821": {
     "date": "21 août",
     "name": "Ninoy Aquino Day (Philippines)",
     "description": "Jour honorant Ninoy Aquino, héros de la démocratie philippine.",
-    "origin": "Culture philippine"
+    "origin": "Culture philippine",
+    "full_description": "Cette journée commémore l'assassinat de Benigno 'Ninoy' Aquino Jr. en 1983, figure de l'opposition à la dictature de Marcos. Sa mort a catalysé le mouvement pour la démocratie aux Philippines, menant à la Révolution du Pouvoir du Peuple de 1986.",
+    "good_to_know": "Ninoy Aquino était un journaliste devenu sénateur. Sa veuve, Corazon Aquino, est devenue la première femme présidente des Philippines après la chute de Marcos.",
+    "action": "- Honorer la mémoire des héros démocratiques\n- Promouvoir la démocratie\n- Étudier l'histoire philippine\n- Défendre les droits humains"
   },
   "0822": {
     "date": "22 août",
     "name": "Qixi Festival",
     "description": "Fête chinoise célébrant l'amour entre deux étoiles, Niu Lang et Zhi Nu.",
-    "origin": "Culture chinoise"
+    "origin": "Culture chinoise",
+    "full_description": "Aussi connu comme la 'Saint-Valentin chinoise', ce festival célèbre la légende romantique du bouvier Niulang et de la tisserande Zhinu, séparés par la Voie lactée et autorisés à se rencontrer une fois par an sur un pont de pies.",
+    "good_to_know": "Cette fête remonte à plus de 2000 ans et correspond astronomiquement à la rencontre annuelle des étoiles Véga et Altaïr dans le ciel nocturne.",
+    "action": "- Célébrer l'amour romantique\n- Découvrir la culture chinoise\n- Observer les étoiles\n- Partager des histoires traditionnelles"
   },
   "0823": {
     "date": "23 août",
     "name": "Journée européenne du souvenir des victimes du stalinisme et du nazisme",
     "description": "Journée honorant les victimes des régimes totalitaires en Europe.",
-    "origin": "Union européenne"
+    "origin": "Union européenne",
+    "full_description": "Cette journée commémore les victimes de tous les régimes totalitaires et autoritaires. Elle correspond à la date de signature du pacte Molotov-Ribbentrop en 1939, qui a conduit au partage de l'Europe entre l'Allemagne nazie et l'URSS stalinienne.",
+    "good_to_know": "Cette journée a été établie par le Parlement européen en 2009. Elle est aussi connue sous le nom de Journée du Ruban Noir dans les pays baltes.",
+    "action": "- Participer aux commémorations\n- Étudier l'histoire européenne\n- Promouvoir la démocratie\n- Lutter contre le totalitarisme"
   },
   "0824": {
     "date": "24 août",
     "name": "Fête de l'indépendance de l'Ukraine",
     "description": "Jour marquant l'indépendance de l'Ukraine en 1991.",
-    "origin": "Culture ukrainienne"
+    "origin": "Culture ukrainienne",
+    "full_description": "Cette journée célèbre la déclaration d'indépendance de l'Ukraine en 1991, après la dissolution de l'Union soviétique. Elle marque la renaissance de l'État ukrainien moderne et célèbre la culture et l'identité ukrainiennes.",
+    "good_to_know": "L'Ukraine est le plus grand pays entièrement situé en Europe. Sa déclaration d'indépendance a été confirmée par un référendum où 90% des votants ont choisi l'indépendance.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture ukrainienne\n- Soutenir l'indépendance\n- Promouvoir la paix"
   },
   "0825": {
     "date": "25 août",
     "name": "Fête nationale de l'Uruguay",
     "description": "Jour célébrant la déclaration d'indépendance de l'Uruguay en 1825.",
-    "origin": "Culture uruguayenne"
+    "origin": "Culture uruguayenne",
+    "full_description": "Cette journée commémore la déclaration d'indépendance de l'Uruguay vis-à-vis du Brésil en 1825. Les célébrations incluent des défilés, des spectacles culturels et des événements patriotiques qui mettent en valeur l'identité nationale uruguayenne.",
+    "good_to_know": "L'Uruguay est connu comme la 'Suisse de l'Amérique du Sud' pour sa stabilité politique et économique. C'est l'un des pays les plus progressistes d'Amérique latine.",
+    "action": "- Participer aux festivités nationales\n- Découvrir la culture uruguayenne\n- Explorer les traditions locales\n- Célébrer la diversité culturelle"
   },
   "0826": {
     "date": "26 août",
     "name": "Journée mondiale du chien",
     "description": "Journée dédiée aux chiens pour sensibiliser à leur bien-être.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre le lien unique entre l'homme et le chien, tout en sensibilisant au bien-être animal. Elle met en lumière le rôle important des chiens dans nos vies, que ce soit comme animaux de compagnie, chiens de service ou de travail.",
+    "good_to_know": "Les chiens ont été les premiers animaux domestiqués par l'homme il y a environ 15 000 ans. Il existe plus de 300 races de chiens reconnues dans le monde.",
+    "action": "- Adopter un chien\n- Soutenir les refuges animaliers\n- Promouvoir le bien-être animal\n- Éduquer sur les soins canins"
   },
   "0827": {
     "date": "27 août",
     "name": "Festival de la couronne de fleurs (Lettonie)",
     "description": "Fête célébrant les traditions folkloriques et culturelles lettonnes.",
-    "origin": "Culture lettone"
+    "origin": "Culture lettone",
+    "full_description": "Ce festival traditionnel letton célèbre l'art de tresser des couronnes de fleurs, symbole important dans la culture balte. Il est lié aux célébrations de la fin de l'été et met en valeur les traditions folkloriques, la musique et la danse lettones.",
+    "good_to_know": "Les couronnes de fleurs sont un élément central des célébrations traditionnelles lettones, particulièrement pendant le solstice d'été (Jāņi).",
+    "action": "- Apprendre à tresser des couronnes\n- Découvrir le folklore letton\n- Participer aux danses traditionnelles\n- Explorer la culture balte"
   },
   "0828": {
     "date": "28 août",
     "name": "Fête de l'Assomption orthodoxe (variable)",
     "description": "Célébration de la montée de la Vierge Marie dans les Églises orthodoxes.",
-    "origin": "Christianisme orthodoxe"
+    "origin": "Christianisme orthodoxe",
+    "full_description": "Cette fête majeure de l'Église orthodoxe, aussi appelée Dormition de la Mère de Dieu, célèbre le passage de la Vierge Marie de la vie terrestre à la vie céleste. Elle est précédée d'une période de jeûne et marquée par des célébrations solennelles.",
+    "good_to_know": "La date varie selon que l'Église suit le calendrier julien ou grégorien. Cette fête est particulièrement importante dans les pays de tradition orthodoxe.",
+    "action": "- Participer aux liturgies orthodoxes\n- Découvrir les traditions orientales\n- Explorer l'art religieux\n- Étudier la théologie mariale"
   },
   "0829": {
     "date": "29 août",
     "name": "Journée internationale contre les essais nucléaires",
     "description": "Journée promouvant la fin des essais nucléaires.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée sensibilise aux effets des essais nucléaires et à la nécessité de leur interdiction mondiale. Elle commémore la fermeture du site d'essais de Semipalatinsk au Kazakhstan en 1991 et promeut la paix et le désarmement nucléaire.",
+    "good_to_know": "Plus de 2000 essais nucléaires ont été réalisés depuis 1945. Le Traité d'interdiction complète des essais nucléaires n'est toujours pas entré en vigueur.",
+    "action": "- Sensibiliser aux dangers nucléaires\n- Soutenir le désarmement\n- Promouvoir la paix\n- S'informer sur les impacts environnementaux"
   },
   "0830": {
     "date": "30 août",
     "name": "Journée internationale des personnes disparues",
     "description": "Journée sensibilisant aux disparitions forcées et à leurs victimes.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée attire l'attention sur le sort des personnes disparues suite à des conflits armés, des violations des droits humains ou des catastrophes. Elle soutient les familles dans leur quête de vérité et de justice.",
+    "good_to_know": "Des milliers de personnes disparaissent chaque année dans le monde. Le droit international humanitaire oblige les États à prévenir les disparitions et à élucider le sort des disparus.",
+    "action": "- Soutenir les familles des disparus\n- Promouvoir les droits humains\n- Sensibiliser à la problématique\n- Soutenir les organisations de recherche"
   },
   "0831": {
     "date": "31 août",
     "name": "Fête nationale de la Malaisie",
     "description": "Jour marquant l'indépendance de la Malaisie en 1957.",
-    "origin": "Culture malaisienne"
+    "origin": "Culture malaisienne",
+    "full_description": "Cette journée commémore l'indépendance de la Malaisie (alors Malaya) vis-à-vis du Royaume-Uni en 1957. Les célébrations incluent des défilés, des spectacles culturels et des manifestations patriotiques qui reflètent la diversité culturelle du pays.",
+    "good_to_know": "La Malaisie est connue pour sa diversité ethnique et culturelle, regroupant des populations malaises, chinoises et indiennes. Sa devise 'L'unité est la force' reflète cette diversité.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture malaisienne\n- Promouvoir l'harmonie interethnique\n- Explorer les traditions locales"
   },
   "0901": {
     "date": "1er septembre",
     "name": "Journée internationale de la paix",
     "description": "Journée consacrée à la promotion de la paix dans le monde.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée vise à promouvoir les idéaux de paix et à encourager la résolution pacifique des conflits. Elle invite les nations et les peuples à cesser les hostilités et à œuvrer pour un monde plus pacifique.",
+    "good_to_know": "La première Journée internationale de la paix a été célébrée en 1981. Elle est marquée par la sonnerie de la Cloche de la paix au siège de l'ONU.",
+    "action": "- Participer aux événements pour la paix\n- Promouvoir le dialogue\n- Soutenir les initiatives pacifiques\n- Sensibiliser aux conflits"
   },
   "0902": {
     "date": "2 septembre",
     "name": "Journée internationale de l'aide humanitaire",
     "description": "Journée honorant les travailleurs humanitaires et leur rôle vital dans les crises.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée rend hommage aux travailleurs humanitaires qui risquent leur vie pour aider les autres. Elle met en lumière les défis auxquels ils font face et l'importance de l'aide humanitaire dans les situations de crise.",
+    "good_to_know": "Chaque année, des dizaines de travailleurs humanitaires perdent la vie en mission. L'aide humanitaire représente des milliards de dollars et aide des millions de personnes.",
+    "action": "- Soutenir les ONG humanitaires\n- Sensibiliser aux crises\n- Faire des dons\n- S'engager comme bénévole"
   },
   "0903": {
     "date": "3 septembre",
     "name": "Fête du Travail (Espagne et d'autres pays)",
     "description": "Jour célébrant les travailleurs et leurs droits.",
-    "origin": "Culture espagnole"
+    "origin": "Culture espagnole",
+    "full_description": "Cette journée honore les contributions des travailleurs au développement social et économique. Elle met en avant les droits des travailleurs et l'importance des conditions de travail équitables.",
+    "good_to_know": "La date de la Fête du Travail varie selon les pays. En Espagne et dans certains autres pays, elle est célébrée le 3 septembre plutôt que le 1er mai.",
+    "action": "- Participer aux manifestations\n- Soutenir les droits des travailleurs\n- Promouvoir le travail décent\n- Célébrer les acquis sociaux"
   },
   "0904": {
     "date": "4 septembre",
     "name": "Fête nationale de la Slovénie",
     "description": "Jour célébrant l'indépendance de la Slovénie en 1991.",
-    "origin": "Culture slovène"
+    "origin": "Culture slovène",
+    "full_description": "Cette journée commémore l'indépendance de la Slovénie suite à la dissolution de la Yougoslavie. Elle célèbre l'identité nationale slovène et les réalisations du pays depuis son indépendance.",
+    "good_to_know": "La Slovénie a été la première république à quitter la Yougoslavie et est devenue membre de l'Union européenne en 2004.",
+    "action": "- Participer aux festivités nationales\n- Découvrir la culture slovène\n- Explorer l'histoire du pays\n- Célébrer les traditions locales"
   },
   "0905": {
     "date": "5 septembre",
     "name": "Journée internationale de la charité",
     "description": "Journée sensibilisant aux œuvres de charité et à l'aide humanitaire.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut la charité, la générosité et l'entraide comme moyens de lutter contre la pauvreté et de créer des sociétés plus inclusives. Elle encourage les dons et le bénévolat.",
+    "good_to_know": "Cette date a été choisie en hommage à Mère Teresa, décédée le 5 septembre 1997, qui incarnait l'esprit de charité.",
+    "action": "- Faire des dons caritatifs\n- S'engager comme bénévole\n- Soutenir les associations\n- Promouvoir la solidarité"
   },
   "0906": {
     "date": "6 septembre",
     "name": "Journée internationale de la solidarité humaine",
     "description": "Journée promouvant la solidarité et le soutien mutuel à travers le monde.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met l'accent sur l'importance de la solidarité internationale pour atteindre les objectifs de développement durable. Elle encourage la coopération et l'entraide entre les peuples.",
+    "good_to_know": "La solidarité est considérée comme une valeur fondamentale dans les relations internationales et est inscrite dans la Charte des Nations Unies.",
+    "action": "- Participer à des projets solidaires\n- Soutenir les causes internationales\n- Promouvoir la coopération\n- Sensibiliser aux inégalités"
   },
   "0907": {
     "date": "7 septembre",
     "name": "Fête de l'indépendance du Brésil",
     "description": "Jour célébrant l'indépendance du Brésil vis-à-vis du Portugal en 1822.",
-    "origin": "Culture brésilienne"
+    "origin": "Culture brésilienne",
+    "full_description": "Cette journée commémore la déclaration d'indépendance du Brésil par Dom Pedro Ier. Les célébrations incluent des défilés militaires, des festivals et des manifestations culturelles dans tout le pays.",
+    "good_to_know": "Le Brésil est le seul pays d'Amérique du Sud à avoir eu un empereur après son indépendance. L'Empire du Brésil a duré jusqu'en 1889.",
+    "action": "- Participer aux festivités\n- Découvrir la culture brésilienne\n- Explorer l'histoire coloniale\n- Célébrer les traditions"
   },
   "0908": {
     "date": "8 septembre",
     "name": "Journée internationale de l'alphabétisation",
     "description": "Journée mettant l'accent sur l'importance de l'éducation et de l'alphabétisation.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée souligne l'importance de l'alphabétisation comme droit humain fondamental et base de l'apprentissage tout au long de la vie. Elle promeut l'accès universel à l'éducation.",
+    "good_to_know": "Environ 773 millions d'adultes dans le monde sont analphabètes, dont deux tiers sont des femmes.",
+    "action": "- Soutenir les programmes d'alphabétisation\n- Promouvoir l'éducation\n- Participer à des projets éducatifs\n- Sensibiliser à l'illettrisme"
   },
   "0909": {
     "date": "9 septembre",
     "name": "Journée de l'Antiquité",
     "description": "Journée célébrant les découvertes archéologiques et le patrimoine de l'Antiquité.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée met en valeur l'héritage des civilisations antiques et l'importance de la préservation du patrimoine archéologique. Elle promeut la découverte et l'étude des vestiges anciens.",
+    "good_to_know": "L'archéologie moderne combine technologies avancées et méthodes traditionnelles pour étudier le passé. De nouvelles découvertes sont faites chaque année.",
+    "action": "- Visiter des sites archéologiques\n- Soutenir la préservation\n- Étudier l'histoire antique\n- Participer à des fouilles"
   },
   "0910": {
     "date": "10 septembre",
     "name": "Journée mondiale de la prévention du suicide",
     "description": "Journée sensibilisant à la prévention du suicide et au bien-être mental.",
-    "origin": "OMS/Société civile"
+    "origin": "OMS/Société civile",
+    "full_description": "Cette journée vise à sensibiliser au suicide comme problème majeur de santé publique et à promouvoir des actions de prévention. Elle encourage le dialogue sur la santé mentale et le soutien aux personnes en détresse.",
+    "good_to_know": "Près de 800 000 personnes meurent par suicide chaque année. Pour chaque suicide, il y a beaucoup plus de tentatives.",
+    "action": "- Sensibiliser à la prévention\n- Soutenir les personnes en détresse\n- Promouvoir la santé mentale\n- Partager les ressources d'aide"
   },
   "0911": {
     "date": "11 septembre",
     "name": "Patriot Day (États-Unis)",
     "description": "Jour commémorant les victimes des attaques terroristes du 11 septembre 2001.",
-    "origin": "Culture américaine"
+    "origin": "Culture américaine",
+    "full_description": "Cette journée honore la mémoire des victimes des attentats du 11 septembre 2001 et célèbre l'héroïsme des premiers intervenants. Elle est marquée par des cérémonies solennelles et des moments de recueillement.",
+    "good_to_know": "Près de 3000 personnes ont perdu la vie lors des attentats. Le Mémorial du 11-Septembre à New York reçoit des millions de visiteurs chaque année.",
+    "action": "- Participer aux commémorations\n- Honorer les victimes\n- Promouvoir la paix\n- Soutenir les familles touchées"
   },
   "0912": {
     "date": "12 septembre",
     "name": "Journée internationale de la démocratie",
     "description": "Journée favorisant la promotion de la démocratie et des droits de l'homme.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut et défend les principes de la démocratie. Elle encourage la participation citoyenne et souligne l'importance des institutions démocratiques pour le développement durable.",
+    "good_to_know": "La démocratie est présente dans une majorité de pays, mais reste fragile dans de nombreuses régions du monde.",
+    "action": "- Promouvoir la participation civique\n- Défendre les droits humains\n- Soutenir les institutions démocratiques\n- Sensibiliser aux enjeux"
   },
   "0913": {
     "date": "13 septembre",
     "name": "Fête de Saint Jean Chrysostome",
     "description": "Célébration chrétienne honorant Saint Jean Chrysostome, théologien et évêque.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Jean Chrysostome, l'un des plus grands Pères de l'Église, connu pour son éloquence et ses enseignements. Il est considéré comme un modèle de prédication et de défense des pauvres.",
+    "good_to_know": "Le surnom 'Chrysostome' signifie 'Bouche d'or' en grec, faisant référence à son talent d'orateur.",
+    "action": "- Participer aux célébrations religieuses\n- Étudier ses enseignements\n- Découvrir l'histoire de l'Église\n- Pratiquer la charité"
   },
   "0914": {
     "date": "14 septembre",
     "name": "Journée mondiale du soin palliatif",
     "description": "Journée de sensibilisation aux soins palliatifs et à la dignité des patients en fin de vie.",
-    "origin": "OMS/Société civile"
+    "origin": "OMS/Société civile",
+    "full_description": "Cette journée met en lumière l'importance des soins palliatifs pour améliorer la qualité de vie des patients en phase terminale. Elle promeut l'accès aux soins palliatifs comme droit humain fondamental.",
+    "good_to_know": "Seulement 14% des personnes nécessitant des soins palliatifs les reçoivent actuellement dans le monde.",
+    "action": "- Soutenir les unités de soins palliatifs\n- Sensibiliser au sujet\n- Former les soignants\n- Promouvoir la dignité"
   },
   "0915": {
     "date": "15 septembre",
     "name": "Fête nationale du Costa Rica",
     "description": "Jour célébrant l'indépendance du Costa Rica en 1821.",
-    "origin": "Culture costaricaine"
+    "origin": "Culture costaricaine",
+    "full_description": "Cette journée commémore l'indépendance du Costa Rica de l'Empire espagnol. Les célébrations incluent des défilés, des danses traditionnelles et des manifestations patriotiques.",
+    "good_to_know": "Le Costa Rica est connu pour avoir aboli son armée en 1948, consacrant ces ressources à l'éducation et à la santé.",
+    "action": "- Participer aux festivités\n- Découvrir la culture costaricaine\n- Explorer l'histoire nationale\n- Célébrer les traditions"
   },
   "0916": {
     "date": "16 septembre",
     "name": "Journée mondiale de la protection de la couche d'ozone",
     "description": "Journée sensibilisant à la préservation de la couche d'ozone et à la lutte contre la pollution.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée célèbre les succès du Protocole de Montréal dans la protection de la couche d'ozone et sensibilise aux menaces persistantes. Elle promeut les actions pour préserver cette barrière naturelle essentielle.",
+    "good_to_know": "Le trou dans la couche d'ozone a commencé à se réduire grâce aux efforts internationaux, montrant qu'une action mondiale coordonnée peut résoudre des problèmes environnementaux.",
+    "action": "- Réduire l'usage de produits nocifs\n- Sensibiliser à l'environnement\n- Soutenir les initiatives vertes\n- Promouvoir les alternatives écologiques"
   },
   "0917": {
     "date": "17 septembre",
     "name": "Fête de l'indépendance de la Chine (Taiwan)",
     "description": "Jour célébrant la fondation de la République de Chine à Taiwan en 1911.",
-    "origin": "Culture taïwanaise"
+    "origin": "Culture taïwanaise",
+    "full_description": "Cette journée commémore la Révolution de Xinhai qui a conduit à la création de la République de Chine. À Taiwan, elle est l'occasion de célébrer l'histoire et l'identité nationale.",
+    "good_to_know": "Taiwan maintient une démocratie dynamique et une économie prospère, tout en préservant son héritage culturel chinois unique.",
+    "action": "- Participer aux célébrations\n- Découvrir l'histoire de Taiwan\n- Explorer la culture chinoise\n- Soutenir la démocratie"
   },
   "0918": {
     "date": "18 septembre",
     "name": "Fête nationale du Chili",
     "description": "Jour célébrant l'indépendance du Chili en 1810.",
-    "origin": "Culture chilienne"
+    "origin": "Culture chilienne",
+    "full_description": "Cette journée commémore la première assemblée nationale du Chili qui a marqué le début du processus d'indépendance de l'Espagne. Les célébrations incluent des parades militaires, des danses traditionnelles comme la cueca, et des festivités populaires.",
+    "good_to_know": "Le Chili n'a obtenu son indépendance complète qu'en 1818, après une longue guerre. Les célébrations du 18 septembre, appelées 'Fiestas Patrias', sont les plus importantes fêtes nationales du pays.",
+    "action": "- Participer aux festivités traditionnelles\n- Découvrir la culture chilienne\n- Déguster la cuisine locale\n- Célébrer les traditions nationales"
   },
   "0919": {
     "date": "19 septembre",
     "name": "Journée internationale de la paix des femmes",
     "description": "Journée mettant en lumière les contributions des femmes à la paix et à la sécurité.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée souligne le rôle crucial des femmes dans la prévention et la résolution des conflits, ainsi que dans la construction et le maintien de la paix. Elle promeut la participation égale des femmes dans les processus de paix.",
+    "good_to_know": "La résolution 1325 du Conseil de sécurité de l'ONU reconnaît l'importance de la participation des femmes dans les processus de paix et de sécurité.",
+    "action": "- Soutenir les organisations de femmes pour la paix\n- Promouvoir l'égalité des genres\n- Participer aux initiatives de paix\n- Sensibiliser aux droits des femmes"
   },
   "0920": {
     "date": "20 septembre",
     "name": "Journée mondiale des réfugiés",
     "description": "Journée honorant les réfugiés et leurs luttes pour la survie et la dignité.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière la situation des millions de réfugiés dans le monde et promeut la solidarité internationale. Elle sensibilise aux défis auxquels font face les personnes déplacées et encourage le soutien humanitaire.",
+    "good_to_know": "Plus de 80 millions de personnes sont déplacées de force dans le monde. Les réfugiés font face à de nombreux défis, notamment l'accès à l'éducation, aux soins et à l'emploi.",
+    "action": "- Soutenir les organisations d'aide aux réfugiés\n- Sensibiliser aux droits des réfugiés\n- Promouvoir l'inclusion sociale\n- Faire des dons humanitaires"
   },
   "0921": {
     "date": "21 septembre",
     "name": "Journée internationale de la paix",
     "description": "Journée mondiale dédiée à la paix et à la résolution des conflits.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut les idéaux de paix entre toutes les nations et tous les peuples. Elle encourage la cessation des hostilités et met l'accent sur l'importance du dialogue et de la coopération internationale.",
+    "good_to_know": "Établie en 1981 par l'ONU, cette journée commence traditionnellement par la sonnerie de la Cloche de la Paix au siège de l'ONU à New York.",
+    "action": "- Participer aux événements pour la paix\n- Promouvoir le dialogue interculturel\n- Soutenir les initiatives de paix\n- Pratiquer la non-violence"
   },
   "0922": {
     "date": "22 septembre",
     "name": "Fête de l'indépendance de la Bulgarie",
     "description": "Jour célébrant l'indépendance de la Bulgarie en 1908.",
-    "origin": "Culture bulgare"
+    "origin": "Culture bulgare",
+    "full_description": "Cette journée commémore la déclaration d'indépendance de la Bulgarie vis-à-vis de l'Empire ottoman. Les célébrations incluent des défilés militaires, des spectacles culturels et des manifestations patriotiques.",
+    "good_to_know": "La Bulgarie était auparavant une principauté autonome sous suzeraineté ottomane avant de déclarer son indépendance complète en 1908.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture bulgare\n- Explorer l'histoire balkanique\n- Célébrer les traditions locales"
   },
   "0923": {
     "date": "23 septembre",
     "name": "Journée mondiale des lèvres",
     "description": "Journée promouvant les soins et la protection des lèvres.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée sensibilise à l'importance des soins des lèvres et à leur protection contre les agressions extérieures. Elle promeut les bonnes pratiques d'hygiène et de soin pour maintenir des lèvres saines.",
+    "good_to_know": "Les lèvres sont particulièrement sensibles aux conditions environnementales car leur peau est très fine et ne contient pas de glandes sébacées.",
+    "action": "- Adopter une routine de soin des lèvres\n- Utiliser une protection solaire\n- S'hydrater régulièrement\n- Éviter les produits irritants"
   },
   "0924": {
     "date": "24 septembre",
     "name": "Fête de l'indépendance de la Guinée",
     "description": "Jour célébrant l'indépendance de la Guinée en 1958.",
-    "origin": "Culture guinéenne"
+    "origin": "Culture guinéenne",
+    "full_description": "Cette journée commémore l'indépendance de la Guinée de la France, premier pays d'Afrique francophone à obtenir son indépendance. Les célébrations incluent des défilés, des festivals culturels et des manifestations patriotiques.",
+    "good_to_know": "La Guinée a obtenu son indépendance suite au référendum de 1958, sous la direction de Sékou Touré, devenant ainsi la première colonie française d'Afrique à accéder à l'indépendance.",
+    "action": "- Participer aux célébrations nationales\n- Découvrir la culture guinéenne\n- Explorer l'histoire africaine\n- Célébrer les traditions locales"
   },
   "0925": {
     "date": "25 septembre",
     "name": "Journée mondiale du pharmacien",
     "description": "Journée honorant le rôle des pharmaciens dans la santé publique.",
-    "origin": "OMS/Société civile"
+    "origin": "OMS/Société civile",
+    "full_description": "Cette journée met en valeur le rôle essentiel des pharmaciens dans les systèmes de santé. Elle souligne leur contribution à la santé publique, au conseil médical et à la sécurité des médicaments.",
+    "good_to_know": "Les pharmaciens sont souvent le premier point de contact dans le système de santé et jouent un rôle crucial dans la promotion de la santé et la prévention des maladies.",
+    "action": "- Remercier son pharmacien\n- S'informer sur le bon usage des médicaments\n- Promouvoir la santé publique\n- Soutenir les services pharmaceutiques"
   },
   "0926": {
     "date": "26 septembre",
     "name": "Journée européenne des langues",
     "description": "Journée promouvant la diversité linguistique et l'apprentissage des langues en Europe.",
-    "origin": "Union européenne"
+    "origin": "Union européenne",
+    "full_description": "Cette journée célèbre la diversité linguistique de l'Europe et encourage l'apprentissage des langues tout au long de la vie. Elle promeut le multilinguisme et la compréhension interculturelle.",
+    "good_to_know": "L'Europe compte plus de 200 langues européennes et de nombreuses langues non européennes parlées par les communautés immigrées.",
+    "action": "- Apprendre une nouvelle langue\n- Participer aux événements culturels\n- Découvrir la diversité linguistique\n- Promouvoir les échanges culturels"
   },
   "0927": {
     "date": "27 septembre",
     "name": "Journée mondiale du tourisme",
     "description": "Journée sensibilisant à l'importance du tourisme et de son impact sur les sociétés.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière l'importance sociale, culturelle, politique et économique du tourisme. Elle promeut le tourisme durable et responsable comme vecteur de développement.",
+    "good_to_know": "Le tourisme représente environ 10% du PIB mondial et emploie une personne sur dix dans le monde.",
+    "action": "- Pratiquer le tourisme responsable\n- Découvrir les cultures locales\n- Soutenir l'économie locale\n- Respecter l'environnement"
   },
   "0928": {
     "date": "28 septembre",
     "name": "Journée mondiale de la recherche sur les maladies rares",
     "description": "Journée promouvant la recherche et la prise en charge des maladies rares.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée sensibilise aux défis de la recherche sur les maladies rares et à l'importance du soutien aux patients. Elle promeut la collaboration internationale dans la recherche médicale.",
+    "good_to_know": "Une maladie est considérée comme rare lorsqu'elle touche moins d'une personne sur 2000. Il existe plus de 6000 maladies rares identifiées.",
+    "action": "- Soutenir la recherche médicale\n- Sensibiliser aux maladies rares\n- Aider les associations de patients\n- Promouvoir l'accès aux soins"
   },
   "0929": {
     "date": "29 septembre",
     "name": "Journée mondiale du cœur",
     "description": "Journée de sensibilisation à la santé cardiaque et à la prévention des maladies cardiaques.",
-    "origin": "OMS/Société civile"
+    "origin": "OMS/Société civile",
+    "full_description": "Cette journée sensibilise aux maladies cardiovasculaires, première cause de décès dans le monde. Elle promeut les modes de vie sains et la prévention des facteurs de risque.",
+    "good_to_know": "Les maladies cardiovasculaires causent 17,9 millions de décès par an. La plupart peuvent être prévenues par un mode de vie sain.",
+    "action": "- Adopter une alimentation saine\n- Pratiquer une activité physique\n- Arrêter de fumer\n- Contrôler sa tension artérielle"
   },
   "0930": {
     "date": "30 septembre",
     "name": "Journée internationale de la traduction",
     "description": "Journée honorant les traducteurs et leur rôle dans la communication interculturelle.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée célèbre le travail des traducteurs et interprètes qui facilitent le dialogue entre les cultures. Elle souligne l'importance de la traduction dans la promotion de la paix et de la compréhension mutuelle.",
+    "good_to_know": "La date du 30 septembre est choisie en l'honneur de Saint Jérôme, traducteur de la Bible en latin et patron des traducteurs.",
+    "action": "- Valoriser le travail des traducteurs\n- Apprendre une langue étrangère\n- Promouvoir la diversité culturelle\n- Soutenir la traduction littéraire"
   },
   "1001": {
     "date": "1er octobre",
     "name": "Journée internationale des personnes âgées",
     "description": "Journée sensibilisant aux droits et à la dignité des personnes âgées.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière les contributions des personnes âgées à la société et promeut leur inclusion sociale. Elle sensibilise aux défis du vieillissement et à l'importance du respect intergénérationnel.",
+    "good_to_know": "D'ici 2050, une personne sur six dans le monde aura plus de 65 ans, contre une sur onze en 2019.",
+    "action": "- Rendre visite aux aînés\n- Promouvoir le vieillissement actif\n- Lutter contre l'âgisme\n- Soutenir les services aux seniors"
   },
   "1002": {
     "date": "2 octobre",
     "name": "Journée internationale de la non-violence",
     "description": "Journée dédiée à la promotion de la non-violence et à la résolution pacifique des conflits.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée, célébrée le jour de l'anniversaire de Mahatma Gandhi, promeut le message de non-violence et de paix. Elle encourage la résolution pacifique des conflits et le respect mutuel.",
+    "good_to_know": "Gandhi a développé la philosophie de la non-violence (ahimsa) comme moyen de changement social pacifique.",
+    "action": "- Pratiquer la non-violence\n- Résoudre les conflits pacifiquement\n- Promouvoir la tolérance\n- Étudier les enseignements de Gandhi"
   },
   "1003": {
     "date": "3 octobre",
     "name": "Fête de l'Unité allemande",
     "description": "Jour célébrant la réunification de l'Allemagne en 1990.",
-    "origin": "Culture allemande"
+    "origin": "Culture allemande",
+    "full_description": "Cette journée commémore la réunification de l'Allemagne après la chute du Mur de Berlin. Elle célèbre l'unité nationale et la fin de la division Est-Ouest du pays.",
+    "good_to_know": "La réunification allemande est considérée comme un symbole majeur de la fin de la Guerre froide en Europe.",
+    "action": "- Participer aux célébrations\n- Découvrir l'histoire allemande\n- Visiter les sites historiques\n- Promouvoir l'unité européenne"
   },
   "1004": {
     "date": "4 octobre",
     "name": "Journée mondiale des animaux",
     "description": "Journée visant à sensibiliser à la protection des animaux et à leur bien-être.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut le respect et la protection des animaux, qu'ils soient domestiques ou sauvages. Elle sensibilise aux droits des animaux et à l'importance de la biodiversité.",
+    "good_to_know": "La date du 4 octobre est choisie car c'est la fête de Saint François d'Assise, patron des animaux et de l'environnement.",
+    "action": "- Soutenir les refuges animaliers\n- Adopter un animal\n- Protéger la biodiversité\n- Promouvoir le bien-être animal"
   },
   "1005": {
     "date": "5 octobre",
     "name": "Journée mondiale des enseignants",
     "description": "Journée honorant le travail des enseignants et leur rôle dans la société.",
-    "origin": "UNESCO/Société civile"
+    "origin": "UNESCO/Société civile",
+    "full_description": "Cette journée reconnaît le rôle crucial des enseignants dans l'éducation et le développement des sociétés. Elle met en valeur leur contribution à la formation des générations futures.",
+    "good_to_know": "Cette journée commémore l'adoption de la Recommandation OIT/UNESCO de 1966 concernant la condition du personnel enseignant.",
+    "action": "- Remercier les enseignants\n- Soutenir l'éducation\n- Valoriser la profession\n- Promouvoir la formation continue"
   },
   "1006": {
     "date": "6 octobre",
     "name": "Fête de Saint Bruno",
     "description": "Célébration chrétienne honorant Saint Bruno, fondateur de l'ordre des Chartreux.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Bruno, fondateur de l'ordre monastique des Chartreux, connu pour sa vie contemplative et son renoncement au monde. Elle célèbre la spiritualité cartusienne et la vie monastique.",
+    "good_to_know": "L'ordre des Chartreux, fondé en 1084, est l'un des ordres religieux les plus stricts, pratiquant une vie de silence et de contemplation.",
+    "action": "- Découvrir la spiritualité cartusienne\n- Visiter une chartreuse\n- Étudier l'histoire monastique\n- Pratiquer le silence"
   },
   "1007": {
     "date": "7 octobre",
     "name": "Journée mondiale du tourisme",
     "description": "Journée célébrant le tourisme et l'importance des échanges interculturels.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut le tourisme durable et responsable comme moyen de développement économique et culturel. Elle encourage les échanges interculturels et la préservation du patrimoine.",
+    "good_to_know": "Le tourisme est l'un des secteurs économiques les plus importants au monde, représentant 10% du PIB mondial avant la pandémie de COVID-19.",
+    "action": "- Voyager de manière responsable\n- Respecter les cultures locales\n- Soutenir le tourisme durable\n- Préserver le patrimoine"
   },
   "1008": {
     "date": "8 octobre",
     "name": "Fête de la Déesse Durga",
     "description": "Fête hindoue honorant la déesse Durga, symbole de la victoire du bien sur le mal.",
-    "origin": "Hindouisme"
+    "origin": "Hindouisme",
+    "full_description": "Cette fête majeure de l'hindouisme célèbre la victoire de la déesse Durga sur le démon Mahishasura. Elle symbolise le triomphe du bien sur le mal et est marquée par des rituels et célébrations élaborés.",
+    "good_to_know": "Durga Puja est l'une des plus grandes fêtes hindoues, particulièrement importante au Bengale et dans l'est de l'Inde.",
+    "action": "- Participer aux célébrations\n- Découvrir la culture hindoue\n- Étudier la mythologie\n- Pratiquer la méditation"
   },
   "1009": {
     "date": "9 octobre",
     "name": "Journée mondiale du courrier",
     "description": "Journée consacrée à l'importance des services postaux et à leur rôle dans la communication.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre le rôle essentiel des services postaux dans la communication mondiale. Elle met en valeur leur contribution au développement social et économique des sociétés.",
+    "good_to_know": "Malgré l'avènement du numérique, les services postaux restent cruciaux pour la livraison de colis et la communication officielle.",
+    "action": "- Envoyer une lettre manuscrite\n- Remercier les postiers\n- Collectionner les timbres\n- Soutenir les services postaux"
   },
   "1010": {
     "date": "10 octobre",
     "name": "Journée mondiale de la santé mentale",
     "description": "Journée de sensibilisation aux troubles mentaux et à leur prise en charge.",
-    "origin": "OMS/Société civile"
+    "origin": "OMS/Société civile",
+    "full_description": "Cette journée vise à sensibiliser le public aux enjeux de la santé mentale et à réduire la stigmatisation liée aux troubles mentaux. Elle encourage le dialogue ouvert sur la santé mentale et promeut l'accès aux soins.",
+    "good_to_know": "Une personne sur quatre sera touchée par un trouble mental au cours de sa vie. La pandémie de COVID-19 a significativement impacté la santé mentale mondiale.",
+    "action": "- Parler ouvertement de santé mentale\n- Soutenir les personnes en difficulté\n- S'informer sur les ressources disponibles\n- Prendre soin de son bien-être mental"
   },
   "1011": {
     "date": "11 octobre",
     "name": "Journée internationale de la fille",
     "description": "Journée visant à promouvoir les droits et l'égalité des filles à travers le monde.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière les défis spécifiques auxquels font face les filles dans le monde et promeut leur autonomisation. Elle vise à éliminer les discriminations basées sur le genre et à garantir l'accès à l'éducation.",
+    "good_to_know": "Dans le monde, 129 millions de filles ne sont pas scolarisées et une fille sur cinq est mariée avant l'âge de 18 ans.",
+    "action": "- Soutenir l'éducation des filles\n- Lutter contre les discriminations\n- Promouvoir l'égalité des genres\n- Encourager le leadership féminin"
   },
   "1012": {
     "date": "12 octobre",
     "name": "Journée mondiale des vagues",
     "description": "Journée célébrant l'océan et la préservation des environnements marins.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre la beauté et l'importance des océans, tout en sensibilisant à leur préservation. Elle met l'accent sur la protection des écosystèmes marins et la lutte contre la pollution des océans.",
+    "good_to_know": "Les vagues jouent un rôle crucial dans l'écosystème marin et le climat mondial. Elles transportent la chaleur, l'oxygène et les nutriments essentiels à la vie marine.",
+    "action": "- Participer au nettoyage des plages\n- Réduire sa consommation de plastique\n- Soutenir les associations de protection marine\n- Sensibiliser à la pollution des océans"
   },
   "1013": {
     "date": "13 octobre",
     "name": "Journée internationale de la réduction des risques de catastrophes",
     "description": "Journée sensibilisant aux stratégies de prévention des catastrophes naturelles.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut une culture mondiale de la réduction des risques de catastrophes. Elle encourage les communautés et les gouvernements à mettre en place des mesures préventives et à renforcer leur résilience.",
+    "good_to_know": "Les catastrophes naturelles causent en moyenne 60 000 morts par an et affectent plus de 200 millions de personnes. Le changement climatique augmente leur fréquence et leur intensité.",
+    "action": "- S'informer sur les risques locaux\n- Préparer un plan d'urgence\n- Participer aux exercices de simulation\n- Soutenir les actions de prévention"
   },
   "1014": {
     "date": "14 octobre",
     "name": "Fête de Saint Callixte",
     "description": "Célébration chrétienne en l'honneur de Saint Callixte Ier, pape et martyr.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Callixte Ier, pape du IIIe siècle qui fut d'abord esclave avant de devenir le 16e pape de l'Église catholique. Il est connu pour avoir développé les catacombes de Rome et défendu la doctrine de la miséricorde.",
+    "good_to_know": "Les catacombes de Saint Callixte sont parmi les plus importantes de Rome, abritant les tombes de plusieurs papes et martyrs des premiers siècles du christianisme.",
+    "action": "- Découvrir l'histoire des premiers chrétiens\n- Visiter les catacombes\n- Étudier l'histoire de l'Église\n- Pratiquer la miséricorde"
   },
   "1015": {
     "date": "15 octobre",
     "name": "Journée internationale des femmes rurales",
     "description": "Journée célébrant les femmes rurales et leur contribution à l'agriculture et au développement.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée reconnaît le rôle crucial des femmes rurales dans le développement agricole, la sécurité alimentaire et l'économie rurale. Elle met en lumière leurs défis et promeut leur autonomisation.",
+    "good_to_know": "Les femmes rurales représentent plus d'un quart de la population mondiale et produisent la majorité de la nourriture dans les pays en développement.",
+    "action": "- Soutenir l'agriculture locale\n- Promouvoir l'égalité des genres\n- Valoriser le travail agricole\n- Défendre les droits des femmes rurales"
   },
   "1016": {
     "date": "16 octobre",
     "name": "Journée mondiale de l'alimentation",
     "description": "Journée sensibilisant à la faim dans le monde et à la sécurité alimentaire.",
-    "origin": "FAO/Société civile"
+    "origin": "FAO/Société civile",
+    "full_description": "Cette journée promeut la sensibilisation mondiale aux problèmes de la faim et de la malnutrition. Elle encourage les actions pour assurer la sécurité alimentaire et une nutrition adéquate pour tous.",
+    "good_to_know": "Plus de 820 millions de personnes souffrent de la faim dans le monde, alors qu'un tiers de la nourriture produite est gaspillée.",
+    "action": "- Réduire le gaspillage alimentaire\n- Soutenir les banques alimentaires\n- Promouvoir l'agriculture durable\n- Sensibiliser à la malnutrition"
   },
   "1017": {
     "date": "17 octobre",
     "name": "Journée internationale pour l'élimination de la pauvreté",
     "description": "Journée dédiée à la lutte contre la pauvreté dans le monde.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée mobilise pour l'élimination de la pauvreté et sensibilise aux inégalités mondiales. Elle promeut des solutions durables pour réduire la pauvreté et assurer une vie digne pour tous.",
+    "good_to_know": "Près de 700 millions de personnes vivent dans l'extrême pauvreté, avec moins de 1,90 dollar par jour. La pandémie de COVID-19 a aggravé la situation.",
+    "action": "- Soutenir les organisations caritatives\n- Promouvoir l'inclusion sociale\n- Lutter contre les inégalités\n- Sensibiliser à la pauvreté"
   },
   "1018": {
     "date": "18 octobre",
     "name": "Fête de la Saint-Luc",
     "description": "Célébration chrétienne honorant Saint Luc, l'évangéliste et patron des médecins.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Luc, auteur du troisième évangile et des Actes des Apôtres. Médecin de profession, il est le saint patron des médecins, des artistes et des bouchers.",
+    "good_to_know": "Saint Luc est le seul évangéliste à avoir rapporté en détail l'enfance de Jésus et est connu pour sa précision historique. La tradition le décrit aussi comme peintre.",
+    "action": "- Découvrir l'évangile de Luc\n- Honorer les professions médicales\n- Étudier l'art religieux\n- Pratiquer la compassion"
   },
   "1019": {
     "date": "19 octobre",
     "name": "Journée mondiale du pain",
     "description": "Journée célébrant l'importance du pain et de l'alimentation dans les cultures du monde.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre l'aliment le plus consommé au monde et son importance culturelle. Elle met en valeur le savoir-faire des boulangers et l'importance du pain dans l'alimentation mondiale.",
+    "good_to_know": "Le pain est présent dans presque toutes les cultures du monde sous différentes formes. C'est l'un des plus anciens aliments transformés, datant d'environ 30 000 ans.",
+    "action": "- Apprendre à faire du pain\n- Découvrir les traditions boulangères\n- Soutenir les artisans locaux\n- Partager des recettes traditionnelles"
   },
   "1020": {
     "date": "20 octobre",
     "name": "Fête des Morts (Mexique)",
     "description": "Jour marquant les premières célébrations de la fête des morts, honorant les défunts.",
-    "origin": "Culture mexicaine"
+    "origin": "Culture mexicaine",
+    "full_description": "Cette célébration traditionnelle mexicaine honore la mémoire des défunts à travers des offrandes, des autels décorés et des célébrations festives. Elle mélange traditions préhispaniques et catholiques.",
+    "good_to_know": "Le Día de los Muertos est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2008. Les célébrations incluent des offrandes de nourriture, des fleurs de souci et des crânes en sucre.",
+    "action": "- Créer un autel traditionnel\n- Découvrir la culture mexicaine\n- Participer aux célébrations\n- Honorer la mémoire des défunts"
   },
   "1021": {
     "date": "21 octobre",
     "name": "Journée mondiale de l'optimisme",
     "description": "Journée visant à promouvoir une attitude positive et optimiste face aux défis de la vie.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée encourage une approche positive de la vie et promeut les bienfaits de l'optimisme sur la santé mentale et physique. Elle invite à cultiver une vision constructive face aux défis quotidiens.",
+    "good_to_know": "Les études montrent que l'optimisme peut augmenter l'espérance de vie et améliorer la résilience face aux difficultés.",
+    "action": "- Pratiquer la gratitude\n- Partager des messages positifs\n- Encourager les autres\n- Cultiver l'optimisme"
   },
   "1022": {
     "date": "22 octobre",
     "name": "Fête de Saint Jean-Paul II",
     "description": "Célébration chrétienne en l'honneur de Saint Jean-Paul II, pape de 1978 à 2005.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore le pape Jean-Paul II, figure marquante de l'Église catholique et de l'histoire du XXe siècle. Son pontificat a été marqué par le dialogue interreligieux et la défense des droits humains.",
+    "good_to_know": "Jean-Paul II a été le premier pape non italien depuis 1523 et le pape ayant effectué le plus de voyages apostoliques, visitant 129 pays.",
+    "action": "- Découvrir son enseignement\n- Promouvoir le dialogue interreligieux\n- Étudier son héritage\n- Pratiquer la paix"
   },
   "1023": {
     "date": "23 octobre",
     "name": "Fête nationale de la Hongrie",
     "description": "Jour célébrant la révolution hongroise de 1956 et l'indépendance du pays.",
-    "origin": "Culture hongroise"
+    "origin": "Culture hongroise",
+    "full_description": "Cette journée commémore le soulèvement populaire de 1956 contre le régime communiste en Hongrie. Elle célèbre la lutte pour la liberté et la démocratie du peuple hongrois.",
+    "good_to_know": "La révolution de 1956, bien que réprimée, a marqué le premier défi majeur à la domination soviétique en Europe de l'Est.",
+    "action": "- Participer aux commémorations\n- Découvrir l'histoire hongroise\n- Soutenir la démocratie\n- Honorer les héros de la liberté"
   },
   "1024": {
     "date": "24 octobre",
     "name": "Journée des Nations Unies",
     "description": "Journée célébrant la création de l'ONU et ses efforts pour la paix et les droits humains.",
-    "origin": "ONU"
+    "origin": "ONU",
+    "full_description": "Cette journée marque l'anniversaire de l'entrée en vigueur de la Charte des Nations Unies en 1945. Elle célèbre les réalisations de l'ONU dans les domaines de la paix, du développement et des droits humains.",
+    "good_to_know": "L'ONU compte 193 États membres et travaille sur des questions allant du maintien de la paix au changement climatique.",
+    "action": "- Soutenir les objectifs de l'ONU\n- Promouvoir la paix mondiale\n- S'engager pour les droits humains\n- Participer aux actions internationales"
   },
   "1025": {
     "date": "25 octobre",
     "name": "Journée mondiale de la pâleontologie",
     "description": "Journée dédiée à l'étude des fossiles et de l'évolution des espèces.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre la science de la paléontologie et son rôle dans la compréhension de l'histoire de la vie sur Terre. Elle promeut la recherche et la préservation des fossiles.",
+    "good_to_know": "La paléontologie combine géologie et biologie pour étudier plus de 3,5 milliards d'années d'histoire de la vie sur Terre.",
+    "action": "- Visiter des musées d'histoire naturelle\n- Participer à des fouilles\n- Étudier les fossiles\n- Soutenir la recherche scientifique"
   },
   "1026": {
     "date": "26 octobre",
     "name": "Fête de la République de Chine (Taiwan)",
     "description": "Jour marquant la fondation de la République de Chine en 1911.",
-    "origin": "Culture taïwanaise"
+    "origin": "Culture taïwanaise",
+    "full_description": "Cette journée commémore la révolution de Xinhai qui a mis fin à la dynastie Qing et établi la République de Chine. Elle célèbre l'histoire et l'identité unique de Taiwan.",
+    "good_to_know": "Taiwan, officiellement la République de Chine, maintient une démocratie dynamique et une économie prospère, malgré les tensions géopolitiques.",
+    "action": "- Découvrir la culture taïwanaise\n- Participer aux célébrations\n- Étudier l'histoire de Taiwan\n- Soutenir la démocratie"
   },
   "1027": {
     "date": "27 octobre",
     "name": "Fête de Saint Frédéric",
     "description": "Célébration chrétienne honorant Saint Frédéric, ermite et missionnaire.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Frédéric, évêque d'Utrecht au IXe siècle, connu pour son engagement missionnaire et son martyre. Il est célébré pour son courage et sa défense de la foi.",
+    "good_to_know": "Saint Frédéric fut assassiné en 838 après avoir dénoncé des mariages illégitimes et défendu la doctrine chrétienne.",
+    "action": "- Découvrir la vie des saints\n- Étudier l'histoire religieuse\n- Pratiquer le courage moral\n- Défendre ses convictions"
   },
   "1028": {
     "date": "28 octobre",
     "name": "Fête de l'indépendance de la Tchécoslovaquie",
     "description": "Jour célébrant l'indépendance de la Tchécoslovaquie en 1918.",
-    "origin": "Culture tchécoslovaque"
+    "origin": "Culture tchécoslovaque",
+    "full_description": "Cette journée commémore la création de la Tchécoslovaquie indépendante après la Première Guerre mondiale. Elle célèbre l'héritage historique commun des Tchèques et des Slovaques.",
+    "good_to_know": "Bien que la Tchécoslovaquie n'existe plus depuis 1993, cette date reste importante dans l'histoire des Républiques tchèque et slovaque.",
+    "action": "- Découvrir l'histoire centre-européenne\n- Participer aux commémorations\n- Explorer la culture slave\n- Célébrer l'indépendance"
   },
   "1029": {
     "date": "29 octobre",
     "name": "Journée mondiale de la biélorussie",
     "description": "Journée honorant la culture et l'histoire de la Biélorussie.",
-    "origin": "Culture biélorusse"
+    "origin": "Culture biélorusse",
+    "full_description": "Cette journée célèbre la richesse culturelle et historique de la Biélorussie. Elle met en valeur les traditions, la langue et le patrimoine biélorusses.",
+    "good_to_know": "La Biélorussie possède un riche patrimoine culturel, incluant des traditions folkloriques uniques et une importante tradition littéraire.",
+    "action": "- Découvrir la culture biélorusse\n- Apprendre quelques mots de biélorusse\n- Explorer les traditions slaves\n- Soutenir les arts traditionnels"
   },
   "1030": {
     "date": "30 octobre",
     "name": "Journée mondiale des personnes handicapées",
     "description": "Journée sensibilisant aux droits des personnes en situation de handicap.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut les droits et le bien-être des personnes en situation de handicap. Elle encourage l'inclusion sociale et l'accessibilité universelle dans tous les aspects de la société.",
+    "good_to_know": "Plus d'un milliard de personnes vivent avec un handicap dans le monde. L'accessibilité et l'inclusion restent des défis majeurs.",
+    "action": "- Promouvoir l'accessibilité\n- Soutenir l'inclusion sociale\n- Sensibiliser aux handicaps\n- Défendre les droits humains"
   },
   "1031": {
     "date": "31 octobre",
     "name": "Halloween",
     "description": "Fête traditionnelle célébrée dans de nombreux pays, marquée par des costumes, des bonbons et des décorations effrayantes.",
-    "origin": "Culture occidentale"
+    "origin": "Culture occidentale",
+    "full_description": "Halloween trouve ses origines dans la fête celtique de Samhain, qui marquait la fin de l'été. Aujourd'hui, c'est une célébration populaire où les enfants se déguisent et font du porte-à-porte pour collecter des bonbons, tandis que les adultes organisent des fêtes costumées.",
+    "good_to_know": "Le nom Halloween vient de 'All Hallows' Eve' (veille de la Toussaint). Les citrouilles sculptées, appelées Jack-o'-lantern, sont devenues un symbole emblématique de cette fête.",
+    "action": "- Se déguiser\n- Décorer sa maison\n- Organiser une fête costumée\n- Participer au 'trick or treat'"
   },
   "1101": {
     "date": "1er novembre",
     "name": "Toussaint",
     "description": "Fête chrétienne honorant tous les saints et martyrs.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "La Toussaint est une fête solennelle où l'Église catholique honore tous les saints, connus et inconnus. C'est un jour de recueillement et de commémoration, souvent associé à la tradition de fleurir les tombes des défunts.",
+    "good_to_know": "Cette fête est suivie le 2 novembre par la commémoration des fidèles défunts. Dans de nombreux pays, c'est un jour férié qui permet aux familles de se réunir et de se souvenir de leurs proches disparus.",
+    "action": "- Assister aux offices religieux\n- Visiter les cimetières\n- Se recueillir en famille\n- Fleurir les tombes"
   },
   "1102": {
     "date": "2 novembre",
     "name": "Journée des morts (Mexique)",
     "description": "Célébration mexicaine honorant les défunts avec des offrandes et des festivités.",
-    "origin": "Culture mexicaine"
+    "origin": "Culture mexicaine",
+    "full_description": "Le Día de los Muertos est une célébration joyeuse et colorée où les Mexicains honorent leurs proches décédés. Des autels sont dressés avec des offrandes, des fleurs de cempasúchil, des photos et les plats préférés des défunts.",
+    "good_to_know": "Cette tradition, inscrite au patrimoine culturel immatériel de l'UNESCO, mélange croyances précolombiennes et catholiques. Les crânes en sucre et le pain des morts sont des éléments emblématiques de la fête.",
+    "action": "- Créer un autel des morts\n- Préparer des offrandes\n- Participer aux festivités\n- Découvrir les traditions mexicaines"
   },
   "1103": {
     "date": "3 novembre",
     "name": "Journée internationale de la gentillesse",
     "description": "Journée visant à promouvoir les actes de gentillesse dans le monde.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée encourage chacun à poser des actes de bonté intentionnels envers autrui. Elle promeut l'idée que de petits gestes de gentillesse peuvent avoir un impact significatif sur le bien-être collectif.",
+    "good_to_know": "Le mouvement de la gentillesse aléatoire a débuté dans les années 1980 et s'est répandu mondialement grâce aux réseaux sociaux.",
+    "action": "- Faire une bonne action\n- Aider un inconnu\n- Répandre la positivité\n- Encourager la bienveillance"
   },
   "1104": {
     "date": "4 novembre",
     "name": "Fête de l'indépendance du Ghana",
     "description": "Jour célébrant l'indépendance du Ghana vis-à-vis du Royaume-Uni en 1957.",
-    "origin": "Culture ghanéenne"
+    "origin": "Culture ghanéenne",
+    "full_description": "Cette journée marque l'indépendance du Ghana, premier pays d'Afrique subsaharienne à s'être libéré du joug colonial. Les célébrations incluent des défilés, des festivals culturels et des manifestations patriotiques.",
+    "good_to_know": "Le Ghana était connu sous le nom de Côte-de-l'Or avant son indépendance. Kwame Nkrumah, son premier président, fut un leader important du panafricanisme.",
+    "action": "- Participer aux célébrations\n- Découvrir la culture ghanéenne\n- Explorer l'histoire africaine\n- Soutenir l'indépendance"
   },
   "1105": {
     "date": "5 novembre",
     "name": "Fête de Guy Fawkes",
     "description": "Célébration britannique marquée par des feux d'artifice et des feux de joie, commémorant l'échec de la conspiration des poudres en 1605.",
-    "origin": "Culture britannique"
+    "origin": "Culture britannique",
+    "full_description": "Cette célébration commémore l'échec de la Conspiration des Poudres, une tentative d'attentat contre le Parlement britannique en 1605. La soirée est marquée par des feux d'artifice, des feux de joie et la tradition de brûler des effigies de Guy Fawkes.",
+    "good_to_know": "La phrase 'Remember, remember the fifth of November' est devenue emblématique de cette célébration. L'histoire a inspiré de nombreuses œuvres culturelles.",
+    "action": "- Assister aux feux d'artifice\n- Participer aux festivités\n- Découvrir l'histoire britannique\n- Célébrer en communauté"
   },
   "1106": {
     "date": "6 novembre",
     "name": "Journée internationale de la radiologie",
     "description": "Journée dédiée à la reconnaissance de l'importance de la radiologie dans les soins de santé.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre la découverte des rayons X par Wilhelm Röntgen en 1895 et met en lumière les avancées de l'imagerie médicale. Elle souligne l'importance de la radiologie dans le diagnostic et le traitement des maladies.",
+    "good_to_know": "La première radiographie fut celle de la main de la femme de Röntgen. La radiologie continue d'évoluer avec des technologies comme l'IRM et le scanner.",
+    "action": "- Sensibiliser à la radiologie\n- Soutenir la recherche médicale\n- Découvrir les innovations\n- Remercier les professionnels"
   },
   "1107": {
     "date": "7 novembre",
     "name": "Journée mondiale de la science au service de la paix et du développement",
     "description": "Journée célébrant le rôle de la science dans la résolution des problèmes mondiaux.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée souligne l'importance de la science dans la création d'un monde plus pacifique et durable. Elle promeut la coopération scientifique internationale et l'accès équitable aux avancées scientifiques.",
+    "good_to_know": "La science joue un rôle crucial dans la réalisation des Objectifs de Développement Durable de l'ONU. La collaboration scientifique internationale peut transcender les frontières politiques.",
+    "action": "- Soutenir la recherche scientifique\n- Promouvoir l'éducation scientifique\n- Participer à des projets collaboratifs\n- Sensibiliser aux enjeux mondiaux"
   },
   "1108": {
     "date": "8 novembre",
     "name": "Journée mondiale du radiologue",
     "description": "Journée consacrée à la reconnaissance des radiologues et à leur rôle dans le domaine médical.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée honore les radiologues et leur contribution essentielle au diagnostic et au traitement des maladies. Elle met en lumière leur expertise dans l'interprétation des images médicales et leur rôle dans les soins de santé modernes.",
+    "good_to_know": "Les radiologues suivent une formation spécialisée de plusieurs années après leurs études de médecine. Leur expertise est cruciale dans de nombreux domaines médicaux.",
+    "action": "- Remercier les radiologues\n- S'informer sur la profession\n- Soutenir la formation médicale\n- Promouvoir la santé"
   },
   "1109": {
     "date": "9 novembre",
     "name": "Fête de la chute du mur de Berlin",
     "description": "Jour commémorant la chute du mur de Berlin en 1989, symbole de la fin de la guerre froide.",
-    "origin": "Culture allemande"
+    "origin": "Culture allemande",
+    "full_description": "Cette journée marque la chute du mur de Berlin, symbole de la division Est-Ouest pendant la Guerre froide. Elle célèbre la réunification allemande et la fin d'une époque de séparation qui a duré 28 ans.",
+    "good_to_know": "Le mur est tombé suite à une série d'événements pacifiques. Des morceaux du mur sont exposés dans le monde entier comme symboles de la liberté.",
+    "action": "- Visiter les mémoriaux\n- Étudier l'histoire allemande\n- Promouvoir la paix\n- Célébrer la liberté"
   },
   "1110": {
     "date": "10 novembre",
     "name": "Journée des vétérans (États-Unis)",
     "description": "Jour honorant les anciens combattants des forces armées des États-Unis.",
-    "origin": "Culture américaine"
+    "origin": "Culture américaine",
+    "full_description": "Cette journée rend hommage à tous les vétérans américains, vivants ou décédés, qui ont servi leur pays en temps de guerre comme en temps de paix. Elle reconnaît leurs sacrifices et leur dévouement au service de la nation.",
+    "good_to_know": "Initialement appelée Armistice Day, cette journée est devenue Veterans Day en 1954 pour honorer tous les vétérans américains, pas seulement ceux de la Première Guerre mondiale.",
+    "action": "- Participer aux cérémonies\n- Remercier les vétérans\n- Soutenir les associations\n- Préserver la mémoire"
   },
   "1111": {
     "date": "11 novembre",
     "name": "Armistice (France et d'autres pays)",
     "description": "Jour marquant la fin de la Première Guerre mondiale en 1918, célébré dans plusieurs pays.",
-    "origin": "Culture européenne"
+    "origin": "Culture européenne",
+    "full_description": "L'Armistice du 11 novembre 1918 marque la fin de la Première Guerre mondiale. Cette journée commémore les millions de victimes du conflit et rappelle l'importance de la paix entre les nations.",
+    "good_to_know": "La signature de l'armistice a eu lieu dans un wagon à Rethondes, en France. Le coquelicot est devenu un symbole de cette commémoration dans plusieurs pays.",
+    "action": "- Participer aux cérémonies\n- Porter le bleuet ou le coquelicot\n- Se recueillir aux monuments\n- Transmettre la mémoire"
   },
   "1112": {
     "date": "12 novembre",
     "name": "Journée mondiale des pneumonies",
     "description": "Journée sensibilisant à la prévention des pneumonies et aux efforts de santé publique.",
-    "origin": "OMS/Société civile"
+    "origin": "OMS/Société civile",
+    "full_description": "Cette journée vise à sensibiliser à la pneumonie, une infection respiratoire qui reste une cause majeure de mortalité, particulièrement chez les enfants dans les pays en développement. Elle promeut la prévention et l'accès aux soins.",
+    "good_to_know": "La pneumonie tue plus d'enfants que toute autre maladie infectieuse. La vaccination et l'accès aux antibiotiques sont essentiels pour la combattre.",
+    "action": "- Soutenir la vaccination\n- Promouvoir l'hygiène\n- Sensibiliser aux symptômes\n- Aider les pays en développement"
   },
   "1113": {
     "date": "13 novembre",
     "name": "Journée mondiale de la gentillesse",
     "description": "Journée dédiée à la promotion de la gentillesse dans le monde entier.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée encourage les actes de bonté et de compassion envers autrui. Elle promeut l'idée que la gentillesse peut transformer positivement les relations humaines et créer un monde plus harmonieux.",
+    "good_to_know": "La gentillesse a des effets positifs prouvés sur la santé mentale et physique, tant pour celui qui donne que pour celui qui reçoit.",
+    "action": "- Pratiquer la gentillesse\n- Inspirer les autres\n- Créer des chaînes de bonté\n- Valoriser l'empathie"
   },
   "1114": {
     "date": "14 novembre",
     "name": "Journée mondiale du diabète",
     "description": "Journée visant à sensibiliser à la prévention du diabète et à son traitement.",
-    "origin": "OMS/Société civile"
+    "origin": "OMS/Société civile",
+    "full_description": "Cette journée sensibilise au diabète, une maladie chronique touchant des millions de personnes. Elle promeut la prévention, le dépistage précoce et l'accès aux soins pour tous les diabétiques.",
+    "good_to_know": "Le cercle bleu est le symbole mondial du diabète. Cette date correspond à l'anniversaire de Frederick Banting, qui a découvert l'insuline.",
+    "action": "- Promouvoir le dépistage\n- Adopter une vie saine\n- Soutenir la recherche\n- Sensibiliser aux risques"
   },
   "1115": {
     "date": "15 novembre",
     "name": "Journée mondiale de la philosophie",
     "description": "Journée célébrant la réflexion philosophique et son rôle dans la société.",
-    "origin": "UNESCO/Société civile"
+    "origin": "UNESCO/Société civile",
+    "full_description": "Cette journée célèbre l'importance de la réflexion philosophique dans la compréhension du monde et la résolution des défis contemporains. Elle encourage le dialogue critique et la pensée indépendante.",
+    "good_to_know": "La philosophie est considérée comme essentielle pour développer la pensée critique et promouvoir la compréhension mutuelle entre les cultures.",
+    "action": "- Participer à des débats\n- Lire des textes philosophiques\n- Encourager la réflexion\n- Promouvoir le dialogue"
   },
   "1116": {
     "date": "16 novembre",
     "name": "Journée internationale de la tolérance",
     "description": "Journée dédiée à la promotion de la tolérance et du respect entre les cultures.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut le respect, l'acceptation et l'appréciation de la diversité culturelle mondiale. Elle encourage la compréhension mutuelle et le dialogue entre les différentes cultures et croyances.",
+    "good_to_know": "La tolérance n'est pas une concession mais une attitude active fondée sur la reconnaissance des droits universels de la personne humaine.",
+    "action": "- Promouvoir le dialogue\n- Célébrer la diversité\n- Combattre les préjugés\n- Encourager l'inclusion"
   },
   "1117": {
     "date": "17 novembre",
     "name": "Journée internationale du student",
     "description": "Journée célébrant les étudiants du monde entier et leur contribution à la société.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre la communauté étudiante mondiale et son rôle dans le progrès social. Elle commémore également les luttes historiques des étudiants pour leurs droits et la liberté académique.",
+    "good_to_know": "Cette journée trouve son origine dans les manifestations étudiantes de Prague en 1939 contre l'occupation nazie.",
+    "action": "- Soutenir l'éducation\n- Promouvoir les droits étudiants\n- Encourager l'engagement\n- Célébrer le savoir"
   },
   "1118": {
     "date": "18 novembre",
@@ -2530,258 +2989,387 @@
     "date": "19 novembre",
     "name": "Journée mondiale de la toilette",
     "description": "Journée sensibilisant à l'importance de l'hygiène et de l'accès aux toilettes dans le monde.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée attire l'attention sur la crise mondiale de l'assainissement et promeut l'accès à des installations sanitaires propres et sûres pour tous. Elle souligne l'importance de l'hygiène dans la prévention des maladies.",
+    "good_to_know": "Plus de 2 milliards de personnes n'ont pas accès à des toilettes décentes. L'assainissement inadéquat est lié à la transmission de nombreuses maladies.",
+    "action": "- Sensibiliser à l'hygiène\n- Soutenir les projets d'assainissement\n- Promouvoir l'accès à l'eau\n- Réduire les tabous"
   },
   "1120": {
     "date": "20 novembre",
     "name": "Journée mondiale de l'enfance",
     "description": "Journée célébrant les droits des enfants et leur bien-être.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée marque l'anniversaire de l'adoption de la Convention relative aux droits de l'enfant. Elle promeut le bien-être des enfants et leur protection contre toute forme d'exploitation ou de maltraitance.",
+    "good_to_know": "La Convention des droits de l'enfant est le traité international le plus largement ratifié de l'histoire. Elle définit les droits fondamentaux des enfants.",
+    "action": "- Défendre les droits des enfants\n- Soutenir l'éducation\n- Promouvoir la protection\n- Célébrer l'enfance"
   },
   "1121": {
     "date": "21 novembre",
     "name": "Journée mondiale de la télévision",
     "description": "Journée célébrant l'impact de la télévision sur la société et la culture.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée reconnaît le rôle de la télévision comme vecteur d'information, d'éducation et de divertissement. Elle souligne son importance dans la sensibilisation aux enjeux mondiaux et la promotion du dialogue interculturel.",
+    "good_to_know": "La télévision reste l'un des médias les plus influents malgré l'essor du numérique. Elle touche des milliards de personnes à travers le monde.",
+    "action": "- Réfléchir à la qualité des médias\n- Promouvoir le journalisme éthique\n- Soutenir les productions locales\n- Développer l'esprit critique"
   },
   "1122": {
     "date": "22 novembre",
     "name": "Fête de Sainte Cécile",
     "description": "Célébration chrétienne honorant Sainte Cécile, patronne des musiciens.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Sainte Cécile, martyre chrétienne du IIIe siècle et patronne de la musique. Elle est célébrée par des concerts, des festivals et des événements musicaux dans de nombreux pays.",
+    "good_to_know": "Selon la légende, Cécile chantait dans son cœur pendant son martyre. Elle est souvent représentée avec un orgue ou d'autres instruments de musique.",
+    "action": "- Participer à des concerts\n- Célébrer la musique\n- Découvrir l'art sacré\n- Soutenir les musiciens"
   },
   "1123": {
     "date": "23 novembre",
     "name": "Journée internationale de la défense des droits des enfants",
     "description": "Journée promouvant les droits et la protection des enfants dans le monde.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met l'accent sur la protection des droits fondamentaux des enfants et la lutte contre toutes les formes d'exploitation. Elle encourage les actions concrètes pour améliorer le bien-être des enfants partout dans le monde.",
+    "good_to_know": "Des millions d'enfants dans le monde sont encore victimes de travail forcé, de maltraitance ou n'ont pas accès à l'éducation.",
+    "action": "- Défendre les droits des enfants\n- Lutter contre l'exploitation\n- Soutenir l'éducation\n- Promouvoir la protection"
   },
   "1124": {
     "date": "24 novembre",
     "name": "Journée mondiale du génie génétique",
     "description": "Journée dédiée à la science du génie génétique et à ses applications dans la médecine.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée met en lumière les avancées du génie génétique et son potentiel pour résoudre des problèmes médicaux, agricoles et environnementaux. Elle encourage le débat éthique sur ces technologies.",
+    "good_to_know": "Le génie génétique a permis des avancées majeures dans le traitement des maladies génétiques et le développement de nouvelles thérapies.",
+    "action": "- S'informer sur les biotechnologies\n- Débattre des enjeux éthiques\n- Soutenir la recherche\n- Comprendre les applications"
   },
   "1125": {
     "date": "25 novembre",
     "name": "Journée internationale pour l'élimination de la violence à l'égard des femmes",
     "description": "Journée sensibilisant à la lutte contre la violence basée sur le genre.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée marque le début des 16 jours d'activisme contre la violence basée sur le genre. Elle vise à sensibiliser à toutes les formes de violence envers les femmes et à promouvoir leur protection.",
+    "good_to_know": "Cette date commémore l'assassinat des sœurs Mirabal en République dominicaine en 1960. Une femme sur trois dans le monde subit des violences physiques ou sexuelles.",
+    "action": "- Dénoncer les violences\n- Soutenir les victimes\n- Promouvoir l'égalité\n- Sensibiliser le public"
   },
   "1126": {
     "date": "26 novembre",
     "name": "Journée du merci",
     "description": "Journée dédiée à l'expression de gratitude envers les autres.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée encourage l'expression de la gratitude et la reconnaissance envers les autres. Elle promeut les valeurs de remerciement et d'appréciation dans les relations humaines.",
+    "good_to_know": "La gratitude a des effets positifs prouvés sur le bien-être mental et les relations sociales. Elle renforce les liens communautaires.",
+    "action": "- Exprimer sa gratitude\n- Faire des gestes de reconnaissance\n- Renforcer les liens\n- Cultiver la positivité"
   },
   "1127": {
     "date": "27 novembre",
     "name": "Journée mondiale de la consommation responsable",
     "description": "Journée promouvant des habitudes de consommation respectueuses de l'environnement.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée sensibilise à l'impact environnemental de nos choix de consommation. Elle encourage des pratiques plus durables et responsables pour préserver les ressources naturelles.",
+    "good_to_know": "La surconsommation est l'une des principales causes du changement climatique et de la perte de biodiversité. Les choix de consommation individuels ont un impact collectif significatif.",
+    "action": "- Réduire sa consommation\n- Privilégier le durable\n- Recycler et réutiliser\n- Sensibiliser aux enjeux"
   },
   "1128": {
     "date": "28 novembre",
     "name": "Journée des travailleurs sociaux",
     "description": "Journée honorant le rôle des travailleurs sociaux dans la société.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée met en lumière le travail essentiel des travailleurs sociaux qui accompagnent les personnes vulnérables et contribuent au bien-être social. Elle souligne leur rôle crucial dans la protection des droits et la promotion de la justice sociale.",
+    "good_to_know": "Les travailleurs sociaux interviennent dans de nombreux domaines : protection de l'enfance, aide aux personnes âgées, lutte contre l'exclusion, accompagnement des personnes handicapées.",
+    "action": "- Valoriser le travail social\n- Soutenir les initiatives sociales\n- Promouvoir la solidarité\n- Sensibiliser aux enjeux sociaux"
   },
   "1129": {
     "date": "29 novembre",
     "name": "Journée internationale de solidarité avec le peuple palestinien",
     "description": "Journée pour soutenir le peuple palestinien et promouvoir la paix au Moyen-Orient.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée vise à sensibiliser à la situation du peuple palestinien et à promouvoir le dialogue pour une paix durable au Moyen-Orient. Elle encourage la communauté internationale à soutenir les efforts de paix et de réconciliation.",
+    "good_to_know": "Cette date a été choisie car elle marque l'adoption par l'Assemblée générale de l'ONU de la résolution sur le partage de la Palestine en 1947.",
+    "action": "- Promouvoir le dialogue\n- Soutenir les initiatives de paix\n- Sensibiliser aux droits humains\n- Encourager la compréhension mutuelle"
   },
   "1130": {
     "date": "30 novembre",
     "name": "Fête de Saint André",
     "description": "Célébration chrétienne honorant Saint André, l'un des apôtres de Jésus.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint André, l'un des premiers disciples de Jésus et frère de Saint Pierre. Patron de l'Écosse et de la Russie, il est célébré par diverses traditions religieuses et culturelles.",
+    "good_to_know": "Selon la tradition, Saint André fut martyrisé sur une croix en forme de X, qui est devenue son symbole et figure sur le drapeau écossais.",
+    "action": "- Participer aux célébrations religieuses\n- Découvrir les traditions écossaises\n- Explorer l'histoire chrétienne\n- Étudier la vie des apôtres"
   },
   "1201": {
     "date": "1er décembre",
     "name": "Journée mondiale de lutte contre le sida",
     "description": "Journée visant à sensibiliser à la lutte contre le VIH/sida et à réduire la stigmatisation.",
-    "origin": "OMS/Société civile"
+    "origin": "OMS/Société civile",
+    "full_description": "Cette journée mondiale vise à sensibiliser au VIH/sida, à promouvoir la prévention et à lutter contre la discrimination. Elle encourage le dépistage, l'accès aux traitements et le soutien aux personnes touchées.",
+    "good_to_know": "Le ruban rouge est le symbole international de la solidarité avec les personnes vivant avec le VIH. Des progrès significatifs ont été réalisés dans le traitement, mais l'accès reste inégal dans le monde.",
+    "action": "- Promouvoir la prévention\n- Lutter contre la discrimination\n- Soutenir la recherche\n- Encourager le dépistage"
   },
   "1202": {
     "date": "2 décembre",
     "name": "Journée internationale pour l'abolition de l'esclavage",
     "description": "Journée dédiée à la lutte contre l'esclavage moderne et à la protection des droits humains.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière la persistance de l'esclavage moderne sous diverses formes : travail forcé, traite des êtres humains, exploitation sexuelle. Elle appelle à une action mondiale pour éradiquer ces pratiques.",
+    "good_to_know": "Plus de 40 millions de personnes sont victimes de l'esclavage moderne dans le monde, dont 71% sont des femmes et des filles.",
+    "action": "- Sensibiliser à l'esclavage moderne\n- Soutenir les organisations anti-traite\n- Promouvoir les droits humains\n- Dénoncer l'exploitation"
   },
   "1203": {
     "date": "3 décembre",
     "name": "Journée internationale des personnes handicapées",
     "description": "Journée promouvant les droits et l'intégration des personnes handicapées dans la société.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut les droits et le bien-être des personnes handicapées dans tous les aspects de la société. Elle encourage l'inclusion, l'accessibilité et l'égalité des chances.",
+    "good_to_know": "Plus d'un milliard de personnes vivent avec un handicap dans le monde. L'accessibilité et l'inclusion restent des défis majeurs dans de nombreux pays.",
+    "action": "- Promouvoir l'accessibilité\n- Soutenir l'inclusion\n- Sensibiliser aux handicaps\n- Défendre les droits"
   },
   "1204": {
     "date": "4 décembre",
     "name": "Fête de Saint François Xavier",
     "description": "Célébration chrétienne honorant Saint François Xavier, missionnaire jésuite.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint François Xavier, l'un des fondateurs de la Compagnie de Jésus et grand missionnaire en Asie. Son œuvre d'évangélisation a marqué l'histoire du christianisme en Orient.",
+    "good_to_know": "Saint François Xavier est considéré comme l'un des plus grands missionnaires depuis Saint Paul. Il a parcouru plus de 100 000 kilomètres pour évangéliser l'Asie.",
+    "action": "- Découvrir son histoire\n- Étudier les missions jésuites\n- Explorer le dialogue interreligieux\n- Comprendre l'évangélisation"
   },
   "1205": {
     "date": "5 décembre",
     "name": "Journée internationale des bénévoles",
     "description": "Journée honorant l'engagement des bénévoles dans le monde entier.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée célèbre la contribution des bénévoles au développement économique et social. Elle met en valeur leur engagement désintéressé et encourage le volontariat comme expression de solidarité.",
+    "good_to_know": "Le bénévolat représente une force économique considérable, équivalant à des millions d'emplois à temps plein dans le monde.",
+    "action": "- S'engager comme bénévole\n- Soutenir les associations\n- Valoriser le volontariat\n- Promouvoir l'engagement citoyen"
   },
   "1206": {
     "date": "6 décembre",
     "name": "Fête de Saint Nicolas",
     "description": "Célébration chrétienne honorant Saint Nicolas, protecteur des enfants et des marins.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête célèbre Saint Nicolas, évêque de Myre au IVe siècle, connu pour sa générosité et ses miracles. Dans de nombreux pays européens, il apporte des cadeaux aux enfants sages.",
+    "good_to_know": "Saint Nicolas est à l'origine du personnage du Père Noël. La tradition de distribuer des cadeaux aux enfants le 6 décembre reste vivace dans plusieurs pays.",
+    "action": "- Participer aux festivités\n- Perpétuer les traditions\n- Offrir des cadeaux\n- Découvrir les légendes"
   },
   "1207": {
     "date": "7 décembre",
     "name": "Journée internationale de la sécurité civile",
     "description": "Journée sensibilisant à la sécurité civile et aux efforts de protection des populations.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière le rôle crucial des services de sécurité civile dans la protection des populations. Elle sensibilise aux risques majeurs et à l'importance de la prévention.",
+    "good_to_know": "La sécurité civile joue un rôle essentiel dans la gestion des catastrophes naturelles et technologiques, ainsi que dans la protection quotidienne des citoyens.",
+    "action": "- Se former aux premiers secours\n- Soutenir les services d'urgence\n- Préparer son plan d'urgence\n- Sensibiliser aux risques"
   },
   "1208": {
     "date": "8 décembre",
     "name": "Fête de l'Immaculée Conception",
     "description": "Célébration chrétienne marquant la conception sans péché de la Vierge Marie.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête solennelle célèbre le dogme selon lequel la Vierge Marie fut préservée du péché originel dès sa conception. C'est une célébration majeure dans l'Église catholique.",
+    "good_to_know": "Ce dogme a été proclamé en 1854 par le pape Pie IX. Cette fête est célébrée neuf mois avant la fête de la Nativité de Marie.",
+    "action": "- Participer aux célébrations\n- Étudier la théologie mariale\n- Découvrir l'art religieux\n- Approfondir sa foi"
   },
   "1209": {
     "date": "9 décembre",
     "name": "Journée internationale de lutte contre la corruption",
     "description": "Journée sensibilisant à la lutte contre la corruption et ses effets dévastateurs sur la société.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée sensibilise aux effets néfastes de la corruption sur le développement et la démocratie. Elle promeut la transparence et encourage les actions pour combattre ce fléau mondial.",
+    "good_to_know": "La corruption coûte plus de 2600 milliards de dollars par an à l'économie mondiale, soit environ 5% du PIB mondial.",
+    "action": "- Promouvoir la transparence\n- Dénoncer la corruption\n- Soutenir les lanceurs d'alerte\n- Encourager l'intégrité"
   },
   "1210": {
     "date": "10 décembre",
     "name": "Journée des droits de l'homme",
     "description": "Journée célébrant l'adoption de la Déclaration universelle des droits de l'homme en 1948.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée commémore l'adoption de la Déclaration universelle des droits de l'homme et promeut ces droits fondamentaux. Elle encourage la réflexion sur les progrès et les défis en matière de droits humains.",
+    "good_to_know": "La Déclaration universelle des droits de l'homme a été traduite dans plus de 500 langues, en faisant le document le plus traduit au monde.",
+    "action": "- Défendre les droits humains\n- Promouvoir l'égalité\n- Lutter contre les discriminations\n- Sensibiliser aux droits fondamentaux"
   },
   "1211": {
     "date": "11 décembre",
     "name": "Journée internationale de la montagne",
     "description": "Journée dédiée à la conservation des montagnes et à la promotion du développement durable.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée sensibilise à l'importance des montagnes pour la biodiversité et les écosystèmes. Elle promeut le développement durable des régions montagneuses et la préservation de leurs ressources.",
+    "good_to_know": "Les montagnes abritent 15% de la population mondiale et fournissent de l'eau douce à la moitié de l'humanité.",
+    "action": "- Protéger les écosystèmes montagnards\n- Soutenir les communautés locales\n- Promouvoir le tourisme durable\n- Sensibiliser à l'environnement"
   },
   "1212": {
     "date": "12 décembre",
     "name": "Journée internationale de la neutralité",
     "description": "Journée visant à promouvoir la neutralité dans les conflits internationaux.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut la neutralité comme moyen de prévention des conflits et de maintien de la paix. Elle souligne l'importance de la diplomatie et du dialogue dans les relations internationales.",
+    "good_to_know": "La neutralité est un principe fondamental du droit international, particulièrement important pour des pays comme la Suisse ou l'Autriche.",
+    "action": "- Promouvoir la paix\n- Soutenir la diplomatie\n- Encourager le dialogue\n- Favoriser la médiation"
   },
   "1213": {
     "date": "13 décembre",
     "name": "Journée internationale des tétraplégiques",
     "description": "Journée consacrée à la sensibilisation et au soutien des personnes vivant avec une tétraplégie.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée met en lumière les défis quotidiens des personnes tétraplégiques et promeut leur inclusion dans la société. Elle encourage le développement de solutions adaptées et l'accessibilité.",
+    "good_to_know": "La tétraplégie affecte les quatre membres et le tronc. Les avancées médicales et technologiques améliorent progressivement la qualité de vie des personnes touchées.",
+    "action": "- Soutenir la recherche médicale\n- Promouvoir l'accessibilité\n- Sensibiliser aux handicaps\n- Favoriser l'inclusion"
   },
   "1214": {
     "date": "14 décembre",
     "name": "Fête de Sainte-Lucie (suédoise)",
     "description": "Célébration scandinave marquant la fête de Sainte-Lucie, symbole de lumière dans l'obscurité de l'hiver.",
-    "origin": "Culture scandinave"
+    "origin": "Culture scandinave",
+    "full_description": "Cette fête traditionnelle scandinave célèbre Sainte Lucie, porteuse de lumière. Elle est marquée par des processions où une jeune fille couronnée de bougies mène un cortège en chantant des cantiques traditionnels.",
+    "good_to_know": "Cette célébration est particulièrement importante en Suède, où elle marque symboliquement le retour de la lumière pendant la période la plus sombre de l'année.",
+    "action": "- Participer aux processions\n- Découvrir les traditions nordiques\n- Préparer les pâtisseries traditionnelles\n- Célébrer la lumière"
   },
   "1215": {
     "date": "15 décembre",
     "name": "Journée mondiale du migrant",
     "description": "Journée dédiée aux droits des migrants et à la reconnaissance de leurs contributions à la société.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière la situation des migrants dans le monde et promeut leurs droits fondamentaux. Elle souligne leurs contributions positives aux sociétés d'accueil et encourage l'inclusion.",
+    "good_to_know": "Il y a plus de 280 millions de migrants internationaux dans le monde. Les migrations contribuent significativement au développement économique et culturel.",
+    "action": "- Promouvoir l'inclusion\n- Lutter contre les préjugés\n- Soutenir l'intégration\n- Défendre les droits des migrants"
   },
   "1216": {
     "date": "16 décembre",
     "name": "Journée de la réconciliation en Afrique du Sud",
     "description": "Jour de commémoration de l'abolition de l'apartheid et des efforts de réconciliation nationale.",
-    "origin": "Culture sud-africaine"
+    "origin": "Culture sud-africaine",
+    "full_description": "Cette journée commémore la fin de l'apartheid et célèbre les efforts de réconciliation nationale en Afrique du Sud. Elle promeut l'unité, la compréhension mutuelle et la guérison des blessures du passé.",
+    "good_to_know": "La Commission Vérité et Réconciliation, présidée par Desmond Tutu, a joué un rôle crucial dans le processus de réconciliation nationale.",
+    "action": "- Promouvoir la réconciliation\n- Lutter contre le racisme\n- Célébrer la diversité\n- Encourager le dialogue"
   },
   "1217": {
     "date": "17 décembre",
     "name": "Journée internationale du pull de Noël",
     "description": "Journée consacrée à la célébration du pull de Noël, souvent porté lors de fêtes et événements.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée festive célèbre la tradition du pull de Noël, devenue un phénomène culturel populaire. Elle encourage la créativité et l'esprit festif à travers le port de pulls aux motifs de Noël.",
+    "good_to_know": "Cette tradition, originaire des pays anglo-saxons, s'est répandue mondialement et est souvent associée à des événements caritatifs.",
+    "action": "- Porter un pull de Noël\n- Organiser des concours\n- Participer aux événements festifs\n- Soutenir des causes caritatives"
   },
   "1218": {
     "date": "18 décembre",
     "name": "Journée internationale des migrants",
     "description": "Journée célébrant les contributions des migrants et leur rôle dans le développement des sociétés.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée reconnaît les contributions des migrants au développement et à l'enrichissement des sociétés. Elle promeut le respect des droits des migrants et encourage une migration sûre et régulière.",
+    "good_to_know": "Les transferts de fonds des migrants vers leurs pays d'origine dépassent largement l'aide publique au développement mondiale.",
+    "action": "- Célébrer la diversité culturelle\n- Soutenir l'intégration\n- Promouvoir les droits des migrants\n- Combattre la xénophobie"
   },
   "1219": {
     "date": "19 décembre",
     "name": "Fête de Saint Urbain",
     "description": "Célébration chrétienne honorant Saint Urbain, pape et martyr.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Urbain, pape du IIIe siècle qui a guidé l'Église pendant une période de persécution. Son pontificat a été marqué par d'importantes contributions à l'organisation de l'Église primitive.",
+    "good_to_know": "Saint Urbain est souvent représenté avec une grappe de raisin et est considéré comme le patron des vignerons dans certaines régions.",
+    "action": "- Participer aux célébrations religieuses\n- Découvrir l'histoire de l'Église\n- Explorer les traditions viticoles\n- Étudier la vie des saints"
   },
   "1220": {
     "date": "20 décembre",
     "name": "Journée mondiale de la solidarité humaine",
     "description": "Journée dédiée à la solidarité humaine et à la promotion de la coopération entre les nations.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée promeut l'unité dans la diversité et encourage la solidarité internationale. Elle souligne l'importance de la coopération mondiale pour relever les défis communs de l'humanité.",
+    "good_to_know": "La solidarité est l'un des principes fondamentaux des Nations Unies et est considérée comme essentielle pour atteindre les Objectifs de Développement Durable.",
+    "action": "- Promouvoir la solidarité\n- Soutenir les causes humanitaires\n- Encourager la coopération\n- Favoriser l'entraide"
   },
   "1221": {
     "date": "21 décembre",
     "name": "Fête du solstice d'hiver",
     "description": "Célébration marquant le début de l'hiver et le solstice d'hiver dans l'hémisphère nord.",
-    "origin": "Culture païenne"
+    "origin": "Culture païenne",
+    "full_description": "Cette célébration ancestrale marque le jour le plus court de l'année dans l'hémisphère nord. Traditionnellement, elle symbolise le renouveau et le retour progressif de la lumière. De nombreuses cultures à travers le monde ont développé des rituels et traditions autour de cet événement astronomique.",
+    "good_to_know": "Le solstice d'hiver se produit lorsque l'axe de rotation de la Terre est le plus incliné par rapport au Soleil. De nombreuses fêtes traditionnelles comme Yule, Dongzhi ou Soyal sont liées à cet événement.",
+    "action": "- Observer les phénomènes astronomiques\n- Participer aux célébrations traditionnelles\n- Découvrir les rituels ancestraux\n- Réfléchir aux cycles naturels"
   },
   "1222": {
     "date": "22 décembre",
     "name": "Journée internationale du théâtre",
     "description": "Journée dédiée à la célébration de l'art théâtral et de son rôle dans la culture.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée célèbre l'art théâtral sous toutes ses formes et son importance dans la culture mondiale. Elle met en valeur le théâtre comme moyen d'expression artistique, de dialogue interculturel et de développement social.",
+    "good_to_know": "Le théâtre est l'une des plus anciennes formes d'art, remontant à la Grèce antique. Il continue d'évoluer avec de nouvelles formes d'expression et technologies.",
+    "action": "- Assister à des représentations théâtrales\n- Soutenir les compagnies locales\n- Participer à des ateliers\n- Découvrir différents styles de théâtre"
   },
   "1223": {
     "date": "23 décembre",
     "name": "Fête de Hanoucca (selon le calendrier juif)",
     "description": "Fête juive célébrant la dédicace du Temple à Jérusalem et le miracle de l'huile.",
-    "origin": "Judaïsme"
+    "origin": "Judaïsme",
+    "full_description": "Hanoucca commémore la réinauguration du Temple de Jérusalem et le miracle de la fiole d'huile qui brûla pendant huit jours. Cette fête est marquée par l'allumage quotidien des bougies de la menorah et des traditions familiales.",
+    "good_to_know": "Hanoucca est aussi appelée 'Fête des Lumières'. Les traditions incluent les jeux de toupie (dreidel) et la consommation d'aliments frits dans l'huile comme les beignets et les latkes.",
+    "action": "- Allumer la menorah\n- Partager des repas traditionnels\n- Jouer au dreidel\n- Découvrir la culture juive"
   },
   "1224": {
     "date": "24 décembre",
     "name": "Veillée de Noël",
     "description": "Célébration chrétienne anticipant la naissance de Jésus-Christ, marquée par une messe de minuit et des festins.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "La veillée de Noël est une soirée de préparation spirituelle et festive avant Noël. Elle est traditionnellement marquée par la messe de minuit, les réunions familiales et diverses traditions comme la décoration du sapin et l'attente du Père Noël.",
+    "good_to_know": "Les traditions de la veillée varient selon les pays : réveillon en France, mise des souliers devant la cheminée au Royaume-Uni, ou le 'Nochebuena' en Espagne.",
+    "action": "- Participer à la messe de minuit\n- Préparer le repas du réveillon\n- Décorer le sapin\n- Partager des moments en famille"
   },
   "1225": {
     "date": "25 décembre",
     "name": "Noël",
     "description": "Fête chrétienne célébrant la naissance de Jésus-Christ, avec des traditions de cadeaux et repas festifs.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Noël célèbre la naissance de Jésus-Christ et est devenue une fête culturelle majeure dans de nombreux pays. Elle est marquée par l'échange de cadeaux, les repas familiaux et diverses traditions festives.",
+    "good_to_know": "La date du 25 décembre a été fixée au IVe siècle par l'Église. De nombreuses traditions actuelles, comme le sapin ou le Père Noël, sont des ajouts plus récents.",
+    "action": "- Échanger des cadeaux\n- Partager un repas festif\n- Célébrer en famille\n- Pratiquer la générosité"
   },
   "1226": {
     "date": "26 décembre",
     "name": "Fête de la Saint-Étienne",
     "description": "Célébration chrétienne honorant Saint Étienne, le premier martyr chrétien.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête honore Saint Étienne, premier martyr chrétien, lapidé pour sa foi. Dans plusieurs pays, c'est un jour férié qui prolonge les célébrations de Noël et est marqué par des traditions particulières.",
+    "good_to_know": "Dans les pays anglo-saxons, ce jour est connu comme le 'Boxing Day', traditionnellement le jour où les domestiques recevaient leurs cadeaux de Noël.",
+    "action": "- Participer aux célébrations religieuses\n- Découvrir l'histoire des martyrs\n- Pratiquer la charité\n- Prolonger l'esprit de Noël"
   },
   "1227": {
     "date": "27 décembre",
     "name": "Journée mondiale du yoga",
     "description": "Journée consacrée à la pratique et à la promotion du yoga comme moyen de bien-être physique et mental.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette journée promeut le yoga comme pratique holistique pour la santé physique et mentale. Elle encourage la découverte des différentes formes de yoga et leurs bienfaits pour le corps et l'esprit.",
+    "good_to_know": "Le yoga, originaire d'Inde, combine exercices physiques, respiration et méditation. Il est reconnu par l'UNESCO comme patrimoine culturel immatériel.",
+    "action": "- Pratiquer le yoga\n- Découvrir différents styles\n- Méditer régulièrement\n- Adopter un mode de vie sain"
   },
   "1228": {
     "date": "28 décembre",
     "name": "Fête des Innocents",
     "description": "Fête chrétienne commémorant le massacre des innocents par le roi Hérode, selon l'Évangile.",
-    "origin": "Christianisme"
+    "origin": "Christianisme",
+    "full_description": "Cette fête commémore le massacre des enfants de Bethléem ordonné par le roi Hérode. Dans certains pays, elle est devenue une journée de farces et plaisanteries, similaire au 1er avril.",
+    "good_to_know": "En Espagne et en Amérique latine, cette journée est l'équivalent du poisson d'avril français, avec des blagues et canulars traditionnels.",
+    "action": "- Se souvenir des innocents\n- Protéger les enfants\n- Participer aux traditions locales\n- Réfléchir à l'histoire"
   },
   "1229": {
     "date": "29 décembre",
     "name": "Journée mondiale de la biodiversité",
     "description": "Journée sensibilisant à la préservation de la biodiversité et à la protection des écosystèmes.",
-    "origin": "ONU/Société civile"
+    "origin": "ONU/Société civile",
+    "full_description": "Cette journée met en lumière l'importance de la biodiversité pour l'équilibre des écosystèmes et la survie de l'humanité. Elle encourage les actions de conservation et de protection des espèces.",
+    "good_to_know": "La Terre perd actuellement des espèces à un rythme 100 à 1000 fois supérieur au taux naturel d'extinction, principalement à cause des activités humaines.",
+    "action": "- Protéger la nature locale\n- Soutenir la conservation\n- Réduire son impact environnemental\n- Sensibiliser à la biodiversité"
   },
   "1230": {
     "date": "30 décembre",
     "name": "Journée des anciens combattants",
     "description": "Jour honorant les anciens combattants et leur sacrifice pour leur pays.",
-    "origin": "Culture civile"
+    "origin": "Culture civile",
+    "full_description": "Cette journée rend hommage aux anciens combattants et reconnaît leurs sacrifices pour la nation. Elle souligne l'importance de la mémoire collective et du devoir de reconnaissance envers ceux qui ont servi.",
+    "good_to_know": "Les anciens combattants font face à de nombreux défis après leur service, notamment la réinsertion sociale et professionnelle, et parfois des traumatismes psychologiques.",
+    "action": "- Participer aux cérémonies\n- Soutenir les associations\n- Préserver la mémoire\n- Aider les vétérans"
   },
   "1231": {
     "date": "31 décembre",
     "name": "Veillée du Nouvel An",
     "description": "Célébration de la fin de l'année et des traditions du passage à la nouvelle année, souvent avec des feux d'artifice.",
-    "origin": "Société civile"
+    "origin": "Société civile",
+    "full_description": "Cette soirée marque la transition vers la nouvelle année avec des célébrations festives dans le monde entier. Les traditions incluent le décompte de minuit, les feux d'artifice, et les résolutions pour l'année à venir.",
+    "good_to_know": "Les célébrations du Nouvel An varient selon les cultures : en Espagne, on mange 12 raisins à minuit, au Japon, on sonne les cloches des temples 108 fois.",
+    "action": "- Célébrer avec ses proches\n- Prendre des résolutions\n- Participer aux festivités\n- Réfléchir à l'année écoulée"
   }
 }
