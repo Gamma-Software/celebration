@@ -45,7 +45,6 @@ function ImageWithFallback({
         onError={() => setImageError(true)}
         onLoad={() => setLoaded(true)}
       />
-      {!loaded && <Skeleton className="h-[calc(70vh)] w-[48rem] rounded-xl" />}
     </div>
   );
 }
