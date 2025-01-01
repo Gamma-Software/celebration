@@ -11,7 +11,6 @@ import { Button } from "@/components/ui/button";
 import { ChevronDown } from "lucide-react";
 import Image from "next/image";
 import fallback from "@/public/default-image.jpg";
-import { Skeleton } from "@/components/ui/skeleton";
 import ReactMarkdown from "react-markdown";
 
 function ImageWithFallback({
@@ -32,7 +31,6 @@ function ImageWithFallback({
   fallBackSrc: string;
 }) {
   const [imageError, setImageError] = useState(false);
-  const [loaded, setLoaded] = useState(false);
   return (
     <div className="relative">
       <Image
@@ -43,7 +41,6 @@ function ImageWithFallback({
         objectFit={objectFit}
         className={className}
         onError={() => setImageError(true)}
-        onLoad={() => setLoaded(true)}
       />
     </div>
   );
