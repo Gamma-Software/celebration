@@ -43,7 +43,7 @@ function ImageWithFallback({
         objectFit={objectFit}
         className={className}
         onError={() => setImageError(true)}
-        onLoadingComplete={() => setLoaded(true)}
+        onLoad={() => setLoaded(true)}
       />
       {!loaded && <Skeleton className="h-[calc(70vh)] w-[48rem] rounded-xl" />}
     </div>

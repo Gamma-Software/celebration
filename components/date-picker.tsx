@@ -21,36 +21,57 @@ export function DatePickerDemo() {
   const [open, setOpen] = React.useState(false);
 
   const date = React.useMemo(() => {
-    const urlDate = pathname.split("/")[1];
-    const month = urlDate.match(/([a-z]+)/)?.[0];
-    const day = urlDate.match(/(\d+)/)?.[0];
-    const monthMap: { [key: string]: number } = {
-      january: 0,
-      february: 1,
-      march: 2,
-      april: 3,
-      may: 4,
-      june: 5,
-      july: 6,
-      august: 7,
-      september: 8,
-      october: 9,
-      november: 10,
-      december: 11,
-    };
-    const monthStr = month?.toLowerCase() || "january";
-    return new Date(new Date().getFullYear(), monthMap[monthStr], Number(day));
+    try {
+      if (pathname.includes("api") || pathname === "/") {
+        return new Date();
+      }
+
+      const urlDate = pathname.split("/")[1];
+      if (!urlDate) return new Date();
+
+      const month = urlDate.match(/([a-z]+)/)?.[0];
+      const day = urlDate.match(/(\d+)/)?.[0];
+
+      if (!month || !day) return new Date();
+
+      const monthMap: { [key: string]: number } = {
+        january: 0,
+        february: 1,
+        march: 2,
+        april: 3,
+        may: 4,
+        june: 5,
+        july: 6,
+        august: 7,
+        september: 8,
+        october: 9,
+        november: 10,
+        december: 11,
+      };
+
+      const monthStr = month.toLowerCase();
+      const monthNum = monthMap[monthStr];
+      if (monthNum === undefined) return new Date();
+
+      const dayNum = Number(day);
+      if (isNaN(dayNum) || dayNum < 1 || dayNum > 31) return new Date();
+
+      const newDate = new Date(new Date().getFullYear(), monthNum, dayNum);
+      return isNaN(newDate.getTime()) ? new Date() : newDate;
+    } catch {
+      return new Date();
+    }
   }, [pathname]);
 
   const [dateState, setDateState] = React.useState<Date>(date);
 
-  // Update dateState when date changes
   React.useEffect(() => {
     setDateState(date);
   }, [date]);
 
-  // Early return if we don't need the date picker
-  if (pathname.includes("api") || pathname === "/") return null;
+  if (pathname.includes("api") || pathname === "/") {
+    return null;
+  }
 
   return (
     <Popover open={open} onOpenChange={setOpen}>
