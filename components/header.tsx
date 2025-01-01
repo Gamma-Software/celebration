@@ -1,37 +1,34 @@
-'use client'
+"use client";
 
-import { Calendar, CircleHelp } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { ModeToggle } from "@/components/theme-toogle";
 import Link from "next/link";
+import Image from "next/image";
 import { DatePickerDemo } from "@/components/date-picker";
-import { useState } from 'react'
-import {
-  SquareX,
-} from 'lucide-react'
 
 export default function Header() {
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
-
   return (
     <header className="shadow-lg dark:shadow-zinc-900/40 sticky top-0 z-50 bg-background h-[84px]">
-      <nav aria-label="Global" className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-0">
+      <nav
+        aria-label="Global"
+        className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-0"
+      >
         <Link href="/">
-        <div className="flex lg:flex-1 items-center gap-2">
-          <span className="sr-only">Célébrations</span>
+          <div className="flex lg:flex-1 items-center gap-2">
+            <span className="sr-only">Célébrations</span>
 
-            <img
+            <Image
               alt="Célébrations calendaires logo"
               src="/logo.svg"
               className="h-8 w-auto"
+              width={32}
+              height={32}
             />
-          <p className="text-sm sm:text-xl font-bold">Célébrations</p>
-        </div>
+            <p className="text-sm sm:text-xl font-bold">Célébrations</p>
+          </div>
         </Link>
         <div className="lg:flex lg:flex-1 lg:justify-end">
-          <DatePickerDemo/>
+          <DatePickerDemo />
         </div>
       </nav>
     </header>
-  )
+  );
 }

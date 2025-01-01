@@ -1,9 +1,12 @@
 import Link from "next/link";
+import Image from "next/image";
 
 const extractMetaTags = async (url: string) => {
   try {
     // Call your API endpoint that handles metadata extraction
-    const response = await fetch(`/api/get-metadata?url=${encodeURIComponent(url)}`);
+    const response = await fetch(
+      `/api/get-metadata?url=${encodeURIComponent(url)}`
+    );
     const data = await response.json();
     return data;
   } catch (error) {
@@ -13,7 +16,7 @@ const extractMetaTags = async (url: string) => {
 };
 
 async function LinkPreview({ url }: { url: string }) {
-   //here calling the function
+  //here calling the function
   const data = await extractMetaTags(url);
 
   console.log(data);
@@ -31,8 +34,10 @@ async function LinkPreview({ url }: { url: string }) {
       }}
     >
       <div className="object-cover h-full">
-        <img
+        <Image
           src={data.image}
+          width={340}
+          height={200}
           alt="Link Preview"
           className="object-cover h-full w-[340px] m-0"
         />

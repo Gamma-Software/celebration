@@ -1,9 +1,7 @@
-import { NextResponse, NextRequest } from "next/server";
+import { NextResponse } from "next/server";
 
 export async function POST(request: Request) {
   console.log(process.env.LOOPS_API_KEY);
-  const { searchParams } = new URL(request.url);
-  const url = searchParams.get("url");
 
   if (request.method !== "POST") {
     return NextResponse.json(
@@ -19,7 +17,6 @@ export async function POST(request: Request) {
   const { email, source } = body;
 
   try {
-
     const [loopsResponse] = await Promise.all([
       fetch("https://app.loops.so/api/v1/contacts/create", {
         method: "POST",
@@ -35,9 +32,7 @@ export async function POST(request: Request) {
       }),
     ]);
 
-    if (
-      (loopsResponse.status === 200 || loopsResponse.status === 409)
-    ) {
+    if (loopsResponse.status === 200 || loopsResponse.status === 409) {
       return NextResponse.json({ status: "OK" });
     } else {
       console.error("Loops", JSON.stringify(loopsResponse));
@@ -49,13 +44,13 @@ export async function POST(request: Request) {
         }
       );
     }
-  } catch (error: any) {
+  } catch (error: unknown) {
     console.error(error);
     return NextResponse.json(
       {},
       {
         status: 500,
-        statusText: error.message ?? "Internal Server Error",
+        statusText: "Internal Server Error",
       }
     );
   }

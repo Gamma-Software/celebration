@@ -40,6 +40,7 @@ export async function GET(request: Request) {
         metaTags.image || metaTags["og:image"] || metaTags["twitter:image"],
     });
   } catch (error) {
+    console.error(error);
     return NextResponse.json(
       { error: "Failed to fetch metadata" },
       { status: 500 }

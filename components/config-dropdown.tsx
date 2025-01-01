@@ -1,14 +1,10 @@
-"use client"
+"use client";
 
-import { BookOpen, CircleHelp, MonitorCog, Moon, Newspaper, Sun } from "lucide-react";
-import {
-  MessageSquare,
-  UserPlus,
-  Cog,
-} from "lucide-react"
-import { useTheme } from "next-themes"
+import { CircleHelp, MonitorCog, Moon, Newspaper, Sun } from "lucide-react";
+import { MessageSquare, UserPlus, Cog } from "lucide-react";
+import { useTheme } from "next-themes";
 
-import { Button } from "@/components/ui/button"
+import { Button } from "@/components/ui/button";
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -17,33 +13,37 @@ import {
   DropdownMenuLabel,
   DropdownMenuPortal,
   DropdownMenuSeparator,
-  DropdownMenuShortcut,
   DropdownMenuSub,
   DropdownMenuSubContent,
   DropdownMenuSubTrigger,
   DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu"
-import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
-import { Label } from "@/components/ui/label"
-import { Input } from "@/components/ui/input"
-import { Newsletter } from "@/components/newsletter"
+} from "@/components/ui/dropdown-menu";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
+import { Newsletter } from "@/components/newsletter";
 import { DialogClose } from "@radix-ui/react-dialog";
 
 export function ConfigDropdown() {
-  const { setTheme } = useTheme()
+  const { setTheme } = useTheme();
 
   return (
     <Dialog>
-    <DropdownMenu>
-      <DropdownMenuTrigger asChild>
-        <Button variant="outline" size="icon">
-            <Cog className="w-4 h-4"/>
+      <DropdownMenu>
+        <DropdownMenuTrigger asChild>
+          <Button variant="outline" size="icon">
+            <Cog className="w-4 h-4" />
             <span className="sr-only">Configuration</span>
-        </Button>
-      </DropdownMenuTrigger>
-      <DropdownMenuContent className="w-56">
-        <DropdownMenuLabel>Configuration</DropdownMenuLabel>
-        <DropdownMenuSub>
+          </Button>
+        </DropdownMenuTrigger>
+        <DropdownMenuContent className="w-56">
+          <DropdownMenuLabel>Configuration</DropdownMenuLabel>
+          <DropdownMenuSub>
             <DropdownMenuSubTrigger>
               <UserPlus />
               <span>Themes</span>
@@ -78,47 +78,54 @@ export function ConfigDropdown() {
               </DropdownMenuSubContent>
             </DropdownMenuPortal>
           </DropdownMenuSub>
-        <DropdownMenuSeparator />
-        <DropdownMenuLabel>Autre</DropdownMenuLabel>
-        <DropdownMenuGroup>
-          <DropdownMenuItem onClick={() =>{
-            window.location.href = "mailto:valentin.rudloff.perso@gmail.com?subject=faire un retour sur le site célébrations"
-          }}>
-            <MessageSquare />
-            <span>Faire un retour</span>
-          </DropdownMenuItem>
-          <DialogTrigger asChild>
-            <DropdownMenuItem>
-              <Newspaper />
-              <span>S'inscrire à la newsletter</span>
+          <DropdownMenuSeparator />
+          <DropdownMenuLabel>Autre</DropdownMenuLabel>
+          <DropdownMenuGroup>
+            <DropdownMenuItem
+              onClick={() => {
+                window.location.href =
+                  "mailto:valentin.rudloff.perso@gmail.com?subject=faire un retour sur le site célébrations";
+              }}
+            >
+              <MessageSquare />
+              <span>Faire un retour</span>
             </DropdownMenuItem>
-          </DialogTrigger>
+            <DialogTrigger asChild>
+              <DropdownMenuItem>
+                <Newspaper />
+                <span>S&apos;inscrire à la newsletter</span>
+              </DropdownMenuItem>
+            </DialogTrigger>
 
-          {/* <DropdownMenuItem>
+            {/* <DropdownMenuItem>
             <CircleHelp />
             <span>A propos</span>
           </DropdownMenuItem> */}
-          <DropdownMenuItem onClick={() =>{
-            window.location.href = "mailto:valentin.rudloff.perso@gmail.com?subject=Besoin d'aide sur le site célébrations"
-          }}>
-            <CircleHelp />
-            <span>Aide</span>
-          </DropdownMenuItem>
-        </DropdownMenuGroup>
-      </DropdownMenuContent>
-    </DropdownMenu>
-    <DialogContent className="max-w-[425px]">
+            <DropdownMenuItem
+              onClick={() => {
+                window.location.href =
+                  "mailto:valentin.rudloff.perso@gmail.com?subject=Besoin d'aide sur le site célébrations";
+              }}
+            >
+              <CircleHelp />
+              <span>Aide</span>
+            </DropdownMenuItem>
+          </DropdownMenuGroup>
+        </DropdownMenuContent>
+      </DropdownMenu>
+      <DialogContent className="max-w-[425px]">
         <DialogHeader>
-          <DialogTitle>S'inscrire à la newsletter</DialogTitle>
+          <DialogTitle>S&apos;inscrire à la newsletter</DialogTitle>
           <DialogDescription>
-            Vous recevrez un email chaque jour pour savoir quel évenement est à célébrer.
+            Vous recevrez un email chaque jour pour savoir quel évenement est à
+            célébrer.
           </DialogDescription>
         </DialogHeader>
-        <Newsletter source="config-dropdown" className=""/>
+        <Newsletter source="config-dropdown" className="" />
         <DialogClose>
           <Button variant="outline">Fermer</Button>
         </DialogClose>
       </DialogContent>
     </Dialog>
-  )
+  );
 }

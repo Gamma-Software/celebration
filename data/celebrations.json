@@ -5,7 +5,7 @@
     "description": "Célébration mondiale marquant le début de la nouvelle année selon le calendrier grégorien.",
     "origin": "Célébration mondiale",
     "image": "https://images.unsplash.com/photo-1609421141185-8a4f37a5d063?q=80&w=3120&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "image_site": "https://images.unsplash.com",
+    "image_site": "https://unsplash.com",
     "full_description": "Le Jour de l'An est une célébration universelle qui marque le passage à une nouvelle année. Cette tradition remonte à l'Empire romain, lorsque Jules César établit le 1er janvier comme début de l'année en 46 avant J.-C. Dans de nombreuses cultures, cette journée est considérée comme un moment de renouveau, de réflexion et d'espoir. Les festivités commencent généralement la veille au soir, le 31 décembre, avec le réveillon du Nouvel An, et se poursuivent jusqu'aux premières heures du 1er janvier.",
     "good_to_know": "Cette célébration est riche en traditions selon les pays : en Espagne, on mange 12 raisins à minuit pour porter chance; au Japon, on sonne les cloches des temples 108 fois; en France, on s'embrasse sous le gui. Le champagne et les feux d'artifice sont devenus des symboles universels de cette fête. C'est aussi l'occasion de prendre des résolutions pour l'année à venir, une tradition qui remonte aux Babyloniens il y a plus de 4000 ans.",
     "action": "- Écrire une lettre de réflexion sur l'année écoulée\n- Définir 3 objectifs principaux pour l'année à venir\n- Organiser un brunch du Nouvel An avec ses proches\n- Créer une capsule temporelle à ouvrir l'année suivante"
@@ -38,7 +38,7 @@
     "description": "Journée internationale célébrant l'importance du braille pour les personnes aveugles et malvoyantes.",
     "origin": "Initiative mondiale",
     "image": "https://images.unsplash.com/photo-1660839061462-c9c8ceecb33d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "image_site": "https://images.unsplash.com",
+    "image_site": "https://unsplash.com",
     "full_description": "La Journée mondiale du braille est une célébration internationale qui met en lumière l'importance du braille pour les personnes aveugles et malvoyantes. Le braille est un système d'écriture tactile utilisé pour lire et écrire, et il est essentiel pour les personnes qui ont des difficultés visuelles. Cette journée est une opportunité pour sensibiliser le public à l'importance de l'accessibilité pour tous, quelle que soit leur capacité à voir.",
     "good_to_know": "La Journée mondiale du braille est organisée par l'Organisation mondiale de la santé (OMS) et l'Organisation internationale du braille (OIB). Elle vise à promouvoir l'utilisation du braille dans le monde entier, à encourager la création de ressources pour les personnes aveugles et malvoyantes, et à sensibiliser le public à l'importance de l'accessibilité pour tous.",
     "action": "- Participer à une activité de sensibilisation au braille\n- Faire un don à une organisation caritative qui aide les personnes aveugles et malvoyantes\n- Lire un livre en braille ou en l'écrire en braille\n- Organiser une conférence ou une discussion sur l'importance du braille dans la communauté"
@@ -60,12 +60,12 @@
     "description": "Fête chrétienne célébrant la visite des Rois mages à l'Enfant Jésus.",
     "origin": "Christianisme (Catholicisme et Orthodoxie)",
     "image": "https://images.unsplash.com/photo-1547675999-f71c79b90fb6?q=80&w=3088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "image_site": "https://images.unsplash.com",
+    "image_site": "https://unsplash.com",
     "full_description": "L'Épiphanie est une célébration chrétienne qui marque la visite des rois mages, Melchior, Balthazar et Gaspard, à l'Enfant Jésus à Bethléem. Cette fête est également connue comme le jour où Jésus a été révélé comme le Messie. Elle est célébrée avec des processions, des messes spéciales, et des repas festifs, comme la galette des rois dans certains pays.",
     "good_to_know": "Dans de nombreux pays, l'Épiphanie est aussi appelée la Fête des Rois et marque la fin des célébrations de Noël. Les traditions varient, mais incluent souvent des échanges de cadeaux, des chants religieux, et des mets spécifiques comme la galette des rois en France.",
     "action": "- Participer à une messe ou une procession dédiée à l'Épiphanie.\n- Organiser une dégustation de galette des rois avec des amis ou en famille.\n- Lire ou partager les récits bibliques relatifs à la visite des rois mages.\n- Décorer votre maison avec des symboles liés aux rois mages."
-},
-"0107": {
+  },
+  "0107": {
     "date": "7 janvier",
     "name": "Noël orthodoxe",
     "description": "Célébration de la naissance de Jésus-Christ selon le calendrier julien",
@@ -78,57 +78,57 @@
   },
   "0108": {
     "date": "8 janvier",
-      "name": "Fête de la République (Bosnie-Herzégovine)",
-      "description": "Commémoration de la déclaration de la République en 1992.",
-      "origin": "Histoire de la Bosnie-Herzégovine",
-      "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1709246934090-ZFPKU2XSD6JQDTPWT3A5/Sans+titre+7.png",
-      "full_description": "La Fête de la République en Bosnie-Herzégovine marque un moment clé de l'histoire du pays, lorsque la République a été déclarée en 1992, avant la guerre d'indépendance. Elle symbolise la souveraineté et l'unité nationale.",
-      "good_to_know": "Cette journée est controversée dans certaines parties du pays en raison des sensibilités politiques et historiques. Elle est principalement célébrée dans la République serbe de Bosnie.",
-      "action": "- Assister à des événements culturels et commémoratifs.\n- Découvrir les musées retraçant l'histoire récente de la Bosnie-Herzégovine.\n- Participer à des discussions ou conférences sur le thème de l'indépendance et de la paix."
+    "name": "Fête de la République (Bosnie-Herzégovine)",
+    "description": "Commémoration de la déclaration de la République en 1992.",
+    "origin": "Histoire de la Bosnie-Herzégovine",
+    "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1709246934090-ZFPKU2XSD6JQDTPWT3A5/Sans+titre+7.png",
+    "full_description": "La Fête de la République en Bosnie-Herzégovine marque un moment clé de l'histoire du pays, lorsque la République a été déclarée en 1992, avant la guerre d'indépendance. Elle symbolise la souveraineté et l'unité nationale.",
+    "good_to_know": "Cette journée est controversée dans certaines parties du pays en raison des sensibilités politiques et historiques. Elle est principalement célébrée dans la République serbe de Bosnie.",
+    "action": "- Assister à des événements culturels et commémoratifs.\n- Découvrir les musées retraçant l'histoire récente de la Bosnie-Herzégovine.\n- Participer à des discussions ou conférences sur le thème de l'indépendance et de la paix."
   },
   "0109": {
-      "date": "9 janvier",
-      "name": "Journée des Martyrs (Panama)",
-      "description": "Jour honorant les Panaméens morts lors des émeutes de 1964 pour la souveraineté du canal de Panama.",
-      "origin": "Panama",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Monumento_a_los_M%C3%A1rtires_-_Flickr_-_GaryAmberths.jpg/556px-Monumento_a_los_M%C3%A1rtires_-_Flickr_-_GaryAmberths.jpg",
-      "image_site": "https://fr.wikipedia.org/wiki/Jour_des_martyrs_(Panama)",
-      "full_description": "La Journée des Martyrs commémore les événements tragiques du 9 janvier 1964, lorsque des émeutes ont éclaté entre des manifestants panaméens et des forces américaines à propos du contrôle du canal de Panama. Cette journée honore les victimes et symbolise la lutte pour la souveraineté nationale.",
-      "good_to_know": "Des cérémonies officielles ont lieu dans tout le pays, notamment au Monument des Martyrs à Panama City.",
-      "action": "- Assister aux cérémonies de commémoration.\n- Visiter le canal de Panama pour mieux comprendre son histoire.\n- Participer à des événements éducatifs ou culturels liés au thème de la souveraineté."
+    "date": "9 janvier",
+    "name": "Journée des Martyrs (Panama)",
+    "description": "Jour honorant les Panaméens morts lors des émeutes de 1964 pour la souveraineté du canal de Panama.",
+    "origin": "Panama",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Monumento_a_los_M%C3%A1rtires_-_Flickr_-_GaryAmberths.jpg/556px-Monumento_a_los_M%C3%A1rtires_-_Flickr_-_GaryAmberths.jpg",
+    "image_site": "https://fr.wikipedia.org/wiki/Jour_des_martyrs_(Panama)",
+    "full_description": "La Journée des Martyrs commémore les événements tragiques du 9 janvier 1964, lorsque des émeutes ont éclaté entre des manifestants panaméens et des forces américaines à propos du contrôle du canal de Panama. Cette journée honore les victimes et symbolise la lutte pour la souveraineté nationale.",
+    "good_to_know": "Des cérémonies officielles ont lieu dans tout le pays, notamment au Monument des Martyrs à Panama City.",
+    "action": "- Assister aux cérémonies de commémoration.\n- Visiter le canal de Panama pour mieux comprendre son histoire.\n- Participer à des événements éducatifs ou culturels liés au thème de la souveraineté."
   },
   "0110": {
-      "date": "10 janvier",
-      "name": "Sebastian's Day",
-      "description": "Fête traditionnelle aux Açores",
-      "origin": "au Portugal",
-      "image": "https://images.rove.me/w_1920,q_85/ux95ja63xppfleaaipzi/rio-de-janeiro-st-sebastians-day.jpg",
-      "image_site": "https://images.rove.me/w_1920,q_85/ux95ja63xppfleaaipzi/rio-de-janeiro-st-sebastians-day.jpg",
-      "full_description": "Sebastian's Day est une fête religieuse célébrée dans les Açores, au Portugal. Elle est dédiée à Saint Sébastien, le saint patron de plusieurs villes, et est marquée par des processions, des messes et des festivités locales.",
-      "good_to_know": "La fête de Saint Sébastien est souvent accompagnée de musique traditionnelle et de plats typiques des Açores.",
-      "action": "- Assister à une procession religieuse.\n- Découvrir la musique et la danse traditionnelles des Açores.\n- Déguster des plats locaux, comme le cozido das Furnas."
+    "date": "10 janvier",
+    "name": "Sebastian's Day",
+    "description": "Fête traditionnelle aux Açores",
+    "origin": "au Portugal",
+    "image": "https://images.rove.me/w_1920,q_85/ux95ja63xppfleaaipzi/rio-de-janeiro-st-sebastians-day.jpg",
+    "image_site": "https://images.rove.me/w_1920,q_85/ux95ja63xppfleaaipzi/rio-de-janeiro-st-sebastians-day.jpg",
+    "full_description": "Sebastian's Day est une fête religieuse célébrée dans les Açores, au Portugal. Elle est dédiée à Saint Sébastien, le saint patron de plusieurs villes, et est marquée par des processions, des messes et des festivités locales.",
+    "good_to_know": "La fête de Saint Sébastien est souvent accompagnée de musique traditionnelle et de plats typiques des Açores.",
+    "action": "- Assister à une procession religieuse.\n- Découvrir la musique et la danse traditionnelles des Açores.\n- Déguster des plats locaux, comme le cozido das Furnas."
   },
   "0111": {
-      "date": "11 janvier",
-      "name": "Journée internationale du merci",
-      "description": "Journée dédiée à l'expression de la gratitude et de la reconnaissance.",
-      "origin": "Initiative mondiale",
-      "image": "https://images.unsplash.com/photo-1503980599186-9cc36eda351a?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "image_site": "https://images.unsplash.com",
-      "full_description": "La Journée internationale du merci est une célébration mondiale qui encourage chacun à exprimer sa gratitude envers les autres. Elle rappelle l'importance des mots simples, mais puissants, comme 'merci'.",
-      "good_to_know": "Un simple 'merci' peut renforcer les liens sociaux et contribuer au bien-être personnel et collectif.",
-      "action": "- Envoyer des messages de gratitude à vos proches.\n- Écrire une lettre de remerciement à quelqu'un qui a marqué votre vie.\n- Participer à des campagnes de sensibilisation sur l'importance de la gratitude."
+    "date": "11 janvier",
+    "name": "Journée internationale du merci",
+    "description": "Journée dédiée à l'expression de la gratitude et de la reconnaissance.",
+    "origin": "Initiative mondiale",
+    "image": "https://images.unsplash.com/photo-1503980599186-9cc36eda351a?q=80&w=1800&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image_site": "https://unsplash.com",
+    "full_description": "La Journée internationale du merci est une célébration mondiale qui encourage chacun à exprimer sa gratitude envers les autres. Elle rappelle l'importance des mots simples, mais puissants, comme 'merci'.",
+    "good_to_know": "Un simple 'merci' peut renforcer les liens sociaux et contribuer au bien-être personnel et collectif.",
+    "action": "- Envoyer des messages de gratitude à vos proches.\n- Écrire une lettre de remerciement à quelqu'un qui a marqué votre vie.\n- Participer à des campagnes de sensibilisation sur l'importance de la gratitude."
   },
   "0112": {
-      "date": "12 janvier",
-      "name": "Journée de la révolution de Zanzibar",
-      "description": "Jour férié en Tanzanie commémorant la révolution de 1964 à Zanzibar.",
-      "origin": "Histoire de la Tanzanie",
-      "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1610309390270-UWU4EDZNCTU2ABM16W7S/zanzibar+.png",
-      "image_site": "https://www.bibliomonde.fr/lalmanach/2021/1/11/12-janvier-zanzibar-clbre-une-rvolution-politique-et-culturelle-qui-sest-droule-dans-le-sang",
-      "full_description": "Le Zanzibar Revolution Day commémore la révolution qui a renversé le sultanat en 1964, établissant un régime républicain à Zanzibar. Cette journée célèbre la liberté et l'indépendance des habitants de l'île.",
-      "good_to_know": "Des défilés, concerts et feux d'artifice ont lieu à Zanzibar pour marquer cette journée historique.",
-      "action": "- Assister aux festivités locales.\n- Explorer les sites historiques liés à la révolution.\n- En apprendre davantage sur l'histoire de Zanzibar."
+    "date": "12 janvier",
+    "name": "Journée de la révolution de Zanzibar",
+    "description": "Jour férié en Tanzanie commémorant la révolution de 1964 à Zanzibar.",
+    "origin": "Histoire de la Tanzanie",
+    "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1610309390270-UWU4EDZNCTU2ABM16W7S/zanzibar+.png",
+    "image_site": "https://www.bibliomonde.fr/lalmanach/2021/1/11/12-janvier-zanzibar-clbre-une-rvolution-politique-et-culturelle-qui-sest-droule-dans-le-sang",
+    "full_description": "Le Zanzibar Revolution Day commémore la révolution qui a renversé le sultanat en 1964, établissant un régime républicain à Zanzibar. Cette journée célèbre la liberté et l'indépendance des habitants de l'île.",
+    "good_to_know": "Des défilés, concerts et feux d'artifice ont lieu à Zanzibar pour marquer cette journée historique.",
+    "action": "- Assister aux festivités locales.\n- Explorer les sites historiques liés à la révolution.\n- En apprendre davantage sur l'histoire de Zanzibar."
   },
   "0113": {
     "date": "13 janvier",
@@ -333,10 +333,10 @@
     "name": "Imbolc",
     "description": "Fête celtique marquant le début du printemps, célébrée par les adeptes du néo-paganisme",
     "origin": "Culture celtique/néo-paganisme",
-    "image": "https://images.unsplash.com/photo-1551582045-6ec9c11d8697",
+    "image": "https://sortdecire.com/cdn/shop/files/belles-fleurs-perce-neige-dans-neige-premier-printemps-flowersgenerative-ai.jpg?v=1703271694&width=3200",
     "full_description": "Imbolc est l'une des quatre principales fêtes celtiques, marquant le point médian entre le solstice d'hiver et l'équinoxe de printemps. Traditionnellement associée à la déesse Brigid, elle célèbre les premiers signes du printemps et le retour de la lumière. Cette fête est particulièrement liée à la purification, au renouveau et à la créativité.",
     "good_to_know": "Imbolc est souvent célébrée avec des rituels impliquant des bougies pour symboliser le retour de la lumière. La tradition veut qu'on nettoie et purifie sa maison à cette période. Les premiers perce-neige sont considérés comme des messagers d'Imbolc. Cette fête a influencé la Chandeleur chrétienne.",
-    "action": "- Allumer des bougies blanches pour la purification\n- Faire un grand nettoyage de printemps\n- Planter des graines précoces\n- Créer une croix de Brigid traditionnelle\n- Méditer sur ses projets pour l'année à venir"
+    "action": "- Allumer des bougies blanches pour la purification\n- Faire un grand nettoyage de la maison\n- Planter des graines précoces\n- Créer une croix de Brigid traditionnelle\n- Méditer sur ses projets pour l'année à venir"
   },
   "0202": {
     "date": "2 février",
@@ -353,7 +353,8 @@
     "name": "Setsubun",
     "description": "Festival japonais marquant la fin de l'hiver et le début du printemps, avec des rituels pour chasser les mauvais esprits",
     "origin": "Culture japonaise",
-    "image": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d",
+    "image": "https://japaniste.fr/wp-content/uploads/2021/02/japaniste_setsubun_matsuri_japon-1024x585.png",
+    "image_site": "https://japaniste.fr/la-fete-du-setsubun-debut-du-printemps/",
     "full_description": "Setsubun (節分) signifie littéralement 'séparation des saisons'. Ce festival traditionnel japonais marque la veille du premier jour du printemps selon l'ancien calendrier lunaire. Le rituel le plus connu est le Mamemaki, qui consiste à jeter des haricots de soja en criant 'Oni wa soto, fuku wa uchi' (Les démons dehors, le bonheur dedans) pour chasser les mauvais esprits.",
     "good_to_know": "Dans les temples et les maisons, on lance des haricots grillés vers une personne portant un masque d'oni (démon). Une autre tradition consiste à manger un long sushi roll (ehōmaki) en silence, face à la direction porte-bonheur de l'année. Le nombre de haricots qu'on mange traditionnellement correspond à son âge plus un.",
     "action": "- Participer à un rituel de Mamemaki\n- Préparer et manger un ehōmaki\n- Décorer sa maison avec des branches de houx et des têtes de sardine\n- Apprendre sur la mythologie japonaise\n- Visiter un temple japonais local"
@@ -373,7 +374,8 @@
     "name": "Fête de Sainte Agathe",
     "description": "Célébration chrétienne en l'honneur de Sainte Agathe, martyre sicilienne du IIIe siècle",
     "origin": "Christianisme",
-    "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1709246934090-ZFPKU2XSD6JQDTPWT3A5/Sans+titre+7.png",
+    "image": "https://www.lavoixdelain.fr/wp-content/uploads/2024/02/Sainte-Agathe-par-Zurbaran.jpg",
+    "image_site": "https://www.lavoixdelain.fr/pourquoi-les-dames-fetent-la-sainte-agathe/",
     "full_description": "Sainte Agathe de Catane, vierge et martyre du IIIe siècle, est l'une des saintes les plus vénérées de la chrétienté. Selon la tradition, elle refusa les avances du gouverneur romain Quintianus et subit d'atroces tortures, dont l'amputation des seins. Elle est devenue la patronne des nourrices, des fondeurs de cloches et est invoquée contre les maladies du sein et les incendies.",
     "good_to_know": "En Sicile, particulièrement à Catane, sa fête donne lieu à l'une des plus grandes processions religieuses au monde. Une tradition particulière consiste à bénir des petits pains en forme de seins, appelés 'minne di Sant'Agata'. Elle est souvent représentée portant ses seins sur un plateau.",
     "action": "- Visiter une église dédiée à Sainte Agathe\n- Découvrir les traditions siciliennes\n- Participer à une procession si possible\n- Préparer des pains traditionnels\n- En apprendre plus sur l'histoire des martyrs chrétiens"
@@ -383,7 +385,8 @@
     "name": "Waitangi Day",
     "description": "Fête nationale en Nouvelle-Zélande commémorant la signature du traité de Waitangi en 1840",
     "origin": "Culture néo-zélandaise",
-    "image": "https://images.unsplash.com/photo-1589802829985-817e51171b92",
+    "image": "https://live-production.wcms.abc-cdn.net.au/362c08a30ebf1b9cce0df9bcf147aa66?impolicy=wcms_crop_resize&cropH=576&cropW=1024&xPos=0&yPos=35&width=862&height=485",
+    "image_site": "https://www.abc.net.au/news/2018-01-25/waitangi-day-very-different-to-australia-day/9357580",
     "full_description": "Le Waitangi Day commémore la signature du Traité de Waitangi en 1840, document fondateur de la Nouvelle-Zélande moderne, établissant une relation entre la Couronne britannique et les Maoris. Cette journée est l'occasion de réfléchir sur l'histoire du pays, ses défis et ses succès en tant que nation biculturelle, et de célébrer la diversité culturelle.",
     "good_to_know": "Les célébrations principales ont lieu à Waitangi, lieu historique de la signature du traité. La journée commence traditionnellement par une cérémonie de lever du drapeau et des discours officiels. Des festivals culturels, des concerts et des cérémonies traditionnelles maories (powhiri) sont organisés dans tout le pays.",
     "action": "- Apprendre quelques mots en langue maorie\n- Découvrir l'histoire du Traité de Waitangi\n- Participer à des célébrations culturelles\n- Cuisiner des plats traditionnels néo-zélandais\n- Explorer la culture maorie"
@@ -393,27 +396,30 @@
     "name": "Indépendance de Grenade",
     "description": "Jour férié célébrant l'indépendance de Grenade obtenue en 1974",
     "origin": "Culture grenadienne",
-    "image": "https://images.unsplash.com/photo-1584551882400-a54c5c0c9648",
+    "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1612639126184-QFMTUKAPEZQKUFJEOA2P/grenade.png",
+    "image_site": "https://www.bibliomonde.fr/lalmanach/indpendance-de-la-grenade-1974",
     "full_description": "Le 7 février 1974, Grenade obtient son indépendance du Royaume-Uni, devenant une nation souveraine. Cette petite île des Caraïbes, surnommée 'l'île aux épices' pour sa production de muscade et autres épices, célèbre cette journée avec fierté. L'indépendance marque la fin de plus de 200 ans de domination coloniale britannique.",
     "good_to_know": "Les célébrations incluent des parades militaires, des festivals culturels et des événements sportifs. Le drapeau national de Grenade, avec ses sept étoiles d'or représentant les sept districts administratifs, est particulièrement mis à l'honneur. La muscade, principale exportation du pays, est représentée sur le drapeau national.",
     "action": "- Découvrir la cuisine créole grenadienne\n- Apprendre l'histoire de Grenade\n- Cuisiner avec des épices de Grenade\n- Écouter de la musique calypso\n- Explorer la culture caribéenne"
   },
   "0208": {
     "date": "8 février",
-    "name": "Parinirvana (Nirvana Day)",
+    "name": "Parinirvana (journée de Nirvana)",
     "description": "Fête bouddhiste commémorant le décès et l'entrée dans le Nirvana du Bouddha",
     "origin": "Bouddhisme",
-    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2",
+    "image": "https://buddhism.net/wp-content/uploads/2023/09/1501A3-urna.1.jpg",
+    "image_site": "https://buddhism.net/posts/buddhism-net-blog/this-week-in-buddhism-shakyamuni-buddha-parinirvana-day/",
     "full_description": "Le Parinirvana, ou Jour du Nirvana, commémore le moment où le Bouddha Shakyamuni a atteint le Nirvana final (parinirvana) à sa mort physique. Cette journée est l'occasion de réfléchir sur l'impermanence de la vie et les enseignements du Bouddha sur la libération de la souffrance. Dans la tradition Mahayana, c'est l'une des fêtes les plus importantes.",
     "good_to_know": "Dans les temples, on récite des sutras et on fait des offrandes. Certains pratiquants jeûnent ou méditent plus longuement ce jour-là. La statue du Bouddha allongé, représentant son parinirvana, est particulièrement vénérée. C'est aussi l'occasion de rendre visite aux malades et aux mourants.",
-    "action": "- Méditer sur l'impermanence\n- Visiter un temple bouddhiste\n- Étudier les enseignements du Bouddha\n- Pratiquer la compassion active\n- Faire des offrandes au temple"
+    "action": "- Méditer sur l'impermanence\n- Étudier les enseignements du Bouddha\n- Pratiquer la compassion active"
   },
   "0209": {
     "date": "9 février",
     "name": "Fête de Saint Maron",
     "description": "Célébration en l'honneur de Saint Maron, fondateur de l'Église maronite",
     "origin": "Christianisme maronite",
-    "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1709246934090-ZFPKU2XSD6JQDTPWT3A5/Sans+titre+7.png",
+    "image": "https://seletlumieretv.org/blogue/wp-content/san-maron-de-libano-960x540-1.jpg",
+    "image_site": "https://slmedia.org/fr/blogue/du-liban-au-monde-les-maronites-au-dela-des-frontieres",
     "full_description": "Saint Maron était un prêtre et ermite syrien du IVe siècle qui a fondé la communauté chrétienne qui deviendra l'Église maronite. Vivant une vie d'ascétisme sur une montagne, il attirait de nombreux disciples par sa sainteté et ses miracles. Son héritage spirituel est particulièrement important au Liban, où l'Église maronite reste une institution majeure.",
     "good_to_know": "L'Église maronite est la seule Église orientale entièrement unie avec Rome tout en conservant son propre rite. Cette fête est un jour férié au Liban. Les célébrations incluent des liturgies spéciales, des processions et des festivités communautaires. La spiritualité maronite met l'accent sur la vie monastique et contemplative.",
     "action": "- Assister à une liturgie maronite\n- Découvrir la culture libanaise\n- Étudier l'histoire de l'Église maronite\n- Préparer des plats libanais traditionnels\n- Explorer la spiritualité orientale"
@@ -423,7 +429,8 @@
     "name": "Fête de Sainte Scholastique",
     "description": "Célébration chrétienne en l'honneur de Sainte Scholastique, sœur de Saint Benoît",
     "origin": "Christianisme",
-    "image": "https://images.squarespace-cdn.com/content/v1/5bae918e704680563c7811b9/1709246934090-ZFPKU2XSD6JQDTPWT3A5/Sans+titre+7.png",
+    "image": "https://www.reflexionchretienne.com/medias/images/ste-scholastique-de-tail-ii.11.jpg?fx=r_655_854",
+    "image_site": "https://www.reflexionchretienne.com/pages/vie-des-saints/fevrier/sainte-scholastique-moniale-s-ur-de-saint-benoit-480-543-fete-le-10-fevrier.html",
     "full_description": "Sainte Scholastique (480-543), sœur jumelle de Saint Benoît de Nursie, est la fondatrice de la branche féminine de l'ordre bénédictin. La tradition raconte qu'elle rencontrait son frère une fois par an pour des discussions spirituelles. Lors de leur dernière rencontre, elle pria pour que la pluie empêche son frère de partir, obtenant ainsi plus de temps pour leurs échanges spirituels.",
     "good_to_know": "Elle est la patronne des religieuses bénédictines et est souvent invoquée contre les orages et la pluie. Dans l'art, elle est représentée en habit monastique noir, parfois avec une colombe (symbole de son âme montant au ciel à sa mort). Les monastères bénédictins célèbrent particulièrement sa fête.",
     "action": "- Visiter un monastère bénédictin\n- Étudier la Règle de Saint Benoît\n- Pratiquer le silence et la contemplation\n- Découvrir l'histoire du monachisme féminin\n- Participer à une retraite spirituelle"
@@ -443,7 +450,8 @@
     "name": "Lincoln's Birthday",
     "description": "Jour honorant la naissance d'Abraham Lincoln, 16e président des États-Unis",
     "origin": "Culture américaine",
-    "image": "https://images.unsplash.com/photo-1535534707159-3c5eca9e191a",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/640px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "image_site": "https://fr.wikipedia.org/wiki/Abraham_Lincoln",
     "full_description": "Abraham Lincoln (1809-1865), 16e président des États-Unis, est célébré pour avoir dirigé le pays pendant la Guerre de Sécession et pour avoir aboli l'esclavage. Né dans une cabane en rondins dans le Kentucky, son parcours exemplaire d'autodidacte devenu président symbolise le rêve américain. Son leadership pendant la guerre civile et son assassinat en ont fait une figure quasi mythique de l'histoire américaine.",
     "good_to_know": "Bien que le Presidents' Day soit maintenant la célébration officielle, certains États continuent de commémorer spécifiquement l'anniversaire de Lincoln. Son portrait orne le billet de 5 dollars et le penny américain. Le Lincoln Memorial à Washington D.C. est l'un des monuments les plus visités du pays.",
     "action": "- Visiter un site historique lié à Lincoln\n- Lire le discours de Gettysburg\n- Étudier l'histoire de la Guerre de Sécession\n- Regarder un documentaire sur Lincoln\n- Participer à des événements commémoratifs"
@@ -453,7 +461,8 @@
     "name": "Maha Shivaratri",
     "description": "Fête hindoue dédiée au dieu Shiva, marquée par des veillées et des prières nocturnes",
     "origin": "Hindouisme",
-    "image": "https://images.unsplash.com/photo-1567593810070-7a3d471af022",
+    "image": "https://www.vedantu.com/seo/content-images/3e84969c-ecf2-4262-90bc-9bae779d8e9f.jpg",
+    "image_site": "https://www.vedantu.com/blog/5-things-to-know-about-maha-shivaratri",
     "full_description": "Maha Shivaratri ('La Grande Nuit de Shiva') est l'une des plus importantes fêtes hindoues, célébrant le dieu Shiva. Selon la tradition, c'est durant cette nuit que Shiva a exécuté la danse cosmique de la création, la Tandava. Les fidèles observent un jeûne strict et restent éveillés toute la nuit, pratiquant la méditation et la prière.",
     "good_to_know": "La célébration implique quatre veilles nocturnes, chacune avec des rituels spécifiques. Les temples de Shiva sont décorés et illuminés, et le lingam (symbole de Shiva) est baigné de lait, de miel et d'eau. Les dévots chantent 'Om Namah Shivaya' et pratiquent le yoga. Cette nuit est considérée comme particulièrement propice à l'éveil spirituel.",
     "action": "- Participer à une veillée dans un temple\n- Pratiquer la méditation\n- Étudier la symbolique de Shiva\n- Découvrir les chants dévotionnels\n- Explorer les traditions du yoga"
@@ -470,13 +479,13 @@
   },
   "0215": {
     "date": "15 février",
-    "name": "Parinirvana (Nirvana Day)",
-    "description": "Fête bouddhiste commémorant le décès et l'entrée dans le Nirvana du Bouddha",
-    "origin": "Bouddhisme",
-    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2",
-    "full_description": "Cette seconde célébration du Parinirvana (certaines traditions la célébrant à cette date plutôt qu'au 8 février) commémore le moment où le Bouddha a atteint le Nirvana final. C'est un moment de réflexion profonde sur l'impermanence et les enseignements du Bouddha sur la libération de la souffrance.",
-    "good_to_know": "Dans certains pays bouddhistes, cette journée est marquée par des visites aux temples, des offrandes de nourriture aux moines, et la lecture de textes sacrés. Les pratiquants méditent sur la nature de l'existence et de la mort. C'est aussi l'occasion de pratiquer la générosité et la compassion envers tous les êtres.",
-    "action": "- Pratiquer la méditation sur l'impermanence\n- Faire des offrandes au temple\n- Étudier les enseignements du Bouddha\n- Participer à une cérémonie bouddhiste\n- Réfléchir sur le sens de la vie"
+    "name": "Journée internationale du cancer de l'enfant",
+    "description": "Fête commémorant les enfants atteints de cancer",
+    "origin": "Société civile",
+    "image": "https://images.unsplash.com/photo-1578496781379-7dcfb995293d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "full_description": "La Journée internationale du cancer de l'enfant sensibilise aux défis uniques auxquels font face les enfants atteints de cancer et leurs familles. Créée en 2002, cette journée met en lumière l'importance du diagnostic précoce, de l'accès aux traitements et du soutien psychosocial. Elle honore aussi la résilience des jeunes patients et le dévouement des soignants.",
+    "good_to_know": "Le ruban doré est le symbole international du cancer pédiatrique. Dans le monde, environ 400 000 enfants développent un cancer chaque année. Les taux de guérison varient considérablement selon les pays et l'accès aux soins. Cette journée est l'occasion de soutenir la recherche et d'améliorer les conditions de traitement des enfants.",
+    "action": "- Soutenir une association d'aide aux enfants malades comme [Les Petits Princes](www.petitsprinces.com), [Magie à l'hopital](www.magie-hopital.com) ou encore [Petit coeur de beurre](www.petitcoeurdebeurre.fr)\n- Participer à une collecte de fonds\n- Sensibiliser aux signes précoces du cancer\n- Offrir du temps aux enfants hospitalisés\n- Soutenir les familles touchées"
   },
   "0216": {
     "date": "16 février",
