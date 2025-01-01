@@ -1,0 +1,15 @@
+version: "3.3"
+
+services:
+  celebration:
+    container_name: celebration
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    networks:
+      - frontend
+
+networks:
+  frontend:
+    external: true
