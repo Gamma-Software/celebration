@@ -18,7 +18,6 @@ function ImageWithFallback({
   alt,
   width,
   height,
-  objectFit,
   className,
   fallBackSrc = fallback.src,
 }: {
@@ -26,7 +25,6 @@ function ImageWithFallback({
   alt: string;
   width: number;
   height: number;
-  objectFit: string;
   className: string;
   fallBackSrc: string;
 }) {
@@ -38,7 +36,6 @@ function ImageWithFallback({
         alt={alt}
         width={width}
         height={height}
-        objectFit={objectFit}
         className={className}
         onError={() => setImageError(true)}
       />
@@ -106,8 +103,7 @@ export default function CelebrationSection({ data }: { data: Celebration }) {
               alt={data.name}
               width={1000}
               height={1000}
-              objectFit="cover"
-              className="w-[48rem] max-w-none max-h-[calc(70vh)] object-cover rounded-xl bg-gray-900 ring-1 shadow-xl ring-gray-400/10 sm:w-[57rem] cursor-pointer hover:opacity-90 transition-opacity"
+              className="w-[48rem] max-w-none max-h-[calc(70vh)] rounded-xl bg-gray-900 ring-1 shadow-xl ring-gray-400/10 sm:w-[57rem] cursor-pointer hover:opacity-90 transition-opacity object-cover"
               fallBackSrc={fallback.src}
             />
           </a>
